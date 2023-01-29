@@ -6,7 +6,8 @@
 		"lat": 35.310357,
 		"lng": 139.142707,
 		"rating": 3.5,
-		"color": 348
+		"color": 348,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -15,7 +16,8 @@
 		"lat": 35.374168,
 		"lng": 139.18451,
 		"rating": 3.5,
-		"color": 348
+		"color": 348,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -24,7 +26,8 @@
 		"lat": 35.373151,
 		"lng": 139.271236,
 		"rating": 4.2,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -33,7 +36,8 @@
 		"lat": 35.62443,
 		"lng": 139.400299,
 		"rating": 4.3,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -42,7 +46,8 @@
 		"lat": 35.370175,
 		"lng": 139.225868,
 		"rating": 4.3,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -51,7 +56,8 @@
 		"lat": 35.6140699,
 		"lng": 139.3797737,
 		"rating": 4.3,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -60,7 +66,8 @@
 		"lat": 35.6428043,
 		"lng": 139.3660475,
 		"rating": 4.35,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -69,7 +76,8 @@
 		"lat": 35.381131,
 		"lng": 139.277813,
 		"rating": 4.4,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -78,7 +86,8 @@
 		"lat": 35.601904,
 		"lng": 139.367303,
 		"rating": 4.5,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -87,7 +96,8 @@
 		"lat": 35.657372,
 		"lng": 139.431351,
 		"rating": 4.5,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -96,7 +106,8 @@
 		"lat": 35.6621387,
 		"lng": 139.4132073,
 		"rating": 4.6,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -105,7 +116,8 @@
 		"lat": 35.64223,
 		"lng": 139.2818,
 		"rating": 4.6,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -114,7 +126,8 @@
 		"lat": 35.271799,
 		"lng": 139.154381,
 		"rating": 4.6,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -123,7 +136,8 @@
 		"lat": 35.6252061189993,
 		"lng": 139.424168863333,
 		"rating": 4.7,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -132,7 +146,8 @@
 		"lat": 35.65079,
 		"lng": 139.446933,
 		"rating": 4.7,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -141,7 +156,8 @@
 		"lat": 35.65462,
 		"lng": 139.391944,
 		"rating": 4.7,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -150,7 +166,8 @@
 		"lat": 35.6473373,
 		"lng": 139.3799404,
 		"rating": 4.7,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -159,7 +176,8 @@
 		"lat": 35.6302365,
 		"lng": 139.4482672,
 		"rating": 4.8,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -168,7 +186,8 @@
 		"lat": 35.5949367199774,
 		"lng": 139.344929996877,
 		"rating": 4.8,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -177,7 +196,8 @@
 		"lat": 35.856936,
 		"lng": 139.413015,
 		"rating": 4.8,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -186,7 +206,8 @@
 		"lat": 35.760471,
 		"lng": 139.46585,
 		"rating": 4.8,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -195,7 +216,8 @@
 		"lat": 35.515134,
 		"lng": 139.422596,
 		"rating": 4.85,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -204,7 +226,8 @@
 		"lat": 35.396033,
 		"lng": 139.313504,
 		"rating": 4.9,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -213,7 +236,8 @@
 		"lat": 35.873993,
 		"lng": 139.433499,
 		"rating": 4.9,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -222,7 +246,8 @@
 		"lat": 35.284922,
 		"lng": 139.152016,
 		"rating": 4.9,
-		"color": 336
+		"color": 336,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -231,7 +256,8 @@
 		"lat": 35.58145,
 		"lng": 139.3707,
 		"rating": 5,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -240,7 +266,8 @@
 		"lat": 35.56876,
 		"lng": 139.3951,
 		"rating": 5,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -249,7 +276,8 @@
 		"lat": 35.57307,
 		"lng": 139.3868,
 		"rating": 5,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -258,7 +286,8 @@
 		"lat": 35.516963,
 		"lng": 139.481467,
 		"rating": 5.1,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -267,7 +296,8 @@
 		"lat": 35.510335,
 		"lng": 139.458029,
 		"rating": 5.1,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -276,7 +306,8 @@
 		"lat": 35.636224,
 		"lng": 139.5003491,
 		"rating": 5.1,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -285,7 +316,8 @@
 		"lat": 35.6329726,
 		"lng": 139.517379,
 		"rating": 5.1,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -294,7 +326,8 @@
 		"lat": 35.60687,
 		"lng": 139.3317,
 		"rating": 5.1,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -303,7 +336,8 @@
 		"lat": 35.58313,
 		"lng": 139.480895,
 		"rating": 5.1,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -312,7 +346,8 @@
 		"lat": 35.889805,
 		"lng": 139.454314,
 		"rating": 5.1,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -321,7 +356,8 @@
 		"lat": 35.6595,
 		"lng": 139.3815,
 		"rating": 5.1,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -330,7 +366,8 @@
 		"lat": 35.480691,
 		"lng": 139.399932,
 		"rating": 5.2,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -339,7 +376,8 @@
 		"lat": 35.619238,
 		"lng": 139.472405,
 		"rating": 5.2,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -348,7 +386,8 @@
 		"lat": 35.786201,
 		"lng": 139.473916,
 		"rating": 5.2,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -357,7 +396,8 @@
 		"lat": 35.62258,
 		"lng": 140.1033,
 		"rating": 5.2,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -366,7 +406,8 @@
 		"lat": 35.499147,
 		"lng": 139.408401,
 		"rating": 5.2,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -375,7 +416,8 @@
 		"lat": 35.6595833,
 		"lng": 139.4578965,
 		"rating": 5.2,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -384,7 +426,8 @@
 		"lat": 35.511502,
 		"lng": 139.470318,
 		"rating": 5.2,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -393,7 +436,8 @@
 		"lat": 35.65678,
 		"lng": 139.3125,
 		"rating": 5.3,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -402,7 +446,8 @@
 		"lat": 35.5078841060272,
 		"lng": 139.444117122329,
 		"rating": 5.3,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -411,7 +456,8 @@
 		"lat": 35.6443991,
 		"lng": 139.3544968,
 		"rating": 5.3,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -420,7 +466,8 @@
 		"lat": 35.750022,
 		"lng": 139.471995,
 		"rating": 5.4,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -429,7 +476,8 @@
 		"lat": 35.55597,
 		"lng": 139.4193,
 		"rating": 5.4,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -438,7 +486,8 @@
 		"lat": 35.65183,
 		"lng": 140.073,
 		"rating": 5.4,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -447,7 +496,8 @@
 		"lat": 35.614632,
 		"lng": 139.52825,
 		"rating": 5.4,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -456,7 +506,8 @@
 		"lat": 35.67925,
 		"lng": 139.394,
 		"rating": 5.4,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -465,7 +516,8 @@
 		"lat": 35.832486,
 		"lng": 139.427293,
 		"rating": 5.4,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -474,7 +526,8 @@
 		"lat": 35.4897,
 		"lng": 139.6279,
 		"rating": 5.4,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -483,7 +536,8 @@
 		"lat": 35.608963,
 		"lng": 139.515901,
 		"rating": 5.4,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -492,7 +546,8 @@
 		"lat": 35.63969,
 		"lng": 139.3412,
 		"rating": 5.4,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -501,7 +556,8 @@
 		"lat": 35.6337511,
 		"lng": 139.5312067,
 		"rating": 5.5,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -510,7 +566,8 @@
 		"lat": 35.56333,
 		"lng": 139.463333,
 		"rating": 5.5,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -519,7 +576,8 @@
 		"lat": 35.5263,
 		"lng": 139.5166,
 		"rating": 5.5,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -528,7 +586,8 @@
 		"lat": 35.806767,
 		"lng": 139.456111,
 		"rating": 5.5,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -537,7 +596,8 @@
 		"lat": 35.615015,
 		"lng": 139.542215,
 		"rating": 5.5,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -546,7 +606,8 @@
 		"lat": 35.417648,
 		"lng": 139.343945,
 		"rating": 5.6,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -555,7 +616,8 @@
 		"lat": 35.63743,
 		"lng": 140.0924,
 		"rating": 5.6,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -564,7 +626,8 @@
 		"lat": 35.79841,
 		"lng": 139.465699,
 		"rating": 5.6,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -573,7 +636,8 @@
 		"lat": 35.914113,
 		"lng": 139.481377,
 		"rating": 5.6,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -582,7 +646,8 @@
 		"lat": 35.699,
 		"lng": 139.4464,
 		"rating": 5.7,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -591,7 +656,8 @@
 		"lat": 35.296356,
 		"lng": 139.145464,
 		"rating": 5.7,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -600,7 +666,8 @@
 		"lat": 35.65939,
 		"lng": 140.0579,
 		"rating": 5.7,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -609,7 +676,8 @@
 		"lat": 35.726129,
 		"lng": 139.513228,
 		"rating": 5.8,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -618,7 +686,8 @@
 		"lat": 35.452703,
 		"lng": 139.390906,
 		"rating": 5.8,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -627,7 +696,8 @@
 		"lat": 35.737024,
 		"lng": 139.488294,
 		"rating": 5.8,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -636,7 +706,8 @@
 		"lat": 35.6570844,
 		"lng": 139.5300797,
 		"rating": 5.8,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -645,7 +716,8 @@
 		"lat": 35.532003,
 		"lng": 139.437627,
 		"rating": 5.8,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -654,7 +726,8 @@
 		"lat": 35.6660632,
 		"lng": 139.5030888,
 		"rating": 5.8,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -663,7 +736,8 @@
 		"lat": 35.727366,
 		"lng": 139.539253,
 		"rating": 5.8,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -672,7 +746,8 @@
 		"lat": 35.6600815,
 		"lng": 139.5235242,
 		"rating": 5.8,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -681,7 +756,8 @@
 		"lat": 35.6728,
 		"lng": 140.0422,
 		"rating": 5.8,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -690,7 +766,8 @@
 		"lat": 35.641674,
 		"lng": 139.520457,
 		"rating": 5.8,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -699,7 +776,8 @@
 		"lat": 35.385877,
 		"lng": 139.620533,
 		"rating": 5.85,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -708,7 +786,8 @@
 		"lat": 35.589831,
 		"lng": 139.497945,
 		"rating": 5.9,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -717,7 +796,8 @@
 		"lat": 35.65564,
 		"lng": 139.339,
 		"rating": 5.9,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -726,7 +806,8 @@
 		"lat": 35.6641996,
 		"lng": 139.5110719,
 		"rating": 5.9,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -735,7 +816,8 @@
 		"lat": 35.684962,
 		"lng": 139.432123,
 		"rating": 5.9,
-		"color": 324
+		"color": 324,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -744,7 +826,8 @@
 		"lat": 35.6444878651794,
 		"lng": 139.501989050768,
 		"rating": 6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -753,7 +836,8 @@
 		"lat": 35.70026,
 		"lng": 139.4803,
 		"rating": 6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -762,7 +846,8 @@
 		"lat": 35.69977,
 		"lng": 139.4657,
 		"rating": 6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -771,7 +856,8 @@
 		"lat": 35.728638,
 		"lng": 139.55261,
 		"rating": 6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -780,7 +866,8 @@
 		"lat": 35.5316836756798,
 		"lng": 139.495262678246,
 		"rating": 6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -789,7 +876,8 @@
 		"lat": 35.69123,
 		"lng": 140.0205,
 		"rating": 6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -798,7 +886,8 @@
 		"lat": 35.847681,
 		"lng": 139.66915,
 		"rating": 6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -807,7 +896,8 @@
 		"lat": 35.70135,
 		"lng": 139.5065,
 		"rating": 6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -816,7 +906,8 @@
 		"lat": 35.439366,
 		"lng": 139.364303,
 		"rating": 6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -825,7 +916,8 @@
 		"lat": 35.627324,
 		"lng": 139.573709,
 		"rating": 6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -834,7 +926,8 @@
 		"lat": 35.644804,
 		"lng": 139.537042,
 		"rating": 6.08,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -843,7 +936,8 @@
 		"lat": 35.657886,
 		"lng": 139.343137,
 		"rating": 6.1,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -852,7 +946,8 @@
 		"lat": 35.617241,
 		"lng": 139.564758,
 		"rating": 6.1,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -861,7 +956,8 @@
 		"lat": 35.63217,
 		"lng": 139.577413,
 		"rating": 6.1,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -870,7 +966,8 @@
 		"lat": 35.603805,
 		"lng": 139.507605,
 		"rating": 6.1,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -879,7 +976,8 @@
 		"lat": 35.630135,
 		"lng": 139.5501,
 		"rating": 6.1,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -888,7 +986,8 @@
 		"lat": 35.6207850319793,
 		"lng": 139.569301432929,
 		"rating": 6.1,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -897,7 +996,8 @@
 		"lat": 35.63136,
 		"lng": 139.331,
 		"rating": 6.1,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -906,7 +1006,8 @@
 		"lat": 35.378713,
 		"lng": 139.596505,
 		"rating": 6.1,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -915,7 +1016,8 @@
 		"lat": 35.4431256246062,
 		"lng": 139.378191484138,
 		"rating": 6.15,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -924,7 +1026,8 @@
 		"lat": 35.527625,
 		"lng": 139.48512,
 		"rating": 6.2,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -933,7 +1036,8 @@
 		"lat": 35.858482,
 		"lng": 139.657087,
 		"rating": 6.2,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -942,7 +1046,8 @@
 		"lat": 35.427249,
 		"lng": 139.646206,
 		"rating": 6.2,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -951,7 +1056,8 @@
 		"lat": 35.70174,
 		"lng": 139.5248,
 		"rating": 6.2,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -960,7 +1066,8 @@
 		"lat": 35.69981,
 		"lng": 140.0043,
 		"rating": 6.2,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -969,7 +1076,8 @@
 		"lat": 35.48343,
 		"lng": 139.6294,
 		"rating": 6.2,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -978,7 +1086,8 @@
 		"lat": 35.872156,
 		"lng": 139.646196,
 		"rating": 6.2,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -987,7 +1096,8 @@
 		"lat": 35.37528,
 		"lng": 139.576712,
 		"rating": 6.25,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -996,7 +1106,8 @@
 		"lat": 35.633645,
 		"lng": 139.535262,
 		"rating": 6.3,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1005,7 +1116,8 @@
 		"lat": 35.6153475953711,
 		"lng": 139.579728876706,
 		"rating": 6.3,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1014,7 +1126,8 @@
 		"lat": 35.61286,
 		"lng": 140.1143,
 		"rating": 6.3,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1023,7 +1136,8 @@
 		"lat": 35.49216,
 		"lng": 139.6462,
 		"rating": 6.3,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1032,7 +1146,8 @@
 		"lat": 35.353435,
 		"lng": 139.531124,
 		"rating": 6.3,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1041,7 +1156,8 @@
 		"lat": 35.651788,
 		"lng": 139.5447823,
 		"rating": 6.3,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1050,7 +1166,8 @@
 		"lat": 35.6688656,
 		"lng": 139.4952598,
 		"rating": 6.3,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1059,7 +1176,8 @@
 		"lat": 35.6685677,
 		"lng": 139.46874,
 		"rating": 6.3,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1068,7 +1186,8 @@
 		"lat": 35.367436,
 		"lng": 139.550281,
 		"rating": 6.3,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1077,7 +1196,8 @@
 		"lat": 35.884393,
 		"lng": 139.639085,
 		"rating": 6.3,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1086,7 +1206,8 @@
 		"lat": 35.399881,
 		"lng": 139.617916,
 		"rating": 6.4,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1095,7 +1216,8 @@
 		"lat": 35.51087,
 		"lng": 139.5671,
 		"rating": 6.4,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1104,7 +1226,8 @@
 		"lat": 35.7032,
 		"lng": 139.941876,
 		"rating": 6.4,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1113,7 +1236,8 @@
 		"lat": 35.728666,
 		"lng": 139.564232,
 		"rating": 6.4,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1122,7 +1246,8 @@
 		"lat": 35.788515,
 		"lng": 139.612343,
 		"rating": 6.4,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1131,7 +1256,8 @@
 		"lat": 35.893867,
 		"lng": 139.633587,
 		"rating": 6.5,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1140,7 +1266,8 @@
 		"lat": 35.71428,
 		"lng": 139.9431,
 		"rating": 6.5,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1149,7 +1276,8 @@
 		"lat": 35.663523,
 		"lng": 139.872694,
 		"rating": 6.5,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1158,7 +1286,8 @@
 		"lat": 35.636692,
 		"lng": 139.587098,
 		"rating": 6.5,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1167,7 +1296,8 @@
 		"lat": 35.53699,
 		"lng": 139.635,
 		"rating": 6.5,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1176,7 +1306,8 @@
 		"lat": 35.551477,
 		"lng": 139.541388,
 		"rating": 6.5,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1185,7 +1316,8 @@
 		"lat": 35.6540817,
 		"lng": 139.5666085,
 		"rating": 6.5,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1194,7 +1326,8 @@
 		"lat": 35.487106,
 		"lng": 139.65554,
 		"rating": 6.5,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1203,7 +1336,8 @@
 		"lat": 35.664528,
 		"lng": 139.85937,
 		"rating": 6.5,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1212,7 +1346,8 @@
 		"lat": 35.683732,
 		"lng": 139.864333,
 		"rating": 6.5,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1221,7 +1356,8 @@
 		"lat": 35.906295,
 		"lng": 139.623999,
 		"rating": 6.5,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1230,7 +1366,8 @@
 		"lat": 35.51483,
 		"lng": 139.5402,
 		"rating": 6.5,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1239,7 +1376,8 @@
 		"lat": 35.541975372676,
 		"lng": 139.445421095006,
 		"rating": 6.5,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1248,7 +1386,8 @@
 		"lat": 35.649093,
 		"lng": 139.489284,
 		"rating": 6.5,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1257,7 +1396,8 @@
 		"lat": 35.70216,
 		"lng": 139.5447,
 		"rating": 6.5,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1266,7 +1406,8 @@
 		"lat": 35.691613,
 		"lng": 139.925017,
 		"rating": 6.5,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1275,7 +1416,8 @@
 		"lat": 35.49847,
 		"lng": 139.6331,
 		"rating": 6.5,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1284,7 +1426,8 @@
 		"lat": 35.6934411454608,
 		"lng": 139.424058012664,
 		"rating": 6.55,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1293,7 +1436,8 @@
 		"lat": 35.558646,
 		"lng": 139.551509,
 		"rating": 6.58,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1302,7 +1446,8 @@
 		"lat": 35.61056,
 		"lng": 139.592539,
 		"rating": 6.6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1311,7 +1456,8 @@
 		"lat": 35.682558,
 		"lng": 139.914235,
 		"rating": 6.6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1320,7 +1466,8 @@
 		"lat": 35.6501355,
 		"lng": 139.5583464,
 		"rating": 6.6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1329,7 +1476,8 @@
 		"lat": 35.73296,
 		"lng": 139.8817,
 		"rating": 6.6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1338,7 +1486,8 @@
 		"lat": 35.2563636441241,
 		"lng": 139.155380171723,
 		"rating": 6.6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1347,7 +1496,8 @@
 		"lat": 35.640053,
 		"lng": 139.598741,
 		"rating": 6.6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1356,7 +1506,8 @@
 		"lat": 35.70174,
 		"lng": 139.9852,
 		"rating": 6.6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1365,7 +1516,8 @@
 		"lat": 35.681424,
 		"lng": 139.446591,
 		"rating": 6.6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1374,7 +1526,8 @@
 		"lat": 35.672195,
 		"lng": 139.480469,
 		"rating": 6.6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1383,7 +1536,8 @@
 		"lat": 35.6979,
 		"lng": 139.414,
 		"rating": 6.6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1392,7 +1546,8 @@
 		"lat": 35.828148,
 		"lng": 139.690443,
 		"rating": 6.6,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1401,7 +1556,8 @@
 		"lat": 35.577427,
 		"lng": 139.558447,
 		"rating": 6.7,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1410,7 +1566,8 @@
 		"lat": 35.50964,
 		"lng": 139.6307,
 		"rating": 6.7,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1419,7 +1576,8 @@
 		"lat": 35.758526,
 		"lng": 139.628603,
 		"rating": 6.7,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1428,7 +1586,8 @@
 		"lat": 35.415795,
 		"lng": 139.635057,
 		"rating": 6.7,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1437,7 +1596,8 @@
 		"lat": 35.71679,
 		"lng": 139.8583,
 		"rating": 6.7,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1446,7 +1606,8 @@
 		"lat": 35.707452,
 		"lng": 139.959097,
 		"rating": 6.7,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1455,7 +1616,8 @@
 		"lat": 35.52202,
 		"lng": 139.6299,
 		"rating": 6.7,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1464,7 +1626,8 @@
 		"lat": 35.672687,
 		"lng": 139.902311,
 		"rating": 6.7,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1473,7 +1636,8 @@
 		"lat": 35.6498499,
 		"lng": 139.5518261,
 		"rating": 6.78,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1482,7 +1646,8 @@
 		"lat": 35.568717,
 		"lng": 139.553556,
 		"rating": 6.8,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1491,7 +1656,8 @@
 		"lat": 35.6579842,
 		"lng": 139.5750124,
 		"rating": 6.8,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1500,7 +1666,8 @@
 		"lat": 35.665743,
 		"lng": 139.892937,
 		"rating": 6.8,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1509,7 +1676,8 @@
 		"lat": 35.584945,
 		"lng": 139.581919,
 		"rating": 6.8,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1518,7 +1686,8 @@
 		"lat": 35.579579,
 		"lng": 139.573018,
 		"rating": 6.8,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1527,7 +1696,8 @@
 		"lat": 35.72928,
 		"lng": 139.9078,
 		"rating": 6.8,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1536,7 +1706,8 @@
 		"lat": 35.706017,
 		"lng": 139.903698,
 		"rating": 6.8,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1545,7 +1716,8 @@
 		"lat": 35.6433164,
 		"lng": 139.6095789,
 		"rating": 6.8,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1554,7 +1726,8 @@
 		"lat": 35.55306,
 		"lng": 139.6468,
 		"rating": 6.8,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1563,7 +1736,8 @@
 		"lat": 35.587325,
 		"lng": 139.591349,
 		"rating": 6.85,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1572,7 +1746,8 @@
 		"lat": 35.815725,
 		"lng": 139.704364,
 		"rating": 6.85,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1581,7 +1756,8 @@
 		"lat": 35.72512,
 		"lng": 139.603568,
 		"rating": 6.9,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1590,7 +1766,8 @@
 		"lat": 35.726245,
 		"lng": 139.59208,
 		"rating": 6.9,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1599,7 +1776,8 @@
 		"lat": 35.693318,
 		"lng": 139.89761,
 		"rating": 6.9,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1608,7 +1786,8 @@
 		"lat": 35.791938,
 		"lng": 139.64589,
 		"rating": 6.9,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1617,7 +1796,8 @@
 		"lat": 35.670967,
 		"lng": 139.457399,
 		"rating": 6.9,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1626,7 +1806,8 @@
 		"lat": 35.662307,
 		"lng": 139.584897,
 		"rating": 6.9,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1635,7 +1816,8 @@
 		"lat": 35.801922,
 		"lng": 139.717583,
 		"rating": 6.9,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1644,7 +1826,8 @@
 		"lat": 35.77053,
 		"lng": 139.644543,
 		"rating": 6.9,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1653,7 +1836,8 @@
 		"lat": 35.508565,
 		"lng": 139.676018,
 		"rating": 6.9,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1662,7 +1846,8 @@
 		"lat": 35.536177,
 		"lng": 139.504835,
 		"rating": 6.9,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1671,7 +1856,8 @@
 		"lat": 35.666204,
 		"lng": 139.477203,
 		"rating": 6.9,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1680,7 +1866,8 @@
 		"lat": 35.727547,
 		"lng": 139.576889,
 		"rating": 6.9,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1689,7 +1876,8 @@
 		"lat": 35.751135,
 		"lng": 139.641058,
 		"rating": 6.9,
-		"color": 312
+		"color": 312,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1698,7 +1886,8 @@
 		"lat": 35.724546,
 		"lng": 139.614661,
 		"rating": 6.99,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1707,7 +1896,8 @@
 		"lat": 35.762214,
 		"lng": 139.824914,
 		"rating": 7,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1716,7 +1906,8 @@
 		"lat": 35.686055,
 		"lng": 139.882934,
 		"rating": 7,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1725,7 +1916,8 @@
 		"lat": 35.723955,
 		"lng": 139.624327,
 		"rating": 7,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1734,7 +1926,8 @@
 		"lat": 35.6537321924523,
 		"lng": 139.647326107369,
 		"rating": 7,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1743,7 +1936,8 @@
 		"lat": 35.722605,
 		"lng": 139.63892,
 		"rating": 7,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1752,7 +1946,8 @@
 		"lat": 35.5145,
 		"lng": 139.704944,
 		"rating": 7,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1761,7 +1956,8 @@
 		"lat": 35.776557,
 		"lng": 139.631497,
 		"rating": 7,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1770,7 +1966,8 @@
 		"lat": 35.60427,
 		"lng": 139.600005,
 		"rating": 7,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1779,7 +1976,8 @@
 		"lat": 35.757863,
 		"lng": 139.653762,
 		"rating": 7,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1788,7 +1986,8 @@
 		"lat": 35.7770135,
 		"lng": 139.8321012,
 		"rating": 7,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1797,7 +1996,8 @@
 		"lat": 35.72278,
 		"lng": 139.9265,
 		"rating": 7,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1806,7 +2006,8 @@
 		"lat": 35.594102,
 		"lng": 139.606008,
 		"rating": 7.1,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1815,7 +2016,8 @@
 		"lat": 35.56432,
 		"lng": 139.654,
 		"rating": 7.1,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1824,7 +2026,8 @@
 		"lat": 35.510414,
 		"lng": 139.713484,
 		"rating": 7.1,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1833,7 +2036,8 @@
 		"lat": 35.70643,
 		"lng": 139.8425,
 		"rating": 7.1,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1842,7 +2046,8 @@
 		"lat": 35.7419142116061,
 		"lng": 139.649146646261,
 		"rating": 7.1,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1851,7 +2056,8 @@
 		"lat": 35.70271,
 		"lng": 139.5608,
 		"rating": 7.15,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1860,7 +2066,8 @@
 		"lat": 35.603548,
 		"lng": 139.61747,
 		"rating": 7.2,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1869,7 +2076,8 @@
 		"lat": 35.743803,
 		"lng": 139.678572,
 		"rating": 7.2,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1878,7 +2086,8 @@
 		"lat": 35.542955,
 		"lng": 139.517182,
 		"rating": 7.2,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1887,7 +2096,8 @@
 		"lat": 35.668212,
 		"lng": 139.601139,
 		"rating": 7.2,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1896,7 +2106,8 @@
 		"lat": 35.64735,
 		"lng": 139.62408,
 		"rating": 7.2,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1905,7 +2116,8 @@
 		"lat": 35.51818,
 		"lng": 139.699293,
 		"rating": 7.2,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1914,7 +2126,8 @@
 		"lat": 35.722333,
 		"lng": 139.644586,
 		"rating": 7.2,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1923,7 +2136,8 @@
 		"lat": 35.607125,
 		"lng": 139.622399,
 		"rating": 7.2,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1932,7 +2146,8 @@
 		"lat": 35.749822,
 		"lng": 139.665023,
 		"rating": 7.2,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1941,7 +2156,8 @@
 		"lat": 35.749412,
 		"lng": 139.805108,
 		"rating": 7.2,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1950,7 +2166,8 @@
 		"lat": 35.531064,
 		"lng": 139.684389,
 		"rating": 7.25,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1959,7 +2176,8 @@
 		"lat": 35.777464,
 		"lng": 139.685962,
 		"rating": 7.28,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1968,7 +2186,8 @@
 		"lat": 35.702112100252,
 		"lng": 139.580452570226,
 		"rating": 7.3,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1977,7 +2196,8 @@
 		"lat": 35.687797,
 		"lng": 139.599703,
 		"rating": 7.3,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1986,7 +2206,8 @@
 		"lat": 35.64797,
 		"lng": 139.645,
 		"rating": 7.3,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -1995,7 +2216,8 @@
 		"lat": 35.65373,
 		"lng": 139.6473,
 		"rating": 7.3,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2004,7 +2226,8 @@
 		"lat": 35.790294,
 		"lng": 139.654267,
 		"rating": 7.3,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2013,7 +2236,8 @@
 		"lat": 35.786926,
 		"lng": 139.673987,
 		"rating": 7.3,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2022,7 +2246,8 @@
 		"lat": 35.738418,
 		"lng": 139.689157,
 		"rating": 7.3,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2031,7 +2256,8 @@
 		"lat": 35.477951,
 		"lng": 139.633347,
 		"rating": 7.3,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2040,7 +2266,8 @@
 		"lat": 35.784174,
 		"lng": 139.67904,
 		"rating": 7.3,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2049,7 +2276,8 @@
 		"lat": 35.670542,
 		"lng": 139.608224,
 		"rating": 7.4,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2058,7 +2286,8 @@
 		"lat": 35.600032,
 		"lng": 139.610626,
 		"rating": 7.4,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2067,7 +2296,8 @@
 		"lat": 35.788833,
 		"lng": 139.661172,
 		"rating": 7.4,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2076,7 +2306,8 @@
 		"lat": 35.678798,
 		"lng": 139.635383,
 		"rating": 7.4,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2085,7 +2316,8 @@
 		"lat": 35.523113,
 		"lng": 139.691488,
 		"rating": 7.4,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2094,7 +2326,8 @@
 		"lat": 35.538933,
 		"lng": 139.680422,
 		"rating": 7.4,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2103,7 +2336,8 @@
 		"lat": 35.697506,
 		"lng": 139.582696,
 		"rating": 7.5,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2112,7 +2346,8 @@
 		"lat": 35.651316,
 		"lng": 139.636437,
 		"rating": 7.5,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2121,7 +2356,8 @@
 		"lat": 35.6674481,
 		"lng": 139.6318829,
 		"rating": 7.5,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2130,7 +2366,8 @@
 		"lat": 35.692235,
 		"lng": 139.588903,
 		"rating": 7.5,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2139,7 +2376,8 @@
 		"lat": 35.775725,
 		"lng": 139.69538,
 		"rating": 7.5,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2148,7 +2386,8 @@
 		"lat": 35.551331,
 		"lng": 139.675131,
 		"rating": 7.5,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2157,7 +2396,8 @@
 		"lat": 35.719458,
 		"lng": 139.663841,
 		"rating": 7.5,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2166,7 +2406,8 @@
 		"lat": 35.6688276,
 		"lng": 139.6233971,
 		"rating": 7.5,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2175,7 +2416,8 @@
 		"lat": 35.531328,
 		"lng": 139.696899,
 		"rating": 7.5,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2184,7 +2426,8 @@
 		"lat": 35.6560169,
 		"lng": 139.6536376,
 		"rating": 7.5,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2193,7 +2436,8 @@
 		"lat": 35.6698304,
 		"lng": 139.6161352,
 		"rating": 7.5,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2202,7 +2446,8 @@
 		"lat": 35.681628,
 		"lng": 139.627509,
 		"rating": 7.5,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2211,7 +2456,8 @@
 		"lat": 35.6847865,
 		"lng": 139.6072018,
 		"rating": 7.5,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2220,7 +2466,8 @@
 		"lat": 35.599032,
 		"lng": 139.611207,
 		"rating": 7.5,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2229,7 +2476,8 @@
 		"lat": 35.768782,
 		"lng": 139.702324,
 		"rating": 7.5,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2238,7 +2486,8 @@
 		"lat": 35.719658,
 		"lng": 139.652733,
 		"rating": 7.5,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2247,7 +2496,8 @@
 		"lat": 35.70482,
 		"lng": 139.6359,
 		"rating": 7.6,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2256,7 +2506,8 @@
 		"lat": 35.70463,
 		"lng": 139.62,
 		"rating": 7.6,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2265,7 +2516,8 @@
 		"lat": 35.443233,
 		"lng": 139.637134,
 		"rating": 7.6,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2274,7 +2526,8 @@
 		"lat": 35.68322,
 		"lng": 139.615257,
 		"rating": 7.6,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2283,7 +2536,8 @@
 		"lat": 35.450918,
 		"lng": 139.631073,
 		"rating": 7.6,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2292,7 +2546,8 @@
 		"lat": 35.50679,
 		"lng": 139.6175,
 		"rating": 7.6,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2301,7 +2556,8 @@
 		"lat": 35.732538,
 		"lng": 139.670653,
 		"rating": 7.6,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2310,7 +2566,8 @@
 		"lat": 35.748802,
 		"lng": 139.719604,
 		"rating": 7.6,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2319,7 +2576,8 @@
 		"lat": 35.762947,
 		"lng": 139.727694,
 		"rating": 7.6,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2328,7 +2586,8 @@
 		"lat": 35.611499,
 		"lng": 139.626624,
 		"rating": 7.6,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2337,7 +2596,8 @@
 		"lat": 35.47474,
 		"lng": 139.6253,
 		"rating": 7.6,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2346,7 +2606,8 @@
 		"lat": 35.73782,
 		"lng": 139.653566,
 		"rating": 7.6,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2355,7 +2616,8 @@
 		"lat": 35.746586,
 		"lng": 139.746927,
 		"rating": 7.62,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2364,7 +2626,8 @@
 		"lat": 35.742268,
 		"lng": 139.781435,
 		"rating": 7.68,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2373,7 +2636,8 @@
 		"lat": 35.70539,
 		"lng": 139.6499,
 		"rating": 7.7,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2382,7 +2646,8 @@
 		"lat": 35.53551,
 		"lng": 139.4729,
 		"rating": 7.7,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2391,7 +2656,8 @@
 		"lat": 35.543595,
 		"lng": 139.527873,
 		"rating": 7.7,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2400,7 +2666,8 @@
 		"lat": 35.587225,
 		"lng": 139.629691,
 		"rating": 7.7,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2409,7 +2676,8 @@
 		"lat": 35.6762081618974,
 		"lng": 139.642725071171,
 		"rating": 7.8,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2418,7 +2686,8 @@
 		"lat": 35.66005,
 		"lng": 139.642,
 		"rating": 7.8,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2427,7 +2696,8 @@
 		"lat": 35.746008,
 		"lng": 139.742322,
 		"rating": 7.8,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2436,7 +2706,8 @@
 		"lat": 35.438247,
 		"lng": 139.643151,
 		"rating": 7.8,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2445,7 +2716,8 @@
 		"lat": 35.778051,
 		"lng": 139.720856,
 		"rating": 7.8,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2454,7 +2726,8 @@
 		"lat": 35.57657,
 		"lng": 139.6594,
 		"rating": 7.8,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2463,7 +2736,8 @@
 		"lat": 35.765172,
 		"lng": 139.735933,
 		"rating": 7.85,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2472,7 +2746,8 @@
 		"lat": 35.70384,
 		"lng": 139.5994,
 		"rating": 7.9,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2481,7 +2756,8 @@
 		"lat": 35.743508,
 		"lng": 139.728712,
 		"rating": 7.9,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2490,7 +2766,8 @@
 		"lat": 35.761339,
 		"lng": 139.705535,
 		"rating": 7.9,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2499,7 +2776,8 @@
 		"lat": 35.56104,
 		"lng": 139.671039,
 		"rating": 7.9,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2508,7 +2786,8 @@
 		"lat": 35.723608,
 		"lng": 139.683303,
 		"rating": 7.9,
-		"color": 300
+		"color": 300,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2517,7 +2796,8 @@
 		"lat": 35.752474,
 		"lng": 139.738139,
 		"rating": 8,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2526,7 +2806,8 @@
 		"lat": 35.6615464979642,
 		"lng": 139.666900156298,
 		"rating": 8,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2535,7 +2816,8 @@
 		"lat": 35.72034,
 		"lng": 139.715003,
 		"rating": 8,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2544,7 +2826,8 @@
 		"lat": 35.64341,
 		"lng": 139.6466,
 		"rating": 8,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2553,7 +2836,8 @@
 		"lat": 35.697985,
 		"lng": 139.648068,
 		"rating": 8,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2562,7 +2846,8 @@
 		"lat": 35.64345,
 		"lng": 139.6506,
 		"rating": 8,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2571,7 +2856,8 @@
 		"lat": 35.658174,
 		"lng": 139.661252,
 		"rating": 8,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2580,7 +2866,8 @@
 		"lat": 35.699624,
 		"lng": 139.63576,
 		"rating": 8,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2589,7 +2876,8 @@
 		"lat": 35.751326,
 		"lng": 139.710166,
 		"rating": 8,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2598,7 +2886,8 @@
 		"lat": 35.6661402,
 		"lng": 139.6414073,
 		"rating": 8.1,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2607,7 +2896,8 @@
 		"lat": 35.572908,
 		"lng": 139.667242,
 		"rating": 8.1,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2616,7 +2906,8 @@
 		"lat": 35.586859,
 		"lng": 139.705942,
 		"rating": 8.1,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2625,7 +2916,8 @@
 		"lat": 35.783417,
 		"lng": 139.722103,
 		"rating": 8.1,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2634,7 +2926,8 @@
 		"lat": 35.73323,
 		"lng": 139.698715,
 		"rating": 8.12,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2643,7 +2936,8 @@
 		"lat": 35.58063,
 		"lng": 139.6619,
 		"rating": 8.15,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2652,7 +2946,8 @@
 		"lat": 35.50855,
 		"lng": 139.6001,
 		"rating": 8.2,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2661,7 +2956,8 @@
 		"lat": 35.64399,
 		"lng": 139.6552,
 		"rating": 8.2,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2670,7 +2966,8 @@
 		"lat": 35.732135,
 		"lng": 139.766787,
 		"rating": 8.2,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2679,7 +2976,8 @@
 		"lat": 35.60384,
 		"lng": 139.6723,
 		"rating": 8.2,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2688,7 +2986,8 @@
 		"lat": 35.662656,
 		"lng": 139.655652,
 		"rating": 8.2,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2697,7 +2996,8 @@
 		"lat": 35.7061216972349,
 		"lng": 139.68379064463,
 		"rating": 8.2,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2706,7 +3006,8 @@
 		"lat": 35.596435,
 		"lng": 139.711772,
 		"rating": 8.2,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2715,7 +3016,8 @@
 		"lat": 35.58977,
 		"lng": 139.6688,
 		"rating": 8.3,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2724,7 +3026,8 @@
 		"lat": 35.706032,
 		"lng": 139.665652,
 		"rating": 8.3,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2733,7 +3036,8 @@
 		"lat": 35.697802,
 		"lng": 139.657822,
 		"rating": 8.3,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2742,7 +3046,8 @@
 		"lat": 35.6683488,
 		"lng": 139.6505541,
 		"rating": 8.3,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2751,7 +3056,8 @@
 		"lat": 35.690347,
 		"lng": 139.84596,
 		"rating": 8.35,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2760,7 +3066,8 @@
 		"lat": 35.46619,
 		"lng": 139.6227,
 		"rating": 8.4,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2769,7 +3076,8 @@
 		"lat": 35.73159,
 		"lng": 139.7293,
 		"rating": 8.4,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2778,7 +3086,8 @@
 		"lat": 35.715065,
 		"lng": 139.687264,
 		"rating": 8.4,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2787,7 +3096,8 @@
 		"lat": 35.733336,
 		"lng": 139.799171,
 		"rating": 8.4,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2796,7 +3106,8 @@
 		"lat": 35.71074,
 		"lng": 139.686337,
 		"rating": 8.4,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2805,7 +3116,8 @@
 		"lat": 35.683496,
 		"lng": 139.656498,
 		"rating": 8.42,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2814,7 +3126,8 @@
 		"lat": 35.733492,
 		"lng": 139.739345,
 		"rating": 8.45,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2823,7 +3136,8 @@
 		"lat": 35.725362,
 		"lng": 139.720435,
 		"rating": 8.45,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2832,7 +3146,8 @@
 		"lat": 35.719044,
 		"lng": 139.72754,
 		"rating": 8.5,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2841,7 +3156,8 @@
 		"lat": 35.729528,
 		"lng": 139.79133,
 		"rating": 8.5,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2850,7 +3166,8 @@
 		"lat": 35.662593,
 		"lng": 139.660524,
 		"rating": 8.5,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2859,7 +3176,8 @@
 		"lat": 35.665609,
 		"lng": 139.673228,
 		"rating": 8.5,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2868,7 +3186,8 @@
 		"lat": 35.72777,
 		"lng": 139.771,
 		"rating": 8.5,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2877,7 +3196,8 @@
 		"lat": 35.5806616208895,
 		"lng": 139.642101069912,
 		"rating": 8.5,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2886,7 +3206,8 @@
 		"lat": 35.697491,
 		"lng": 139.66903,
 		"rating": 8.6,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2895,7 +3216,8 @@
 		"lat": 35.725549,
 		"lng": 139.763243,
 		"rating": 8.6,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2904,7 +3226,8 @@
 		"lat": 35.671071,
 		"lng": 139.659387,
 		"rating": 8.6,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2913,7 +3236,8 @@
 		"lat": 35.690514,
 		"lng": 139.666933,
 		"rating": 8.6,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2922,7 +3246,8 @@
 		"lat": 35.710702,
 		"lng": 139.812935,
 		"rating": 8.7,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2931,7 +3256,8 @@
 		"lat": 35.562479,
 		"lng": 139.716051,
 		"rating": 8.7,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2940,7 +3266,8 @@
 		"lat": 35.633471,
 		"lng": 139.661702,
 		"rating": 8.7,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2949,7 +3276,8 @@
 		"lat": 35.646,
 		"lng": 139.6599,
 		"rating": 8.7,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2958,7 +3286,8 @@
 		"lat": 35.715795,
 		"lng": 139.671885,
 		"rating": 8.7,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2967,7 +3296,8 @@
 		"lat": 35.73806,
 		"lng": 139.7609,
 		"rating": 8.7,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2976,7 +3306,8 @@
 		"lat": 35.72133,
 		"lng": 139.752078,
 		"rating": 8.7,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2985,7 +3316,8 @@
 		"lat": 35.7212,
 		"lng": 139.7066,
 		"rating": 8.7,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -2994,7 +3326,8 @@
 		"lat": 35.62885,
 		"lng": 139.6853,
 		"rating": 8.8,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3003,7 +3336,8 @@
 		"lat": 35.673654,
 		"lng": 139.667136,
 		"rating": 8.8,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3012,7 +3346,8 @@
 		"lat": 35.684888,
 		"lng": 139.773161,
 		"rating": 8.8,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3021,7 +3356,8 @@
 		"lat": 35.669062,
 		"lng": 139.679678,
 		"rating": 8.8,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3030,7 +3366,8 @@
 		"lat": 35.692123,
 		"lng": 139.673997,
 		"rating": 8.8,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3039,7 +3376,8 @@
 		"lat": 35.6770576,
 		"lng": 139.6761859,
 		"rating": 8.8,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3048,7 +3386,8 @@
 		"lat": 35.69792,
 		"lng": 139.68291,
 		"rating": 8.85,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3057,7 +3396,8 @@
 		"lat": 35.588442,
 		"lng": 139.727929,
 		"rating": 8.88,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3066,7 +3406,8 @@
 		"lat": 35.631666,
 		"lng": 139.644779,
 		"rating": 8.9,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3075,7 +3416,8 @@
 		"lat": 35.7098292315065,
 		"lng": 139.753185447771,
 		"rating": 8.9,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3084,7 +3426,8 @@
 		"lat": 35.707941,
 		"lng": 139.709093,
 		"rating": 8.9,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3093,7 +3436,8 @@
 		"lat": 35.705723,
 		"lng": 139.721319,
 		"rating": 8.9,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3102,7 +3446,8 @@
 		"lat": 35.606249,
 		"lng": 139.734855,
 		"rating": 8.9,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3111,7 +3456,8 @@
 		"lat": 35.605479,
 		"lng": 139.713679,
 		"rating": 8.9,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3120,7 +3466,8 @@
 		"lat": 35.717633,
 		"lng": 139.758025,
 		"rating": 8.9,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3129,7 +3476,8 @@
 		"lat": 35.682413,
 		"lng": 139.773919,
 		"rating": 8.9,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3138,7 +3486,8 @@
 		"lat": 35.6377,
 		"lng": 139.6912,
 		"rating": 8.9,
-		"color": 288
+		"color": 288,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3147,7 +3496,8 @@
 		"lat": 35.70858,
 		"lng": 139.804624,
 		"rating": 8.95,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3156,7 +3506,8 @@
 		"lat": 35.69759,
 		"lng": 139.8261,
 		"rating": 9,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3165,7 +3516,8 @@
 		"lat": 35.678714,
 		"lng": 139.693562,
 		"rating": 9,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3174,7 +3526,8 @@
 		"lat": 35.70766,
 		"lng": 139.772977,
 		"rating": 9,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3183,7 +3536,8 @@
 		"lat": 35.689905,
 		"lng": 139.83565,
 		"rating": 9,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3192,7 +3546,8 @@
 		"lat": 35.674617,
 		"lng": 139.777705,
 		"rating": 9,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3201,7 +3556,8 @@
 		"lat": 35.712074,
 		"lng": 139.79843,
 		"rating": 9.05,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3210,7 +3566,8 @@
 		"lat": 35.724155,
 		"lng": 139.753828,
 		"rating": 9.1,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3219,7 +3576,8 @@
 		"lat": 35.715846,
 		"lng": 139.695152,
 		"rating": 9.2,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3228,7 +3586,8 @@
 		"lat": 35.712285,
 		"lng": 139.703782,
 		"rating": 9.2,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3237,7 +3596,8 @@
 		"lat": 35.60758,
 		"lng": 139.6691,
 		"rating": 9.2,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3246,7 +3606,8 @@
 		"lat": 35.6898804777869,
 		"lng": 139.684550859674,
 		"rating": 9.2,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3255,7 +3616,8 @@
 		"lat": 35.689349,
 		"lng": 139.826206,
 		"rating": 9.2,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3264,7 +3626,8 @@
 		"lat": 35.727957,
 		"lng": 139.744792,
 		"rating": 9.2,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3273,7 +3636,8 @@
 		"lat": 35.72893,
 		"lng": 139.7104,
 		"rating": 9.2,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3282,7 +3646,8 @@
 		"lat": 35.626436,
 		"lng": 139.633928,
 		"rating": 9.2,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3291,7 +3656,8 @@
 		"lat": 35.696437,
 		"lng": 139.813949,
 		"rating": 9.25,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3300,7 +3666,8 @@
 		"lat": 35.689071,
 		"lng": 139.815651,
 		"rating": 9.25,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3309,7 +3676,8 @@
 		"lat": 35.614719,
 		"lng": 139.716398,
 		"rating": 9.3,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3318,7 +3686,8 @@
 		"lat": 35.725793,
 		"lng": 139.729915,
 		"rating": 9.3,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3327,7 +3696,8 @@
 		"lat": 35.669629,
 		"lng": 139.817596,
 		"rating": 9.3,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3336,7 +3706,8 @@
 		"lat": 35.720734,
 		"lng": 139.784542,
 		"rating": 9.3,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3345,7 +3716,8 @@
 		"lat": 35.717305,
 		"lng": 139.736734,
 		"rating": 9.3,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3354,7 +3726,8 @@
 		"lat": 35.707337,
 		"lng": 139.7512,
 		"rating": 9.4,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3363,7 +3736,8 @@
 		"lat": 35.6809863,
 		"lng": 139.6861815,
 		"rating": 9.4,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3372,7 +3746,8 @@
 		"lat": 35.668796,
 		"lng": 139.83065,
 		"rating": 9.4,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3381,7 +3756,8 @@
 		"lat": 35.6966186752156,
 		"lng": 139.797366606071,
 		"rating": 9.4,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3390,7 +3766,8 @@
 		"lat": 35.679752,
 		"lng": 139.780005,
 		"rating": 9.5,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3399,7 +3776,8 @@
 		"lat": 35.70131,
 		"lng": 139.7,
 		"rating": 9.5,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3408,7 +3786,8 @@
 		"lat": 35.709855,
 		"lng": 139.7908,
 		"rating": 9.5,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3417,7 +3796,8 @@
 		"lat": 35.669457,
 		"lng": 139.806528,
 		"rating": 9.5,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3426,7 +3806,8 @@
 		"lat": 35.6724674827531,
 		"lng": 139.794726411346,
 		"rating": 9.5,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3435,7 +3816,8 @@
 		"lat": 35.7205,
 		"lng": 139.7788,
 		"rating": 9.5,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3444,7 +3826,8 @@
 		"lat": 35.736489,
 		"lng": 139.746875,
 		"rating": 9.6,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3453,7 +3836,8 @@
 		"lat": 35.643515,
 		"lng": 139.671162,
 		"rating": 9.6,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3462,7 +3846,8 @@
 		"lat": 35.668954,
 		"lng": 139.691318,
 		"rating": 9.6,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3471,7 +3856,8 @@
 		"lat": 35.6197,
 		"lng": 139.7286,
 		"rating": 9.6,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3480,7 +3866,8 @@
 		"lat": 35.7074415606801,
 		"lng": 139.760448848828,
 		"rating": 9.6,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3489,7 +3876,8 @@
 		"lat": 35.646157,
 		"lng": 139.827426,
 		"rating": 9.65,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3498,7 +3886,8 @@
 		"lat": 35.709495,
 		"lng": 139.733538,
 		"rating": 9.7,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3507,7 +3896,8 @@
 		"lat": 35.6912107320703,
 		"lng": 139.73649022635,
 		"rating": 9.7,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3516,7 +3906,8 @@
 		"lat": 35.699218,
 		"lng": 139.718184,
 		"rating": 9.7,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3525,7 +3916,8 @@
 		"lat": 35.645576,
 		"lng": 139.81052,
 		"rating": 9.7,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3534,7 +3926,8 @@
 		"lat": 35.654908,
 		"lng": 139.79621,
 		"rating": 9.7,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3543,7 +3936,8 @@
 		"lat": 35.675069,
 		"lng": 139.763328,
 		"rating": 9.7,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3552,7 +3946,8 @@
 		"lat": 35.717373,
 		"lng": 139.765741,
 		"rating": 9.8,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3561,7 +3956,8 @@
 		"lat": 35.693315,
 		"lng": 139.699155,
 		"rating": 9.8,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3570,7 +3966,8 @@
 		"lat": 35.6880078574585,
 		"lng": 139.79817285086,
 		"rating": 9.8,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3579,7 +3976,8 @@
 		"lat": 35.682105,
 		"lng": 139.798851,
 		"rating": 9.8,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3588,7 +3986,8 @@
 		"lat": 35.64466,
 		"lng": 139.6662,
 		"rating": 9.8,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3597,7 +3996,8 @@
 		"lat": 35.669484,
 		"lng": 139.688635,
 		"rating": 9.8,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3606,7 +4006,8 @@
 		"lat": 35.644307,
 		"lng": 139.699157,
 		"rating": 9.8,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3615,7 +4016,8 @@
 		"lat": 35.69792,
 		"lng": 139.707549,
 		"rating": 9.8,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3624,7 +4026,8 @@
 		"lat": 35.675461,
 		"lng": 139.771767,
 		"rating": 9.8,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3633,7 +4036,8 @@
 		"lat": 35.70072,
 		"lng": 139.6974,
 		"rating": 9.85,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3642,7 +4046,8 @@
 		"lat": 35.711352,
 		"lng": 139.782734,
 		"rating": 9.9,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3651,7 +4056,8 @@
 		"lat": 35.6638199832237,
 		"lng": 139.783909963443,
 		"rating": 9.9,
-		"color": 276
+		"color": 276,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3660,7 +4066,8 @@
 		"lat": 35.699518,
 		"lng": 139.725027,
 		"rating": 10,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3669,7 +4076,8 @@
 		"lat": 35.69986,
 		"lng": 139.7638,
 		"rating": 10,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3678,7 +4086,8 @@
 		"lat": 35.6589560224249,
 		"lng": 139.777108824346,
 		"rating": 10,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3687,7 +4096,8 @@
 		"lat": 35.7054625570622,
 		"lng": 139.79250910459,
 		"rating": 10,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3696,7 +4106,8 @@
 		"lat": 35.660452,
 		"lng": 139.673117,
 		"rating": 10,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3705,7 +4116,8 @@
 		"lat": 35.668115,
 		"lng": 139.772603,
 		"rating": 10,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3714,7 +4126,8 @@
 		"lat": 35.708243,
 		"lng": 139.769916,
 		"rating": 10,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3723,7 +4136,8 @@
 		"lat": 35.69169,
 		"lng": 139.770883,
 		"rating": 10.1,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3732,7 +4146,8 @@
 		"lat": 35.61784,
 		"lng": 139.6764,
 		"rating": 10.1,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3741,7 +4156,8 @@
 		"lat": 35.63015,
 		"lng": 139.7404,
 		"rating": 10.1,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3750,7 +4166,8 @@
 		"lat": 35.6905756760696,
 		"lng": 139.69266111846,
 		"rating": 10.15,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3759,7 +4176,8 @@
 		"lat": 35.688379,
 		"lng": 139.806016,
 		"rating": 10.2,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3768,7 +4186,8 @@
 		"lat": 35.67685,
 		"lng": 139.7701,
 		"rating": 10.2,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3777,7 +4196,8 @@
 		"lat": 35.690737,
 		"lng": 139.778433,
 		"rating": 10.2,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3786,7 +4206,8 @@
 		"lat": 35.682061,
 		"lng": 139.786035,
 		"rating": 10.2,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3795,7 +4216,8 @@
 		"lat": 35.6355,
 		"lng": 139.7407,
 		"rating": 10.3,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3804,7 +4226,8 @@
 		"lat": 35.686307,
 		"lng": 139.782285,
 		"rating": 10.3,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3813,7 +4236,8 @@
 		"lat": 35.70203,
 		"lng": 139.753653,
 		"rating": 10.3,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3822,7 +4246,8 @@
 		"lat": 35.692126,
 		"lng": 139.784821,
 		"rating": 10.3,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3831,7 +4256,8 @@
 		"lat": 35.62645,
 		"lng": 139.7234,
 		"rating": 10.35,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3840,7 +4266,8 @@
 		"lat": 35.707055,
 		"lng": 139.78194,
 		"rating": 10.35,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3849,7 +4276,8 @@
 		"lat": 35.713768,
 		"lng": 139.777254,
 		"rating": 10.4,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3858,7 +4286,8 @@
 		"lat": 35.697452386729,
 		"lng": 139.786369695793,
 		"rating": 10.4,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3867,7 +4296,8 @@
 		"lat": 35.678156,
 		"lng": 139.705678,
 		"rating": 10.4,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3876,7 +4306,8 @@
 		"lat": 35.67435,
 		"lng": 139.767045,
 		"rating": 10.5,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3885,7 +4316,8 @@
 		"lat": 35.670462,
 		"lng": 139.773711,
 		"rating": 10.5,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3894,7 +4326,8 @@
 		"lat": 35.703904,
 		"lng": 139.734238,
 		"rating": 10.5,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3903,7 +4336,8 @@
 		"lat": 35.638692,
 		"lng": 139.74002,
 		"rating": 10.5,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3912,7 +4346,8 @@
 		"lat": 35.650603,
 		"lng": 139.684319,
 		"rating": 10.5,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3921,7 +4356,8 @@
 		"lat": 35.64574,
 		"lng": 139.7476,
 		"rating": 10.5,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3930,7 +4366,8 @@
 		"lat": 35.64818,
 		"lng": 139.748775,
 		"rating": 10.6,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3939,7 +4376,8 @@
 		"lat": 35.698683,
 		"lng": 139.774219,
 		"rating": 10.7,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3948,7 +4386,8 @@
 		"lat": 35.664895,
 		"lng": 139.766915,
 		"rating": 10.7,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3957,7 +4396,8 @@
 		"lat": 35.702972,
 		"lng": 139.771713,
 		"rating": 10.7,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3966,7 +4406,8 @@
 		"lat": 35.633998,
 		"lng": 139.715828,
 		"rating": 10.7,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3975,7 +4416,8 @@
 		"lat": 35.700851,
 		"lng": 139.735802,
 		"rating": 10.8,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3984,7 +4426,8 @@
 		"lat": 35.69543188,
 		"lng": 139.7511257,
 		"rating": 10.8,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -3993,7 +4436,8 @@
 		"lat": 35.669464,
 		"lng": 139.767253,
 		"rating": 10.8,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4002,7 +4446,8 @@
 		"lat": 35.658655,
 		"lng": 139.684483,
 		"rating": 10.85,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4011,7 +4456,8 @@
 		"lat": 35.671989,
 		"lng": 139.763965,
 		"rating": 10.9,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4020,7 +4466,8 @@
 		"lat": 35.70796,
 		"lng": 139.7734,
 		"rating": 10.9,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4029,7 +4476,8 @@
 		"lat": 35.6884464421313,
 		"lng": 139.698601593263,
 		"rating": 10.9,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4038,7 +4486,8 @@
 		"lat": 35.688588,
 		"lng": 139.71069,
 		"rating": 10.9,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4047,7 +4496,8 @@
 		"lat": 35.690616,
 		"lng": 139.706271,
 		"rating": 10.9,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4056,7 +4506,8 @@
 		"lat": 35.66975,
 		"lng": 139.75561,
 		"rating": 10.9,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4065,7 +4516,8 @@
 		"lat": 35.702065,
 		"lng": 139.745015,
 		"rating": 10.9,
-		"color": 264
+		"color": 264,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4074,7 +4526,8 @@
 		"lat": 35.670236,
 		"lng": 139.749832,
 		"rating": 11,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4083,7 +4536,8 @@
 		"lat": 35.687958,
 		"lng": 139.720103,
 		"rating": 11,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4092,7 +4546,8 @@
 		"lat": 35.694298,
 		"lng": 139.692778,
 		"rating": 11,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4101,7 +4556,8 @@
 		"lat": 35.706555,
 		"lng": 139.776202,
 		"rating": 11,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4110,7 +4566,8 @@
 		"lat": 35.68601,
 		"lng": 139.7307,
 		"rating": 11.1,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4119,7 +4576,8 @@
 		"lat": 35.7079636219993,
 		"lng": 139.77336630458,
 		"rating": 11.2,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4128,7 +4586,8 @@
 		"lat": 35.6481,
 		"lng": 139.7032,
 		"rating": 11.2,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4137,7 +4596,8 @@
 		"lat": 35.6830438382709,
 		"lng": 139.70207164355,
 		"rating": 11.2,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4146,7 +4606,8 @@
 		"lat": 35.683469,
 		"lng": 139.698517,
 		"rating": 11.2,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4155,7 +4616,8 @@
 		"lat": 35.64669,
 		"lng": 139.710106,
 		"rating": 11.3,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4164,7 +4626,8 @@
 		"lat": 35.698072,
 		"lng": 139.766014,
 		"rating": 11.3,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4173,7 +4636,8 @@
 		"lat": 35.69591611,
 		"lng": 139.7574395,
 		"rating": 11.3,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4182,7 +4646,8 @@
 		"lat": 35.6919602404342,
 		"lng": 139.782943215686,
 		"rating": 11.3,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4191,7 +4656,8 @@
 		"lat": 35.6884108373731,
 		"lng": 139.787933654151,
 		"rating": 11.3,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4200,7 +4666,8 @@
 		"lat": 35.6923758,
 		"lng": 139.7226303,
 		"rating": 11.4,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4209,7 +4676,8 @@
 		"lat": 35.665498,
 		"lng": 139.75964,
 		"rating": 11.4,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4218,7 +4686,8 @@
 		"lat": 35.67017,
 		"lng": 139.7027,
 		"rating": 11.5,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4227,7 +4696,8 @@
 		"lat": 35.6604750470776,
 		"lng": 139.751202268526,
 		"rating": 11.5,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4236,7 +4706,8 @@
 		"lat": 35.652279,
 		"lng": 139.722227,
 		"rating": 11.5,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4245,7 +4716,8 @@
 		"lat": 35.6628872948688,
 		"lng": 139.760140478611,
 		"rating": 11.5,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4254,7 +4726,8 @@
 		"lat": 35.654071,
 		"lng": 139.749838,
 		"rating": 11.5,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4263,7 +4736,8 @@
 		"lat": 35.6586161,
 		"lng": 139.6993714,
 		"rating": 11.5,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4272,7 +4746,8 @@
 		"lat": 35.655007,
 		"lng": 139.743642,
 		"rating": 11.5,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4281,7 +4756,8 @@
 		"lat": 35.642903,
 		"lng": 139.734104,
 		"rating": 11.5,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4290,7 +4766,8 @@
 		"lat": 35.665247,
 		"lng": 139.712314,
 		"rating": 11.5,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4299,7 +4776,8 @@
 		"lat": 35.631679,
 		"lng": 139.730305,
 		"rating": 11.7,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4308,7 +4786,8 @@
 		"lat": 35.657241,
 		"lng": 139.693641,
 		"rating": 11.7,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4317,7 +4796,8 @@
 		"lat": 35.6568905486127,
 		"lng": 139.754699408076,
 		"rating": 11.7,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4326,7 +4806,8 @@
 		"lat": 35.65565,
 		"lng": 139.7567,
 		"rating": 11.7,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4335,7 +4816,8 @@
 		"lat": 35.6955703928471,
 		"lng": 139.775131931528,
 		"rating": 11.8,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4344,7 +4826,8 @@
 		"lat": 35.690662,
 		"lng": 139.756817,
 		"rating": 11.8,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4353,7 +4836,8 @@
 		"lat": 35.637917,
 		"lng": 139.726133,
 		"rating": 11.85,
-		"color": 252
+		"color": 252,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4362,7 +4846,8 @@
 		"lat": 35.681382,
 		"lng": 139.766084,
 		"rating": 12,
-		"color": 240
+		"color": 240,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4371,7 +4856,8 @@
 		"lat": 35.685703,
 		"lng": 139.741644,
 		"rating": 12,
-		"color": 240
+		"color": 240,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4380,7 +4866,8 @@
 		"lat": 35.684006,
 		"lng": 139.737613,
 		"rating": 12.1,
-		"color": 240
+		"color": 240,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4389,7 +4876,8 @@
 		"lat": 35.68009,
 		"lng": 139.7202,
 		"rating": 12.1,
-		"color": 240
+		"color": 240,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4398,7 +4886,8 @@
 		"lat": 35.666572,
 		"lng": 139.726215,
 		"rating": 12.1,
-		"color": 240
+		"color": 240,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4407,7 +4896,8 @@
 		"lat": 35.6563901467552,
 		"lng": 139.73650493659,
 		"rating": 12.2,
-		"color": 240
+		"color": 240,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4416,7 +4906,8 @@
 		"lat": 35.6951394459061,
 		"lng": 139.766835335176,
 		"rating": 12.35,
-		"color": 240
+		"color": 240,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4425,7 +4916,8 @@
 		"lat": 35.669071,
 		"lng": 139.703995,
 		"rating": 12.35,
-		"color": 240
+		"color": 240,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4434,7 +4926,8 @@
 		"lat": 35.662978,
 		"lng": 139.745069,
 		"rating": 12.4,
-		"color": 240
+		"color": 240,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4443,7 +4936,8 @@
 		"lat": 35.6639901963109,
 		"lng": 139.731414795387,
 		"rating": 12.4,
-		"color": 240
+		"color": 240,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4452,7 +4946,8 @@
 		"lat": 35.696254,
 		"lng": 139.7,
 		"rating": 12.5,
-		"color": 240
+		"color": 240,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4461,7 +4956,8 @@
 		"lat": 35.68123,
 		"lng": 139.7116,
 		"rating": 12.5,
-		"color": 240
+		"color": 240,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4470,7 +4966,8 @@
 		"lat": 35.684801,
 		"lng": 139.766086,
 		"rating": 12.5,
-		"color": 240
+		"color": 240,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4479,7 +4976,8 @@
 		"lat": 35.678757,
 		"lng": 139.740258,
 		"rating": 12.6,
-		"color": 240
+		"color": 240,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4488,7 +4986,8 @@
 		"lat": 35.6801622315799,
 		"lng": 139.713748970534,
 		"rating": 12.6,
-		"color": 240
+		"color": 240,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4497,7 +4996,8 @@
 		"lat": 35.67276462,
 		"lng": 139.7239043,
 		"rating": 12.8,
-		"color": 240
+		"color": 240,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4506,7 +5006,8 @@
 		"lat": 35.667444,
 		"lng": 139.747778,
 		"rating": 13.2,
-		"color": 228
+		"color": 228,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4515,7 +5016,8 @@
 		"lat": 35.677021,
 		"lng": 139.737047,
 		"rating": 13.2,
-		"color": 228
+		"color": 228,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4524,7 +5026,8 @@
 		"lat": 35.670527,
 		"lng": 139.717857,
 		"rating": 13.5,
-		"color": 228
+		"color": 228,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4533,7 +5036,8 @@
 		"lat": 35.673621,
 		"lng": 139.741419,
 		"rating": 13.7,
-		"color": 228
+		"color": 228,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4542,7 +5046,8 @@
 		"lat": 35.665595,
 		"lng": 139.739,
 		"rating": 13.7,
-		"color": 228
+		"color": 228,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4551,7 +5056,8 @@
 		"lat": 35.672371,
 		"lng": 139.736539,
 		"rating": 14,
-		"color": 216
+		"color": 216,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4560,7 +5066,8 @@
 		"lat": 35.6951394459061,
 		"lng": 139.766835335176,
 		"rating": 14.1,
-		"color": 216
+		"color": 216,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4569,7 +5076,8 @@
 		"lat": 35.67393,
 		"lng": 139.745219,
 		"rating": 14.2,
-		"color": 216
+		"color": 216,
+		"vicinity": ""
 	},
 	{
 		"floor_type": "1K",
@@ -4578,6 +5086,7 @@
 		"lat": 35.6912107320703,
 		"lng": 139.73649022635,
 		"rating": 14.9,
-		"color": 216
+		"color": 216,
+		"vicinity": ""
 	}
 ]
