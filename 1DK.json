@@ -6,7 +6,7 @@
 		"lat": 35.68138,
 		"lng": 139.7661,
 		"rating": 13.95,
-		"color": 228,
+		"color": 216,
 		"vicinity": ""
 	},
 	{
@@ -16,7 +16,7 @@
 		"lat": 35.69169,
 		"lng": 139.7709,
 		"rating": 15.1,
-		"color": 228,
+		"color": 204,
 		"vicinity": ""
 	},
 	{
@@ -26,7 +26,7 @@
 		"lat": 35.69986,
 		"lng": 139.7638,
 		"rating": 14.1,
-		"color": 228,
+		"color": 216,
 		"vicinity": ""
 	},
 	{
@@ -36,7 +36,7 @@
 		"lat": 35.70203,
 		"lng": 139.7537,
 		"rating": 13.5,
-		"color": 216,
+		"color": 228,
 		"vicinity": ""
 	},
 	{
@@ -46,7 +46,7 @@
 		"lat": 35.70207,
 		"lng": 139.745,
 		"rating": 13.4,
-		"color": 216,
+		"color": 228,
 		"vicinity": ""
 	},
 	{
@@ -56,7 +56,7 @@
 		"lat": 35.69121,
 		"lng": 139.7365,
 		"rating": 13.7,
-		"color": 216,
+		"color": 228,
 		"vicinity": ""
 	},
 	{
@@ -66,7 +66,7 @@
 		"lat": 35.68601,
 		"lng": 139.7307,
 		"rating": 16,
-		"color": 228,
+		"color": 192,
 		"vicinity": ""
 	},
 	{
@@ -76,7 +76,7 @@
 		"lat": 35.68009,
 		"lng": 139.7202,
 		"rating": 13.45,
-		"color": 216,
+		"color": 228,
 		"vicinity": ""
 	},
 	{
@@ -86,7 +86,7 @@
 		"lat": 35.68304,
 		"lng": 139.7021,
 		"rating": 14.9,
-		"color": 228,
+		"color": 216,
 		"vicinity": ""
 	},
 	{
@@ -96,7 +96,7 @@
 		"lat": 35.68845,
 		"lng": 139.6986,
 		"rating": 14.4,
-		"color": 228,
+		"color": 216,
 		"vicinity": ""
 	},
 	{
@@ -307,6 +307,16 @@
 		"lng": 139.2818,
 		"rating": 4,
 		"color": 336,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1LDK",
+		"line": "中央線",
+		"station": "高尾",
+		"lat": 35.64223,
+		"lng": 139.2818,
+		"rating": 8.6,
+		"color": 288,
 		"vicinity": ""
 	}
 ]
