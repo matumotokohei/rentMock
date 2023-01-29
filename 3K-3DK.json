@@ -1,0 +1,172 @@
+﻿[
+	{
+		"floor_type": "3K/3DK",
+		"line": "中央線",
+		"station": "中野",
+		"lat": 35.70603,
+		"lng": 139.6657,
+		"rating": 17,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "3K/3DK",
+		"line": "中央線",
+		"station": "阿佐ケ谷",
+		"lat": 35.70482,
+		"lng": 139.6359,
+		"rating": 12.2,
+		"color": 240,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "3K/3DK",
+		"line": "中央線",
+		"station": "荻窪",
+		"lat": 35.70463,
+		"lng": 139.62,
+		"rating": 12,
+		"color": 240,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "3K/3DK",
+		"line": "中央線",
+		"station": "吉祥寺",
+		"lat": 35.70211,
+		"lng": 139.5805,
+		"rating": 11.3,
+		"color": 252,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "3K/3DK",
+		"line": "中央線",
+		"station": "三鷹",
+		"lat": 35.70271,
+		"lng": 139.5608,
+		"rating": 11.05,
+		"color": 252,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "3K/3DK",
+		"line": "中央線",
+		"station": "武蔵境",
+		"lat": 35.70216,
+		"lng": 139.5447,
+		"rating": 12.3,
+		"color": 240,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "3K/3DK",
+		"line": "中央線",
+		"station": "東小金井",
+		"lat": 35.70174,
+		"lng": 139.5248,
+		"rating": 9.8,
+		"color": 276,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "3K/3DK",
+		"line": "中央線",
+		"station": "武蔵小金井",
+		"lat": 35.70135,
+		"lng": 139.5065,
+		"rating": 9.8,
+		"color": 276,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "3K/3DK",
+		"line": "中央線",
+		"station": "国分寺",
+		"lat": 35.70026,
+		"lng": 139.4803,
+		"rating": 10.2,
+		"color": 264,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "3K/3DK",
+		"line": "中央線",
+		"station": "西国分寺",
+		"lat": 35.69977,
+		"lng": 139.4657,
+		"rating": 10.7,
+		"color": 264,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "3K/3DK",
+		"line": "中央線",
+		"station": "国立",
+		"lat": 35.699,
+		"lng": 139.4464,
+		"rating": 9.6,
+		"color": 276,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "3K/3DK",
+		"line": "中央線",
+		"station": "立川",
+		"lat": 35.6979,
+		"lng": 139.414,
+		"rating": 8.3,
+		"color": 288,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "3K/3DK",
+		"line": "中央線",
+		"station": "日野",
+		"lat": 35.67925,
+		"lng": 139.394,
+		"rating": 7.5,
+		"color": 300,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "3K/3DK",
+		"line": "中央線",
+		"station": "豊田",
+		"lat": 35.6595,
+		"lng": 139.3815,
+		"rating": 8.5,
+		"color": 288,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "3K/3DK",
+		"line": "中央線",
+		"station": "八王子",
+		"lat": 35.65564,
+		"lng": 139.339,
+		"rating": 7.4,
+		"color": 300,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "3K/3DK",
+		"line": "中央線",
+		"station": "西八王子",
+		"lat": 35.65678,
+		"lng": 139.3125,
+		"rating": 7.4,
+		"color": 300,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "3K/3DK",
+		"line": "中央線",
+		"station": "高尾",
+		"lat": 35.64223,
+		"lng": 139.2818,
+		"rating": 6.5,
+		"color": 312,
+		"vicinity": ""
+	}
+]
