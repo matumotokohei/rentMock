@@ -6,7 +6,7 @@
 		"lat": 35.68138,
 		"lng": 139.7661,
 		"rating": 13.95,
-		"color": 216,
+		"color": 30,
 		"vicinity": ""
 	},
 	{
@@ -16,7 +16,7 @@
 		"lat": 35.69169,
 		"lng": 139.7709,
 		"rating": 15.1,
-		"color": 204,
+		"color": 20,
 		"vicinity": ""
 	},
 	{
@@ -26,7 +26,7 @@
 		"lat": 35.69986,
 		"lng": 139.7638,
 		"rating": 14.1,
-		"color": 216,
+		"color": 30,
 		"vicinity": ""
 	},
 	{
@@ -36,7 +36,7 @@
 		"lat": 35.70203,
 		"lng": 139.7537,
 		"rating": 13.5,
-		"color": 228,
+		"color": 40,
 		"vicinity": ""
 	},
 	{
@@ -46,7 +46,7 @@
 		"lat": 35.70207,
 		"lng": 139.745,
 		"rating": 13.4,
-		"color": 228,
+		"color": 40,
 		"vicinity": ""
 	},
 	{
@@ -56,7 +56,7 @@
 		"lat": 35.69121,
 		"lng": 139.7365,
 		"rating": 13.7,
-		"color": 228,
+		"color": 40,
 		"vicinity": ""
 	},
 	{
@@ -66,7 +66,7 @@
 		"lat": 35.68601,
 		"lng": 139.7307,
 		"rating": 16,
-		"color": 192,
+		"color": 10,
 		"vicinity": ""
 	},
 	{
@@ -76,7 +76,7 @@
 		"lat": 35.68009,
 		"lng": 139.7202,
 		"rating": 13.45,
-		"color": 228,
+		"color": 40,
 		"vicinity": ""
 	},
 	{
@@ -86,7 +86,7 @@
 		"lat": 35.68304,
 		"lng": 139.7021,
 		"rating": 14.9,
-		"color": 216,
+		"color": 30,
 		"vicinity": ""
 	},
 	{
@@ -96,7 +96,7 @@
 		"lat": 35.68845,
 		"lng": 139.6986,
 		"rating": 14.4,
-		"color": 216,
+		"color": 30,
 		"vicinity": ""
 	},
 	{
@@ -106,7 +106,7 @@
 		"lat": 35.70072,
 		"lng": 139.6974,
 		"rating": 12.8,
-		"color": 240,
+		"color": 50,
 		"vicinity": ""
 	},
 	{
@@ -116,7 +116,7 @@
 		"lat": 35.70612,
 		"lng": 139.6838,
 		"rating": 10.95,
-		"color": 252,
+		"color": 60,
 		"vicinity": ""
 	},
 	{
@@ -126,7 +126,7 @@
 		"lat": 35.70603,
 		"lng": 139.6657,
 		"rating": 11.4,
-		"color": 252,
+		"color": 60,
 		"vicinity": ""
 	},
 	{
@@ -136,7 +136,7 @@
 		"lat": 35.70539,
 		"lng": 139.6499,
 		"rating": 11.2,
-		"color": 252,
+		"color": 60,
 		"vicinity": ""
 	},
 	{
@@ -146,7 +146,7 @@
 		"lat": 35.70482,
 		"lng": 139.6359,
 		"rating": 9.3,
-		"color": 276,
+		"color": 120,
 		"vicinity": ""
 	},
 	{
@@ -156,7 +156,7 @@
 		"lat": 35.70463,
 		"lng": 139.62,
 		"rating": 9.4,
-		"color": 276,
+		"color": 120,
 		"vicinity": ""
 	},
 	{
@@ -166,7 +166,7 @@
 		"lat": 35.70384,
 		"lng": 139.5994,
 		"rating": 10.3,
-		"color": 264,
+		"color": 90,
 		"vicinity": ""
 	},
 	{
@@ -176,7 +176,7 @@
 		"lat": 35.70211,
 		"lng": 139.5805,
 		"rating": 8,
-		"color": 288,
+		"color": 150,
 		"vicinity": ""
 	},
 	{
@@ -186,7 +186,7 @@
 		"lat": 35.70271,
 		"lng": 139.5608,
 		"rating": 7.8,
-		"color": 300,
+		"color": 180,
 		"vicinity": ""
 	},
 	{
@@ -196,7 +196,7 @@
 		"lat": 35.70216,
 		"lng": 139.5447,
 		"rating": 7.8,
-		"color": 300,
+		"color": 180,
 		"vicinity": ""
 	},
 	{
@@ -206,7 +206,7 @@
 		"lat": 35.70174,
 		"lng": 139.5248,
 		"rating": 6.4,
-		"color": 312,
+		"color": 210,
 		"vicinity": ""
 	},
 	{
@@ -216,7 +216,7 @@
 		"lat": 35.70135,
 		"lng": 139.5065,
 		"rating": 6.4,
-		"color": 312,
+		"color": 210,
 		"vicinity": ""
 	},
 	{
@@ -226,7 +226,7 @@
 		"lat": 35.70026,
 		"lng": 139.4803,
 		"rating": 6.85,
-		"color": 312,
+		"color": 210,
 		"vicinity": ""
 	},
 	{
@@ -236,7 +236,7 @@
 		"lat": 35.69977,
 		"lng": 139.4657,
 		"rating": 7.5,
-		"color": 300,
+		"color": 180,
 		"vicinity": ""
 	},
 	{
@@ -246,7 +246,7 @@
 		"lat": 35.699,
 		"lng": 139.4464,
 		"rating": 5.9,
-		"color": 324,
+		"color": 240,
 		"vicinity": ""
 	},
 	{
@@ -256,7 +256,7 @@
 		"lat": 35.6979,
 		"lng": 139.414,
 		"rating": 9.6,
-		"color": 276,
+		"color": 120,
 		"vicinity": ""
 	},
 	{
@@ -266,7 +266,7 @@
 		"lat": 35.67925,
 		"lng": 139.394,
 		"rating": 7.9,
-		"color": 300,
+		"color": 180,
 		"vicinity": ""
 	},
 	{
@@ -276,7 +276,7 @@
 		"lat": 35.6595,
 		"lng": 139.3815,
 		"rating": 4.95,
-		"color": 324,
+		"color": 240,
 		"vicinity": ""
 	},
 	{
@@ -286,7 +286,7 @@
 		"lat": 35.65564,
 		"lng": 139.339,
 		"rating": 6.5,
-		"color": 312,
+		"color": 210,
 		"vicinity": ""
 	},
 	{
@@ -296,7 +296,7 @@
 		"lat": 35.65678,
 		"lng": 139.3125,
 		"rating": 6.6,
-		"color": 312,
+		"color": 210,
 		"vicinity": ""
 	},
 	{
@@ -306,17 +306,7 @@
 		"lat": 35.64223,
 		"lng": 139.2818,
 		"rating": 4,
-		"color": 336,
-		"vicinity": ""
-	},
-	{
-		"floor_type": "1LDK",
-		"line": "中央線",
-		"station": "高尾",
-		"lat": 35.64223,
-		"lng": 139.2818,
-		"rating": 8.6,
-		"color": 288,
+		"color": 250,
 		"vicinity": ""
 	}
 ]
