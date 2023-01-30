@@ -1928,5 +1928,3165 @@
 		"rating": 7,
 		"color": 180,
 		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "西武新宿線",
+		"station": "鷺ノ宮",
+		"lat": 35.722605,
+		"lng": 139.63892,
+		"rating": 7,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南武線",
+		"station": "小田栄",
+		"lat": 35.5145,
+		"lng": 139.704944,
+		"rating": 7,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "有楽町線",
+		"station": "地下鉄成増",
+		"lat": 35.776557,
+		"lng": 139.631497,
+		"rating": 7,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南武線",
+		"station": "津田山",
+		"lat": 35.60427,
+		"lng": 139.600005,
+		"rating": 7,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "有楽町線",
+		"station": "平和台",
+		"lat": 35.757863,
+		"lng": 139.653762,
+		"rating": 7,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "千代田線",
+		"station": "北綾瀬",
+		"lat": 35.7770135,
+		"lng": 139.8321012,
+		"rating": 7,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "総武線",
+		"station": "本八幡",
+		"lat": 35.72278,
+		"lng": 139.9265,
+		"rating": 7,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東急田園都市線",
+		"station": "梶が谷",
+		"lat": 35.594102,
+		"lng": 139.606008,
+		"rating": 7.1,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東横線",
+		"station": "元住吉",
+		"lat": 35.56432,
+		"lng": 139.654,
+		"rating": 7.1,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南武線",
+		"station": "浜川崎",
+		"lat": 35.510414,
+		"lng": 139.713484,
+		"rating": 7.1,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "総武線",
+		"station": "平井",
+		"lat": 35.70643,
+		"lng": 139.8425,
+		"rating": 7.1,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "豊島園",
+		"lat": 35.74191421,
+		"lng": 139.6491466,
+		"rating": 7.1,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "中央線",
+		"station": "三鷹",
+		"lat": 35.70271,
+		"lng": 139.5608,
+		"rating": 7.15,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東急田園都市線",
+		"station": "高津",
+		"lat": 35.603548,
+		"lng": 139.61747,
+		"rating": 7.2,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "有楽町線",
+		"station": "小竹向原",
+		"lat": 35.743803,
+		"lng": 139.678572,
+		"rating": 7.2,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東急田園都市線",
+		"station": "青葉台",
+		"lat": 35.542955,
+		"lng": 139.517182,
+		"rating": 7.2,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王線",
+		"station": "千歳烏山",
+		"lat": 35.668212,
+		"lng": 139.601139,
+		"rating": 7.2,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "小田急線",
+		"station": "千歳船橋",
+		"lat": 35.64735,
+		"lng": 139.62408,
+		"rating": 7.2,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南武線",
+		"station": "川崎新町",
+		"lat": 35.51818,
+		"lng": 139.699293,
+		"rating": 7.2,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "西武新宿線",
+		"station": "都立家政",
+		"lat": 35.722333,
+		"lng": 139.644586,
+		"rating": 7.2,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東急田園都市線",
+		"station": "二子新地",
+		"lat": 35.607125,
+		"lng": 139.622399,
+		"rating": 7.2,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "有楽町線",
+		"station": "氷川台",
+		"lat": 35.749822,
+		"lng": 139.665023,
+		"rating": 7.2,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "日比谷線",
+		"station": "北千住",
+		"lat": 35.749412,
+		"lng": 139.805108,
+		"rating": 7.2,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南武線",
+		"station": "尻手",
+		"lat": 35.531064,
+		"lng": 139.684389,
+		"rating": 7.25,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "三田線",
+		"station": "志村三丁目",
+		"lat": 35.777464,
+		"lng": 139.685962,
+		"rating": 7.28,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王井の頭線",
+		"station": "吉祥寺",
+		"lat": 35.7021121,
+		"lng": 139.5804526,
+		"rating": 7.3,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王井の頭線",
+		"station": "久我山",
+		"lat": 35.687797,
+		"lng": 139.599703,
+		"rating": 7.3,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "世田谷線",
+		"station": "宮の坂",
+		"lat": 35.64797,
+		"lng": 139.645,
+		"rating": 7.3,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "世田谷線",
+		"station": "山下",
+		"lat": 35.65373,
+		"lng": 139.6473,
+		"rating": 7.3,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "三田線",
+		"station": "新高島平",
+		"lat": 35.790294,
+		"lng": 139.654267,
+		"rating": 7.3,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "三田線",
+		"station": "西台",
+		"lat": 35.786926,
+		"lng": 139.673987,
+		"rating": 7.3,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "有楽町線",
+		"station": "千川",
+		"lat": 35.738418,
+		"lng": 139.689157,
+		"rating": 7.3,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京浜東北線",
+		"station": "東神奈川",
+		"lat": 35.477951,
+		"lng": 139.633347,
+		"rating": 7.3,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "三田線",
+		"station": "蓮根",
+		"lat": 35.784174,
+		"lng": 139.67904,
+		"rating": 7.3,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王線",
+		"station": "芦花公園",
+		"lat": 35.670542,
+		"lng": 139.608224,
+		"rating": 7.4,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東急田園都市線",
+		"station": "溝の口",
+		"lat": 35.600032,
+		"lng": 139.610626,
+		"rating": 7.4,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "三田線",
+		"station": "高島平",
+		"lat": 35.788833,
+		"lng": 139.661172,
+		"rating": 7.4,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王井の頭線",
+		"station": "西永福",
+		"lat": 35.678798,
+		"lng": 139.635383,
+		"rating": 7.4,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南武線",
+		"station": "八丁畷",
+		"lat": 35.523113,
+		"lng": 139.691488,
+		"rating": 7.4,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南武線",
+		"station": "矢向",
+		"lat": 35.538933,
+		"lng": 139.680422,
+		"rating": 7.4,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王井の頭線",
+		"station": "井の頭公園",
+		"lat": 35.697506,
+		"lng": 139.582696,
+		"rating": 7.5,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "小田急線",
+		"station": "経堂",
+		"lat": 35.651316,
+		"lng": 139.636437,
+		"rating": 7.5,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王線",
+		"station": "桜上水",
+		"lat": 35.6674481,
+		"lng": 139.6318829,
+		"rating": 7.5,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王井の頭線",
+		"station": "三鷹台",
+		"lat": 35.692235,
+		"lng": 139.588903,
+		"rating": 7.5,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "三田線",
+		"station": "志村坂上",
+		"lat": 35.775725,
+		"lng": 139.69538,
+		"rating": 7.5,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南武線",
+		"station": "鹿島田",
+		"lat": 35.551331,
+		"lng": 139.675131,
+		"rating": 7.5,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "西武新宿線",
+		"station": "沼袋",
+		"lat": 35.719458,
+		"lng": 139.663841,
+		"rating": 7.5,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王線",
+		"station": "上北沢",
+		"lat": 35.6688276,
+		"lng": 139.6233971,
+		"rating": 7.5,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南武線",
+		"station": "川崎",
+		"lat": 35.531328,
+		"lng": 139.696899,
+		"rating": 7.5,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "小田急線",
+		"station": "梅ヶ丘",
+		"lat": 35.6560169,
+		"lng": 139.6536376,
+		"rating": 7.5,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王線",
+		"station": "八幡山",
+		"lat": 35.6698304,
+		"lng": 139.6161352,
+		"rating": 7.5,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王井の頭線",
+		"station": "浜田山",
+		"lat": 35.681628,
+		"lng": 139.627509,
+		"rating": 7.5,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王井の頭線",
+		"station": "富士見ヶ丘",
+		"lat": 35.6847865,
+		"lng": 139.6072018,
+		"rating": 7.5,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南武線",
+		"station": "武蔵溝ノ口",
+		"lat": 35.599032,
+		"lng": 139.611207,
+		"rating": 7.5,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "三田線",
+		"station": "本蓮沼",
+		"lat": 35.768782,
+		"lng": 139.702324,
+		"rating": 7.5,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "西武新宿線",
+		"station": "野方",
+		"lat": 35.719658,
+		"lng": 139.652733,
+		"rating": 7.5,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "中央線",
+		"station": "阿佐ケ谷",
+		"lat": 35.70482,
+		"lng": 139.6359,
+		"rating": 7.6,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "中央線",
+		"station": "荻窪",
+		"lat": 35.70463,
+		"lng": 139.62,
+		"rating": 7.6,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京浜東北線",
+		"station": "関内",
+		"lat": 35.443233,
+		"lng": 139.637134,
+		"rating": 7.6,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王井の頭線",
+		"station": "高井戸",
+		"lat": 35.68322,
+		"lng": 139.615257,
+		"rating": 7.6,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京浜東北線",
+		"station": "桜木町",
+		"lat": 35.450918,
+		"lng": 139.631073,
+		"rating": 7.6,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "横浜線",
+		"station": "新横浜",
+		"lat": 35.50679,
+		"lng": 139.6175,
+		"rating": 7.6,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "新江古田",
+		"lat": 35.732538,
+		"lng": 139.670653,
+		"rating": 7.6,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "三田線",
+		"station": "新板橋",
+		"lat": 35.748802,
+		"lng": 139.719604,
+		"rating": 7.6,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京浜東北線",
+		"station": "東十条",
+		"lat": 35.762947,
+		"lng": 139.727694,
+		"rating": 7.6,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東急田園都市線",
+		"station": "二子玉川",
+		"lat": 35.611499,
+		"lng": 139.626624,
+		"rating": 7.6,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東横線",
+		"station": "反町",
+		"lat": 35.47474,
+		"lng": 139.6253,
+		"rating": 7.6,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "練馬",
+		"lat": 35.73782,
+		"lng": 139.653566,
+		"rating": 7.6,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京浜東北線",
+		"station": "上中里",
+		"lat": 35.746586,
+		"lng": 139.746927,
+		"rating": 7.62,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "千代田線",
+		"station": "町屋",
+		"lat": 35.742268,
+		"lng": 139.781435,
+		"rating": 7.68,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "中央線",
+		"station": "高円寺",
+		"lat": 35.70539,
+		"lng": 139.6499,
+		"rating": 7.7,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "横浜線",
+		"station": "成瀬",
+		"lat": 35.53551,
+		"lng": 139.4729,
+		"rating": 7.7,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東急田園都市線",
+		"station": "藤が丘",
+		"lat": 35.543595,
+		"lng": 139.527873,
+		"rating": 7.7,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南武線",
+		"station": "武蔵新城",
+		"lat": 35.587225,
+		"lng": 139.629691,
+		"rating": 7.7,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王井の頭線",
+		"station": "永福町",
+		"lat": 35.67620816,
+		"lng": 139.6427251,
+		"rating": 7.8,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "世田谷線",
+		"station": "松原",
+		"lat": 35.66005,
+		"lng": 139.642,
+		"rating": 7.8,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南北線",
+		"station": "西ヶ原",
+		"lat": 35.746008,
+		"lng": 139.742322,
+		"rating": 7.8,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京浜東北線",
+		"station": "石川町",
+		"lat": 35.438247,
+		"lng": 139.643151,
+		"rating": 7.8,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京浜東北線",
+		"station": "赤羽",
+		"lat": 35.778051,
+		"lng": 139.720856,
+		"rating": 7.8,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東横線",
+		"station": "武蔵小杉",
+		"lat": 35.57657,
+		"lng": 139.6594,
+		"rating": 7.8,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南北線",
+		"station": "王子神谷",
+		"lat": 35.765172,
+		"lng": 139.735933,
+		"rating": 7.85,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "中央線",
+		"station": "西荻窪",
+		"lat": 35.70384,
+		"lng": 139.5994,
+		"rating": 7.9,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "三田線",
+		"station": "西巣鴨",
+		"lat": 35.743508,
+		"lng": 139.728712,
+		"rating": 7.9,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "三田線",
+		"station": "板橋本町",
+		"lat": 35.761339,
+		"lng": 139.705535,
+		"rating": 7.9,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南武線",
+		"station": "平間",
+		"lat": 35.56104,
+		"lng": 139.671039,
+		"rating": 7.9,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "落合南長崎",
+		"lat": 35.723608,
+		"lng": 139.683303,
+		"rating": 7.9,
+		"color": 180,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南北線",
+		"station": "王子",
+		"lat": 35.752474,
+		"lng": 139.738139,
+		"rating": 8,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "小田急線",
+		"station": "下北沢",
+		"lat": 35.6615465,
+		"lng": 139.6669002,
+		"rating": 8,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "副都心線",
+		"station": "雑司が谷",
+		"lat": 35.72034,
+		"lng": 139.715003,
+		"rating": 8,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "世田谷線",
+		"station": "上町",
+		"lat": 35.64341,
+		"lng": 139.6466,
+		"rating": 8,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "丸ノ内線",
+		"station": "新高円寺",
+		"lat": 35.697985,
+		"lng": 139.648068,
+		"rating": 8,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "世田谷線",
+		"station": "世田谷",
+		"lat": 35.64345,
+		"lng": 139.6506,
+		"rating": 8,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "小田急線",
+		"station": "世田谷代田",
+		"lat": 35.658174,
+		"lng": 139.661252,
+		"rating": 8,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "丸ノ内線",
+		"station": "南阿佐ケ谷",
+		"lat": 35.699624,
+		"lng": 139.63576,
+		"rating": 8,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "三田線",
+		"station": "板橋区役所前",
+		"lat": 35.751326,
+		"lng": 139.710166,
+		"rating": 8,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王線",
+		"station": "下高井戸",
+		"lat": 35.6661402,
+		"lng": 139.6414073,
+		"rating": 8.1,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南武線",
+		"station": "向河原",
+		"lat": 35.572908,
+		"lng": 139.667242,
+		"rating": 8.1,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "都営浅草",
+		"station": "西馬込",
+		"lat": 35.586859,
+		"lng": 139.705942,
+		"rating": 8.1,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南北線",
+		"station": "赤羽岩淵",
+		"lat": 35.783417,
+		"lng": 139.722103,
+		"rating": 8.1,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "有楽町線",
+		"station": "要町",
+		"lat": 35.73323,
+		"lng": 139.698715,
+		"rating": 8.12,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東横線",
+		"station": "新丸子",
+		"lat": 35.58063,
+		"lng": 139.6619,
+		"rating": 8.15,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "横浜線",
+		"station": "小机",
+		"lat": 35.50855,
+		"lng": 139.6001,
+		"rating": 8.2,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "世田谷線",
+		"station": "松陰神社前",
+		"lat": 35.64399,
+		"lng": 139.6552,
+		"rating": 8.2,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "千代田線",
+		"station": "西日暮里",
+		"lat": 35.732135,
+		"lng": 139.766787,
+		"rating": 8.2,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東横線",
+		"station": "田園調布",
+		"lat": 35.60384,
+		"lng": 139.6723,
+		"rating": 8.2,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王井の頭線",
+		"station": "東松原",
+		"lat": 35.662656,
+		"lng": 139.655652,
+		"rating": 8.2,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "東中野",
+		"lat": 35.7061217,
+		"lng": 139.6837906,
+		"rating": 8.2,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "都営浅草",
+		"station": "馬込",
+		"lat": 35.596435,
+		"lng": 139.711772,
+		"rating": 8.2,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東横線",
+		"station": "多摩川",
+		"lat": 35.58977,
+		"lng": 139.6688,
+		"rating": 8.3,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東西線",
+		"station": "中野",
+		"lat": 35.706032,
+		"lng": 139.665652,
+		"rating": 8.3,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "丸ノ内線",
+		"station": "東高円寺",
+		"lat": 35.697802,
+		"lng": 139.657822,
+		"rating": 8.3,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王線",
+		"station": "明大前",
+		"lat": 35.6683488,
+		"lng": 139.6505541,
+		"rating": 8.3,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "新宿線",
+		"station": "東大島",
+		"lat": 35.690347,
+		"lng": 139.84596,
+		"rating": 8.35,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東横線",
+		"station": "横浜",
+		"lat": 35.46619,
+		"lng": 139.6227,
+		"rating": 8.4,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "山手線",
+		"station": "大塚",
+		"lat": 35.73159,
+		"lng": 139.7293,
+		"rating": 8.4,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "中井",
+		"lat": 35.715065,
+		"lng": 139.687264,
+		"rating": 8.4,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "日比谷線",
+		"station": "南千住",
+		"lat": 35.733336,
+		"lng": 139.799171,
+		"rating": 8.4,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東西線",
+		"station": "落合",
+		"lat": 35.71074,
+		"lng": 139.686337,
+		"rating": 8.4,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "丸ノ内線",
+		"station": "方南町",
+		"lat": 35.683496,
+		"lng": 139.656498,
+		"rating": 8.42,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "三田線",
+		"station": "巣鴨",
+		"lat": 35.733492,
+		"lng": 139.739345,
+		"rating": 8.45,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "有楽町線",
+		"station": "東池袋",
+		"lat": 35.725362,
+		"lng": 139.720435,
+		"rating": 8.45,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "有楽町線",
+		"station": "護国寺",
+		"lat": 35.719044,
+		"lng": 139.72754,
+		"rating": 8.5,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "日比谷線",
+		"station": "三ノ輪",
+		"lat": 35.729528,
+		"lng": 139.79133,
+		"rating": 8.5,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王井の頭線",
+		"station": "新代田",
+		"lat": 35.662593,
+		"lng": 139.660524,
+		"rating": 8.5,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "小田急線",
+		"station": "東北沢",
+		"lat": 35.665609,
+		"lng": 139.673228,
+		"rating": 8.5,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "山手線",
+		"station": "日暮里",
+		"lat": 35.72777,
+		"lng": 139.771,
+		"rating": 8.5,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南武線",
+		"station": "武蔵中原",
+		"lat": 35.58066162,
+		"lng": 139.6421011,
+		"rating": 8.5,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "丸ノ内線",
+		"station": "新中野",
+		"lat": 35.697491,
+		"lng": 139.66903,
+		"rating": 8.6,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "千代田線",
+		"station": "千駄木",
+		"lat": 35.725549,
+		"lng": 139.763243,
+		"rating": 8.6,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王線",
+		"station": "代田橋",
+		"lat": 35.671071,
+		"lng": 139.659387,
+		"rating": 8.6,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "丸ノ内線",
+		"station": "中野富士見町",
+		"lat": 35.690514,
+		"lng": 139.666933,
+		"rating": 8.6,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "半蔵門線",
+		"station": "押上",
+		"lat": 35.710702,
+		"lng": 139.812935,
+		"rating": 8.7,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京浜東北線",
+		"station": "蒲田",
+		"lat": 35.562479,
+		"lng": 139.716051,
+		"rating": 8.7,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東急田園都市線",
+		"station": "駒沢大学",
+		"lat": 35.633471,
+		"lng": 139.661702,
+		"rating": 8.7,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "世田谷線",
+		"station": "若林",
+		"lat": 35.646,
+		"lng": 139.6599,
+		"rating": 8.7,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "西武新宿線",
+		"station": "新井薬師前",
+		"lat": 35.715795,
+		"lng": 139.671885,
+		"rating": 8.7,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "山手線",
+		"station": "田端",
+		"lat": 35.73806,
+		"lng": 139.7609,
+		"rating": 8.7,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "三田線",
+		"station": "白山",
+		"lat": 35.72133,
+		"lng": 139.752078,
+		"rating": 8.7,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "山手線",
+		"station": "目白",
+		"lat": 35.7212,
+		"lng": 139.7066,
+		"rating": 8.7,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東横線",
+		"station": "学芸大学",
+		"lat": 35.62885,
+		"lng": 139.6853,
+		"rating": 8.8,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王線",
+		"station": "笹塚",
+		"lat": 35.673654,
+		"lng": 139.667136,
+		"rating": 8.8,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "三越前",
+		"lat": 35.684888,
+		"lng": 139.773161,
+		"rating": 8.8,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "千代田線",
+		"station": "代々木上原",
+		"lat": 35.669062,
+		"lng": 139.679678,
+		"rating": 8.8,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "丸ノ内線",
+		"station": "中野新橋",
+		"lat": 35.692123,
+		"lng": 139.673997,
+		"rating": 8.8,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王線",
+		"station": "幡ヶ谷",
+		"lat": 35.6770576,
+		"lng": 139.6761859,
+		"rating": 8.8,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "中野坂上",
+		"lat": 35.69792,
+		"lng": 139.68291,
+		"rating": 8.85,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京浜東北線",
+		"station": "大森",
+		"lat": 35.588442,
+		"lng": 139.727929,
+		"rating": 8.88,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東急田園都市線",
+		"station": "桜新町",
+		"lat": 35.631666,
+		"lng": 139.644779,
+		"rating": 8.9,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "春日",
+		"lat": 35.70982923,
+		"lng": 139.7531854,
+		"rating": 8.9,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "副都心線",
+		"station": "西早稲田",
+		"lat": 35.707941,
+		"lng": 139.709093,
+		"rating": 8.9,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東西線",
+		"station": "早稲田",
+		"lat": 35.705723,
+		"lng": 139.721319,
+		"rating": 8.9,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京浜東北線",
+		"station": "大井町",
+		"lat": 35.606249,
+		"lng": 139.734855,
+		"rating": 8.9,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "都営浅草",
+		"station": "中延",
+		"lat": 35.605479,
+		"lng": 139.713679,
+		"rating": 8.9,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南北線",
+		"station": "東大前",
+		"lat": 35.717633,
+		"lng": 139.758025,
+		"rating": 8.9,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "日本橋",
+		"lat": 35.682413,
+		"lng": 139.773919,
+		"rating": 8.9,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東横線",
+		"station": "祐天寺",
+		"lat": 35.6377,
+		"lng": 139.6912,
+		"rating": 8.9,
+		"color": 150,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "都営浅草",
+		"station": "本所吾妻橋",
+		"lat": 35.70858,
+		"lng": 139.804624,
+		"rating": 8.95,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "総武線",
+		"station": "亀戸",
+		"lat": 35.69759,
+		"lng": 139.8261,
+		"rating": 9,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "小田急線",
+		"station": "参宮橋",
+		"lat": 35.678714,
+		"lng": 139.693562,
+		"rating": 9,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "上野広小路",
+		"lat": 35.70766,
+		"lng": 139.772977,
+		"rating": 9,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "新宿線",
+		"station": "大島",
+		"lat": 35.689905,
+		"lng": 139.83565,
+		"rating": 9,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "日比谷線",
+		"station": "八丁堀",
+		"lat": 35.674617,
+		"lng": 139.777705,
+		"rating": 9,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "浅草",
+		"lat": 35.712074,
+		"lng": 139.79843,
+		"rating": 9.05,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南北線",
+		"station": "本駒込",
+		"lat": 35.724155,
+		"lng": 139.753828,
+		"rating": 9.1,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "西武新宿線",
+		"station": "下落合",
+		"lat": 35.715846,
+		"lng": 139.695152,
+		"rating": 9.2,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東西線",
+		"station": "高田馬場",
+		"lat": 35.712285,
+		"lng": 139.703782,
+		"rating": 9.2,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東横線",
+		"station": "自由が丘",
+		"lat": 35.60758,
+		"lng": 139.6691,
+		"rating": 9.2,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "西新宿五丁目",
+		"lat": 35.68988048,
+		"lng": 139.6845509,
+		"rating": 9.2,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "新宿線",
+		"station": "西大島",
+		"lat": 35.689349,
+		"lng": 139.826206,
+		"rating": 9.2,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "三田線",
+		"station": "千石",
+		"lat": 35.727957,
+		"lng": 139.744792,
+		"rating": 9.2,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "山手線",
+		"station": "池袋",
+		"lat": 35.72893,
+		"lng": 139.7104,
+		"rating": 9.2,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東急田園都市線",
+		"station": "用賀",
+		"lat": 35.626436,
+		"lng": 139.633928,
+		"rating": 9.2,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "半蔵門線",
+		"station": "錦糸町",
+		"lat": 35.696437,
+		"lng": 139.813949,
+		"rating": 9.25,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "半蔵門線",
+		"station": "住吉",
+		"lat": 35.689071,
+		"lng": 139.815651,
+		"rating": 9.25,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "都営浅草",
+		"station": "戸越",
+		"lat": 35.614719,
+		"lng": 139.716398,
+		"rating": 9.3,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "丸ノ内線",
+		"station": "新大塚",
+		"lat": 35.725793,
+		"lng": 139.729915,
+		"rating": 9.3,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東西線",
+		"station": "東陽町",
+		"lat": 35.669629,
+		"lng": 139.817596,
+		"rating": 9.3,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "日比谷線",
+		"station": "入谷",
+		"lat": 35.720734,
+		"lng": 139.784542,
+		"rating": 9.3,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "丸ノ内線",
+		"station": "茗荷谷",
+		"lat": 35.717305,
+		"lng": 139.736734,
+		"rating": 9.3,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "丸ノ内線",
+		"station": "後楽園",
+		"lat": 35.707337,
+		"lng": 139.7512,
+		"rating": 9.4,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王線",
+		"station": "初台",
+		"lat": 35.6809863,
+		"lng": 139.6861815,
+		"rating": 9.4,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東西線",
+		"station": "南砂町",
+		"lat": 35.668796,
+		"lng": 139.83065,
+		"rating": 9.4,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "両国",
+		"lat": 35.69661868,
+		"lng": 139.7973666,
+		"rating": 9.4,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "日比谷線",
+		"station": "茅場町",
+		"lat": 35.679752,
+		"lng": 139.780005,
+		"rating": 9.5,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "山手線",
+		"station": "新大久保",
+		"lat": 35.70131,
+		"lng": 139.7,
+		"rating": 9.5,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "田原町",
+		"lat": 35.709855,
+		"lng": 139.7908,
+		"rating": 9.5,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東西線",
+		"station": "木場",
+		"lat": 35.669457,
+		"lng": 139.806528,
+		"rating": 9.5,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東西線",
+		"station": "門前仲町",
+		"lat": 35.67246748,
+		"lng": 139.7947264,
+		"rating": 9.5,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "山手線",
+		"station": "鶯谷",
+		"lat": 35.7205,
+		"lng": 139.7788,
+		"rating": 9.5,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南北線",
+		"station": "駒込",
+		"lat": 35.736489,
+		"lng": 139.746875,
+		"rating": 9.6,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東急田園都市線",
+		"station": "三軒茶屋",
+		"lat": 35.643515,
+		"lng": 139.671162,
+		"rating": 9.6,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "千代田線",
+		"station": "代々木公園",
+		"lat": 35.668954,
+		"lng": 139.691318,
+		"rating": 9.6,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "山手線",
+		"station": "大崎",
+		"lat": 35.6197,
+		"lng": 139.7286,
+		"rating": 9.6,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "丸ノ内線",
+		"station": "本郷三丁目",
+		"lat": 35.70744156,
+		"lng": 139.7604488,
+		"rating": 9.6,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "有楽町線",
+		"station": "新木場",
+		"lat": 35.646157,
+		"lng": 139.827426,
+		"rating": 9.65,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "有楽町線",
+		"station": "江戸川橋",
+		"lat": 35.709495,
+		"lng": 139.733538,
+		"rating": 9.7,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南北線",
+		"station": "市ケ谷",
+		"lat": 35.69121073,
+		"lng": 139.7364902,
+		"rating": 9.7,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "若松河田",
+		"lat": 35.699218,
+		"lng": 139.718184,
+		"rating": 9.7,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "有楽町線",
+		"station": "辰巳",
+		"lat": 35.645576,
+		"lng": 139.81052,
+		"rating": 9.7,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "有楽町線",
+		"station": "豊洲",
+		"lat": 35.654908,
+		"lng": 139.79621,
+		"rating": 9.7,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "有楽町線",
+		"station": "有楽町",
+		"lat": 35.675069,
+		"lng": 139.763328,
+		"rating": 9.7,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "千代田線",
+		"station": "根津",
+		"lat": 35.717373,
+		"lng": 139.765741,
+		"rating": 9.8,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "新宿西口",
+		"lat": 35.693315,
+		"lng": 139.699155,
+		"rating": 9.8,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "森下",
+		"lat": 35.68800786,
+		"lng": 139.7981729,
+		"rating": 9.8,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "半蔵門線",
+		"station": "清澄白河",
+		"lat": 35.682105,
+		"lng": 139.798851,
+		"rating": 9.8,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "世田谷線",
+		"station": "西太子堂",
+		"lat": 35.64466,
+		"lng": 139.6662,
+		"rating": 9.8,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "小田急線",
+		"station": "代々木八幡",
+		"lat": 35.669484,
+		"lng": 139.688635,
+		"rating": 9.8,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "日比谷線",
+		"station": "中目黒",
+		"lat": 35.644307,
+		"lng": 139.699157,
+		"rating": 9.8,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "副都心線",
+		"station": "東新宿",
+		"lat": 35.69792,
+		"lng": 139.707549,
+		"rating": 9.8,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "都営浅草",
+		"station": "宝町",
+		"lat": 35.675461,
+		"lng": 139.771767,
+		"rating": 9.8,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "中央線",
+		"station": "大久保",
+		"lat": 35.70072,
+		"lng": 139.6974,
+		"rating": 9.85,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "稲荷町",
+		"lat": 35.711352,
+		"lng": 139.782734,
+		"rating": 9.9,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "有楽町線",
+		"station": "月島",
+		"lat": 35.66381998,
+		"lng": 139.78391,
+		"rating": 9.9,
+		"color": 120,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "牛込柳町",
+		"lat": 35.699518,
+		"lng": 139.725027,
+		"rating": 10,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "中央線",
+		"station": "御茶ノ水",
+		"lat": 35.69986,
+		"lng": 139.7638,
+		"rating": 10,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "勝どき",
+		"lat": 35.65895602,
+		"lng": 139.7771088,
+		"rating": 10,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "蔵前",
+		"lat": 35.70546256,
+		"lng": 139.7925091,
+		"rating": 10,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王井の頭線",
+		"station": "池ノ上",
+		"lat": 35.660452,
+		"lng": 139.673117,
+		"rating": 10,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "日比谷線",
+		"station": "築地",
+		"lat": 35.668115,
+		"lng": 139.772603,
+		"rating": 10,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "千代田線",
+		"station": "湯島",
+		"lat": 35.708243,
+		"lng": 139.769916,
+		"rating": 10,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "神田",
+		"lat": 35.69169,
+		"lng": 139.770883,
+		"rating": 10.1,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東横線",
+		"station": "都立大学",
+		"lat": 35.61784,
+		"lng": 139.6764,
+		"rating": 10.1,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "山手線",
+		"station": "品川",
+		"lat": 35.63015,
+		"lng": 139.7404,
+		"rating": 10.1,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "都庁前",
+		"lat": 35.69057568,
+		"lng": 139.6926611,
+		"rating": 10.15,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "新宿線",
+		"station": "菊川",
+		"lat": 35.688379,
+		"lng": 139.806016,
+		"rating": 10.2,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "京橋",
+		"lat": 35.67685,
+		"lng": 139.7701,
+		"rating": 10.2,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "日比谷線",
+		"station": "小伝馬町",
+		"lat": 35.690737,
+		"lng": 139.778433,
+		"rating": 10.2,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "半蔵門線",
+		"station": "水天宮前",
+		"lat": 35.682061,
+		"lng": 139.786035,
+		"rating": 10.2,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "山手線",
+		"station": "高輪ゲートウェイ",
+		"lat": 35.6355,
+		"lng": 139.7407,
+		"rating": 10.3,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "日比谷線",
+		"station": "人形町",
+		"lat": 35.686307,
+		"lng": 139.782285,
+		"rating": 10.3,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "三田線",
+		"station": "水道橋",
+		"lat": 35.70203,
+		"lng": 139.753653,
+		"rating": 10.3,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "都営浅草",
+		"station": "東日本橋",
+		"lat": 35.692126,
+		"lng": 139.784821,
+		"rating": 10.3,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "山手線",
+		"station": "五反田",
+		"lat": 35.62645,
+		"lng": 139.7234,
+		"rating": 10.35,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "新御徒町",
+		"lat": 35.707055,
+		"lng": 139.78194,
+		"rating": 10.35,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "上野",
+		"lat": 35.713768,
+		"lng": 139.777254,
+		"rating": 10.4,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "都営浅草",
+		"station": "浅草橋",
+		"lat": 35.69745239,
+		"lng": 139.7863697,
+		"rating": 10.4,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "副都心線",
+		"station": "北参道",
+		"lat": 35.678156,
+		"lng": 139.705678,
+		"rating": 10.4,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "有楽町線",
+		"station": "銀座一丁目",
+		"lat": 35.67435,
+		"lng": 139.767045,
+		"rating": 10.5,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "有楽町線",
+		"station": "新富町",
+		"lat": 35.670462,
+		"lng": 139.773711,
+		"rating": 10.5,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東西線",
+		"station": "神楽坂",
+		"lat": 35.703904,
+		"lng": 139.734238,
+		"rating": 10.5,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "都営浅草",
+		"station": "泉岳寺",
+		"lat": 35.638692,
+		"lng": 139.74002,
+		"rating": 10.5,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東急田園都市線",
+		"station": "池尻大橋",
+		"lat": 35.650603,
+		"lng": 139.684319,
+		"rating": 10.5,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "山手線",
+		"station": "田町",
+		"lat": 35.64574,
+		"lng": 139.7476,
+		"rating": 10.5,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "都営浅草",
+		"station": "三田",
+		"lat": 35.64818,
+		"lng": 139.748775,
+		"rating": 10.6,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "日比谷線",
+		"station": "秋葉原",
+		"lat": 35.698683,
+		"lng": 139.774219,
+		"rating": 10.7,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "築地市場",
+		"lat": 35.664895,
+		"lng": 139.766915,
+		"rating": 10.7,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "末広町",
+		"lat": 35.702972,
+		"lng": 139.771713,
+		"rating": 10.7,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南北線",
+		"station": "目黒",
+		"lat": 35.633998,
+		"lng": 139.715828,
+		"rating": 10.7,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "牛込神楽坂",
+		"lat": 35.700851,
+		"lng": 139.735802,
+		"rating": 10.8,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "半蔵門線",
+		"station": "九段下",
+		"lat": 35.69543188,
+		"lng": 139.7511257,
+		"rating": 10.8,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "日比谷線",
+		"station": "東銀座",
+		"lat": 35.669464,
+		"lng": 139.767253,
+		"rating": 10.8,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王井の頭線",
+		"station": "駒場東大前",
+		"lat": 35.658655,
+		"lng": 139.684483,
+		"rating": 10.85,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "銀座",
+		"lat": 35.671989,
+		"lng": 139.763965,
+		"rating": 10.9,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "山手線",
+		"station": "御徒町",
+		"lat": 35.70796,
+		"lng": 139.7734,
+		"rating": 10.9,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "新宿",
+		"lat": 35.68844644,
+		"lng": 139.6986016,
+		"rating": 10.9,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "丸ノ内線",
+		"station": "新宿御苑前",
+		"lat": 35.688588,
+		"lng": 139.71069,
+		"rating": 10.9,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "丸ノ内線",
+		"station": "新宿三丁目",
+		"lat": 35.690616,
+		"lng": 139.706271,
+		"rating": 10.9,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "三田線",
+		"station": "内幸町",
+		"lat": 35.66975,
+		"lng": 139.75561,
+		"rating": 10.9,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南北線",
+		"station": "飯田橋",
+		"lat": 35.702065,
+		"lng": 139.745015,
+		"rating": 10.9,
+		"color": 90,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "虎ノ門",
+		"lat": 35.670236,
+		"lng": 139.749832,
+		"rating": 11,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "丸ノ内線",
+		"station": "四谷三丁目",
+		"lat": 35.687958,
+		"lng": 139.720103,
+		"rating": 11,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "丸ノ内線",
+		"station": "西新宿",
+		"lat": 35.694298,
+		"lng": 139.692778,
+		"rating": 11,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "日比谷線",
+		"station": "仲御徒町",
+		"lat": 35.706555,
+		"lng": 139.776202,
+		"rating": 11,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "中央線",
+		"station": "四ツ谷",
+		"lat": 35.68601,
+		"lng": 139.7307,
+		"rating": 11.1,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "上野御徒町",
+		"lat": 35.70796362,
+		"lng": 139.7733663,
+		"rating": 11.2,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東横線",
+		"station": "代官山",
+		"lat": 35.6481,
+		"lng": 139.7032,
+		"rating": 11.2,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "代々木",
+		"lat": 35.68304384,
+		"lng": 139.7020716,
+		"rating": 11.2,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "小田急線",
+		"station": "南新宿",
+		"lat": 35.683469,
+		"lng": 139.698517,
+		"rating": 11.2,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "日比谷線",
+		"station": "恵比寿",
+		"lat": 35.64669,
+		"lng": 139.710106,
+		"rating": 11.3,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "千代田線",
+		"station": "新御茶ノ水",
+		"lat": 35.698072,
+		"lng": 139.766014,
+		"rating": 11.3,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "半蔵門線",
+		"station": "神保町",
+		"lat": 35.69591611,
+		"lng": 139.7574395,
+		"rating": 11.3,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "新宿線",
+		"station": "馬喰横山",
+		"lat": 35.69196024,
+		"lng": 139.7829432,
+		"rating": 11.3,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "新宿線",
+		"station": "浜町",
+		"lat": 35.68841084,
+		"lng": 139.7879337,
+		"rating": 11.3,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "新宿線",
+		"station": "曙橋",
+		"lat": 35.6923758,
+		"lng": 139.7226303,
+		"rating": 11.4,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "新橋",
+		"lat": 35.665498,
+		"lng": 139.75964,
+		"rating": 11.4,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "山手線",
+		"station": "原宿",
+		"lat": 35.67017,
+		"lng": 139.7027,
+		"rating": 11.5,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "三田線",
+		"station": "御成門",
+		"lat": 35.66047505,
+		"lng": 139.7512023,
+		"rating": 11.5,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "日比谷線",
+		"station": "広尾",
+		"lat": 35.652279,
+		"lng": 139.722227,
+		"rating": 11.5,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "汐留",
+		"lat": 35.66288729,
+		"lng": 139.7601405,
+		"rating": 11.5,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "三田線",
+		"station": "芝公園",
+		"lat": 35.654071,
+		"lng": 139.749838,
+		"rating": 11.5,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "渋谷",
+		"lat": 35.6586161,
+		"lng": 139.6993714,
+		"rating": 11.5,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "赤羽橋",
+		"lat": 35.655007,
+		"lng": 139.743642,
+		"rating": 11.5,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南北線",
+		"station": "白金高輪",
+		"lat": 35.642903,
+		"lng": 139.734104,
+		"rating": 11.5,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "表参道",
+		"lat": 35.665247,
+		"lng": 139.712314,
+		"rating": 11.5,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "都営浅草",
+		"station": "高輪台",
+		"lat": 35.631679,
+		"lng": 139.730305,
+		"rating": 11.7,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "京王井の頭線",
+		"station": "神泉",
+		"lat": 35.657241,
+		"lng": 139.693641,
+		"rating": 11.7,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "大門",
+		"lat": 35.65689055,
+		"lng": 139.7546994,
+		"rating": 11.7,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "山手線",
+		"station": "浜松町",
+		"lat": 35.65565,
+		"lng": 139.7567,
+		"rating": 11.7,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "新宿線",
+		"station": "岩本町",
+		"lat": 35.69557039,
+		"lng": 139.7751319,
+		"rating": 11.8,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "東西線",
+		"station": "竹橋",
+		"lat": 35.690662,
+		"lng": 139.756817,
+		"rating": 11.8,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南北線",
+		"station": "白金台",
+		"lat": 35.637917,
+		"lng": 139.726133,
+		"rating": 11.85,
+		"color": 60,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "丸ノ内線",
+		"station": "東京",
+		"lat": 35.681382,
+		"lng": 139.766084,
+		"rating": 12,
+		"color": 50,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "半蔵門線",
+		"station": "半蔵門",
+		"lat": 35.685703,
+		"lng": 139.741644,
+		"rating": 12,
+		"color": 50,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "有楽町線",
+		"station": "麹町",
+		"lat": 35.684006,
+		"lng": 139.737613,
+		"rating": 12.1,
+		"color": 50,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "中央線",
+		"station": "信濃町",
+		"lat": 35.68009,
+		"lng": 139.7202,
+		"rating": 12.1,
+		"color": 50,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "千代田線",
+		"station": "乃木坂",
+		"lat": 35.666572,
+		"lng": 139.726215,
+		"rating": 12.1,
+		"color": 50,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南北線",
+		"station": "麻布十番",
+		"lat": 35.65639015,
+		"lng": 139.7365049,
+		"rating": 12.2,
+		"color": 50,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "丸ノ内線",
+		"station": "淡路町",
+		"lat": 35.69513945,
+		"lng": 139.7668353,
+		"rating": 12.35,
+		"color": 50,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "千代田線",
+		"station": "明治神宮前",
+		"lat": 35.669071,
+		"lng": 139.703995,
+		"rating": 12.35,
+		"color": 50,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "日比谷線",
+		"station": "神谷町",
+		"lat": 35.662978,
+		"lng": 139.745069,
+		"rating": 12.4,
+		"color": 50,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "日比谷線",
+		"station": "六本木",
+		"lat": 35.6639902,
+		"lng": 139.7314148,
+		"rating": 12.4,
+		"color": 50,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "西武新宿線",
+		"station": "西武新宿",
+		"lat": 35.696254,
+		"lng": 139.7,
+		"rating": 12.5,
+		"color": 50,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "中央線",
+		"station": "千駄ケ谷",
+		"lat": 35.68123,
+		"lng": 139.7116,
+		"rating": 12.5,
+		"color": 50,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "半蔵門線",
+		"station": "大手町",
+		"lat": 35.684801,
+		"lng": 139.766086,
+		"rating": 12.5,
+		"color": 50,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "半蔵門線",
+		"station": "永田町",
+		"lat": 35.678757,
+		"lng": 139.740258,
+		"rating": 12.6,
+		"color": 50,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "大江戸線",
+		"station": "国立競技場",
+		"lat": 35.68016223,
+		"lng": 139.713749,
+		"rating": 12.6,
+		"color": 50,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "青山一丁目",
+		"lat": 35.67276462,
+		"lng": 139.7239043,
+		"rating": 12.8,
+		"color": 50,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "日比谷線",
+		"station": "虎ノ門ヒルズ",
+		"lat": 35.667444,
+		"lng": 139.747778,
+		"rating": 13.2,
+		"color": 40,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "赤坂見附",
+		"lat": 35.677021,
+		"lng": 139.737047,
+		"rating": 13.2,
+		"color": 40,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "外苑前",
+		"lat": 35.670527,
+		"lng": 139.717857,
+		"rating": 13.5,
+		"color": 40,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "銀座線",
+		"station": "溜池山王",
+		"lat": 35.673621,
+		"lng": 139.741419,
+		"rating": 13.7,
+		"color": 40,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "南北線",
+		"station": "六本木一丁目",
+		"lat": 35.665595,
+		"lng": 139.739,
+		"rating": 13.7,
+		"color": 40,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "千代田線",
+		"station": "赤坂",
+		"lat": 35.672371,
+		"lng": 139.736539,
+		"rating": 14,
+		"color": 30,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "新宿線",
+		"station": "小川町",
+		"lat": 35.69513945,
+		"lng": 139.7668353,
+		"rating": 14.1,
+		"color": 30,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "丸ノ内線",
+		"station": "国会議事堂前",
+		"lat": 35.67393,
+		"lng": 139.745219,
+		"rating": 14.2,
+		"color": 30,
+		"vicinity": ""
+	},
+	{
+		"floor_type": "1K",
+		"line": "新宿線",
+		"station": "市ヶ谷",
+		"lat": 35.69121073,
+		"lng": 139.7364902,
+		"rating": 14.9,
+		"color": 30,
+		"vicinity": ""
 	}
 ]
