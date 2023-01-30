@@ -6,7 +6,7 @@
 		"lat": 35.70207,
 		"lng": 139.745,
 		"rating": 85,
-		"color": 280,
+		"color": 285,
 		"vicinity": ""
 	},
 	{
@@ -16,7 +16,7 @@
 		"lat": 35.69121,
 		"lng": 139.7365,
 		"rating": 36.5,
-		"color": 280,
+		"color": 285,
 		"vicinity": ""
 	},
 	{
@@ -26,7 +26,7 @@
 		"lat": 35.68601,
 		"lng": 139.7307,
 		"rating": 33,
-		"color": 280,
+		"color": 285,
 		"vicinity": ""
 	},
 	{
@@ -36,7 +36,7 @@
 		"lat": 35.68845,
 		"lng": 139.6986,
 		"rating": 35.35,
-		"color": 280,
+		"color": 285,
 		"vicinity": ""
 	},
 	{
@@ -116,7 +116,7 @@
 		"lat": 35.70271,
 		"lng": 139.5608,
 		"rating": 19.8,
-		"color": 350,
+		"color": 340,
 		"vicinity": ""
 	},
 	{
@@ -146,7 +146,7 @@
 		"lat": 35.70135,
 		"lng": 139.5065,
 		"rating": 19.3,
-		"color": 350,
+		"color": 340,
 		"vicinity": ""
 	},
 	{
