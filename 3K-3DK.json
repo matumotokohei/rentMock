@@ -1,4 +1,4 @@
-﻿[
+[
 	{
 		"floor_type": "3K/3DK",
 		"line": "中央線",
@@ -6,7 +6,7 @@
 		"lat": 35.70603,
 		"lng": 139.6657,
 		"rating": 17,
-		"color": 180,
+		"color": 360,
 		"vicinity": ""
 	},
 	{
@@ -16,7 +16,7 @@
 		"lat": 35.70482,
 		"lng": 139.6359,
 		"rating": 12.2,
-		"color": 240,
+		"color": 50,
 		"vicinity": ""
 	},
 	{
@@ -26,7 +26,7 @@
 		"lat": 35.70463,
 		"lng": 139.62,
 		"rating": 12,
-		"color": 240,
+		"color": 50,
 		"vicinity": ""
 	},
 	{
@@ -36,7 +36,7 @@
 		"lat": 35.70211,
 		"lng": 139.5805,
 		"rating": 11.3,
-		"color": 252,
+		"color": 60,
 		"vicinity": ""
 	},
 	{
@@ -46,7 +46,7 @@
 		"lat": 35.70271,
 		"lng": 139.5608,
 		"rating": 11.05,
-		"color": 252,
+		"color": 60,
 		"vicinity": ""
 	},
 	{
@@ -56,7 +56,7 @@
 		"lat": 35.70216,
 		"lng": 139.5447,
 		"rating": 12.3,
-		"color": 240,
+		"color": 50,
 		"vicinity": ""
 	},
 	{
@@ -66,7 +66,7 @@
 		"lat": 35.70174,
 		"lng": 139.5248,
 		"rating": 9.8,
-		"color": 276,
+		"color": 120,
 		"vicinity": ""
 	},
 	{
@@ -76,7 +76,7 @@
 		"lat": 35.70135,
 		"lng": 139.5065,
 		"rating": 9.8,
-		"color": 276,
+		"color": 120,
 		"vicinity": ""
 	},
 	{
@@ -86,7 +86,7 @@
 		"lat": 35.70026,
 		"lng": 139.4803,
 		"rating": 10.2,
-		"color": 264,
+		"color": 90,
 		"vicinity": ""
 	},
 	{
@@ -96,7 +96,7 @@
 		"lat": 35.69977,
 		"lng": 139.4657,
 		"rating": 10.7,
-		"color": 264,
+		"color": 90,
 		"vicinity": ""
 	},
 	{
@@ -106,7 +106,7 @@
 		"lat": 35.699,
 		"lng": 139.4464,
 		"rating": 9.6,
-		"color": 276,
+		"color": 120,
 		"vicinity": ""
 	},
 	{
@@ -116,7 +116,7 @@
 		"lat": 35.6979,
 		"lng": 139.414,
 		"rating": 8.3,
-		"color": 288,
+		"color": 150,
 		"vicinity": ""
 	},
 	{
@@ -126,7 +126,7 @@
 		"lat": 35.67925,
 		"lng": 139.394,
 		"rating": 7.5,
-		"color": 300,
+		"color": 180,
 		"vicinity": ""
 	},
 	{
@@ -136,7 +136,7 @@
 		"lat": 35.6595,
 		"lng": 139.3815,
 		"rating": 8.5,
-		"color": 288,
+		"color": 150,
 		"vicinity": ""
 	},
 	{
@@ -146,7 +146,7 @@
 		"lat": 35.65564,
 		"lng": 139.339,
 		"rating": 7.4,
-		"color": 300,
+		"color": 180,
 		"vicinity": ""
 	},
 	{
@@ -156,7 +156,7 @@
 		"lat": 35.65678,
 		"lng": 139.3125,
 		"rating": 7.4,
-		"color": 300,
+		"color": 180,
 		"vicinity": ""
 	},
 	{
@@ -166,7 +166,7 @@
 		"lat": 35.64223,
 		"lng": 139.2818,
 		"rating": 6.5,
-		"color": 312,
+		"color": 210,
 		"vicinity": ""
 	}
 ]
