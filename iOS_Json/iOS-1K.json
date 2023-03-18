@@ -1,0 +1,20 @@
+{
+	"locations": [
+	  {
+		"id": 0,
+		"name": "四ツ谷",
+		"latitude": 35.686300621867595,
+		"longitude": 139.7302182976015,
+		"color": "orange",
+		"rent" : 12.0
+	  },
+	  {
+		"id": 1,
+		"name": "四谷三丁目",
+		"latitude": 35.688108992041336,
+		"longitude": 139.720640901663,
+		"color": "red",
+		"rent" : 12.0
+	  }
+	 ]
+  }
