@@ -407,14 +407,6 @@
 			"longitude": 139.6994,
 			"rent": 38,
 			"color": "#d8bfd8"
-		},
-		{
-			"id": 52,
-			"name": "代々木",
-			"latitude": 35.68304,
-			"longitude": 139.7021,
-			"rent": 58.2,
-			"color": "#d8bfd8"
 		}
 	]
 }
