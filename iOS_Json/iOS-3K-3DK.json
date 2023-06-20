@@ -263,30 +263,6 @@
 			"longitude": 139.6986,
 			"rent": 45.8,
 			"color": "#d8bfd8"
-		},
-		{
-			"id": 34,
-			"name": "田町",
-			"latitude": 35.64574,
-			"longitude": 139.7476,
-			"rent": 52.2,
-			"color": "#d8bfd8"
-		},
-		{
-			"id": 35,
-			"name": "恵比寿",
-			"latitude": 35.64669,
-			"longitude": 139.7101,
-			"rent": 60,
-			"color": "#d8bfd8"
-		},
-		{
-			"id": 36,
-			"name": "浜松町",
-			"latitude": 35.65565,
-			"longitude": 139.7567,
-			"rent": 87,
-			"color": "#d8bfd8"
 		}
 	]
 }
