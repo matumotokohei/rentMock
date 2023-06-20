@@ -391,22 +391,6 @@
 			"longitude": 139.698601593263,
 			"rent": 45.8,
 			"color": "#d8bfd8"
-		},
-		{
-			"id": 50,
-			"name": "飯田橋",
-			"latitude": 35.70207,
-			"longitude": 139.745,
-			"rent": 85,
-			"color": "#d8bfd8"
-		},
-		{
-			"id": 51,
-			"name": "代々木八幡",
-			"latitude": 35.669484,
-			"longitude": 139.688635,
-			"rent": 118.5,
-			"color": "#d8bfd8"
 		}
 	]
 }
