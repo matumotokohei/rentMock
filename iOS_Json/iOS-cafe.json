@@ -1,7 +1,7 @@
-﻿{
+{
     "locations": [
         {
-            "rank": 1,
+            "id": 1,
             "name": "渋谷",
             "latitude": 35.6586161022255,
             "longitude": 139.699371397728,
@@ -9,7 +9,7 @@
             "color": "#4169E1"
         },
         {
-            "rank": 2,
+            "id": 2,
             "name": "池袋",
             "latitude": 35.728926,
             "longitude": 139.71038,
@@ -17,7 +17,7 @@
             "color": "#87CEEB"
         },
         {
-            "rank": 3,
+            "id": 3,
             "name": "吉祥寺",
             "latitude": 35.702112100252,
             "longitude": 139.580452570226,
@@ -25,7 +25,7 @@
             "color": "#B0E0E6"
         },
         {
-            "rank": 4,
+            "id": 4,
             "name": "恵比寿",
             "latitude": 35.64669,
             "longitude": 139.710106,
@@ -33,7 +33,7 @@
             "color": "#48D1CC"
         },
         {
-            "rank": 5,
+            "id": 5,
             "name": "新宿三丁目",
             "latitude": 35.690616,
             "longitude": 139.706271,
@@ -41,7 +41,7 @@
             "color": "#afeeee"
         },
         {
-            "rank": 6,
+            "id": 6,
             "name": "神保町",
             "latitude": 35.69591611,
             "longitude": 139.7574395,
@@ -49,7 +49,7 @@
             "color": "#e0ffff"
         },
         {
-            "rank": 7,
+            "id": 7,
             "name": "銀座",
             "latitude": 35.671989,
             "longitude": 139.763965,
@@ -57,7 +57,7 @@
             "color": "#e0ffff"
         },
         {
-            "rank": 8,
+            "id": 8,
             "name": "下北沢",
             "latitude": 35.6615464979642,
             "longitude": 139.666900156298,
@@ -65,7 +65,7 @@
             "color": "#e0ffff"
         },
         {
-            "rank": 9,
+            "id": 9,
             "name": "浅草",
             "latitude": 35.712074,
             "longitude": 139.79843,
@@ -73,7 +73,7 @@
             "color": "#e0ffff"
         },
         {
-            "rank": 10,
+            "id": 10,
             "name": "中野",
             "latitude": 35.706032,
             "longitude": 139.665652,
@@ -81,7 +81,7 @@
             "color": "#e0ffff"
         },
         {
-            "rank": 11,
+            "id": 11,
             "name": "町田",
             "latitude": 35.541975372676,
             "longitude": 139.445421095006,
@@ -89,7 +89,7 @@
             "color": "#e0ffff"
         },
         {
-            "rank": 12,
+            "id": 12,
             "name": "表参道",
             "latitude": 35.665247,
             "longitude": 139.712314,
@@ -97,7 +97,7 @@
             "color": "#e0ffff"
         },
         {
-            "rank": 13,
+            "id": 13,
             "name": "荻窪",
             "latitude": 35.70463,
             "longitude": 139.62,
@@ -105,7 +105,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 14,
+            "id": 14,
             "name": "自由が丘",
             "latitude": 35.60758,
             "longitude": 139.6691,
@@ -113,7 +113,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 15,
+            "id": 15,
             "name": "六本木",
             "latitude": 35.6639901963109,
             "longitude": 139.731414795387,
@@ -121,7 +121,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 16,
+            "id": 16,
             "name": "東京",
             "latitude": 35.681382,
             "longitude": 139.766084,
@@ -129,7 +129,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 17,
+            "id": 17,
             "name": "秋葉原",
             "latitude": 35.698683,
             "longitude": 139.774219,
@@ -137,7 +137,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 18,
+            "id": 18,
             "name": "北千住",
             "latitude": 35.749412,
             "longitude": 139.805108,
@@ -145,7 +145,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 19,
+            "id": 19,
             "name": "日本橋",
             "latitude": 35.682413,
             "longitude": 139.773919,
@@ -153,7 +153,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 20,
+            "id": 20,
             "name": "明治神宮前",
             "latitude": 35.669071,
             "longitude": 139.703995,
@@ -161,7 +161,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 21,
+            "id": 21,
             "name": "新宿",
             "latitude": 35.6884464421313,
             "longitude": 139.698601593263,
@@ -169,7 +169,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 22,
+            "id": 22,
             "name": "大手町",
             "latitude": 35.684801,
             "longitude": 139.766086,
@@ -177,7 +177,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 23,
+            "id": 23,
             "name": "飯田橋",
             "latitude": 35.702065,
             "longitude": 139.745015,
@@ -185,7 +185,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 24,
+            "id": 24,
             "name": "西荻窪",
             "latitude": 35.70384,
             "longitude": 139.5994,
@@ -193,7 +193,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 25,
+            "id": 25,
             "name": "東銀座",
             "latitude": 35.669464,
             "longitude": 139.767253,
@@ -201,7 +201,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 26,
+            "id": 26,
             "name": "西武新宿",
             "latitude": 35.696254,
             "longitude": 139.7,
@@ -209,7 +209,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 27,
+            "id": 27,
             "name": "新橋",
             "latitude": 35.665498,
             "longitude": 139.75964,
@@ -217,7 +217,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 28,
+            "id": 28,
             "name": "錦糸町",
             "latitude": 35.696437,
             "longitude": 139.813949,
@@ -225,7 +225,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 29,
+            "id": 29,
             "name": "国分寺",
             "latitude": 35.70026,
             "longitude": 139.4803,
@@ -233,7 +233,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 30,
+            "id": 30,
             "name": "高円寺",
             "latitude": 35.70539,
             "longitude": 139.6499,
@@ -241,7 +241,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 31,
+            "id": 31,
             "name": "三鷹",
             "latitude": 35.70271,
             "longitude": 139.5608,
@@ -249,7 +249,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 32,
+            "id": 32,
             "name": "三軒茶屋",
             "latitude": 35.643515,
             "longitude": 139.671162,
@@ -257,7 +257,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 33,
+            "id": 33,
             "name": "日比谷",
             "latitude": 35.6757657646188,
             "longitude": 139.758297585136,
@@ -265,7 +265,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 34,
+            "id": 34,
             "name": "高田馬場",
             "latitude": 35.712285,
             "longitude": 139.703782,
@@ -273,7 +273,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 35,
+            "id": 35,
             "name": "東池袋",
             "latitude": 35.725362,
             "longitude": 139.720435,
@@ -281,7 +281,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 36,
+            "id": 36,
             "name": "麻布十番",
             "latitude": 35.6564337601412,
             "longitude": 139.736468932885,
@@ -289,7 +289,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 37,
+            "id": 37,
             "name": "末広町",
             "latitude": 35.702972,
             "longitude": 139.771713,
@@ -297,7 +297,7 @@
             "color": "#90ee90"
         },
         {
-            "rank": 38,
+            "id": 38,
             "name": "蒲田",
             "latitude": 35.5623775796417,
             "longitude": 139.71598531305,
@@ -305,7 +305,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 39,
+            "id": 39,
             "name": "八王子",
             "latitude": 35.65678,
             "longitude": 139.3125,
@@ -313,7 +313,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 40,
+            "id": 40,
             "name": "国立",
             "latitude": 35.699,
             "longitude": 139.4464,
@@ -321,7 +321,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 41,
+            "id": 41,
             "name": "赤羽",
             "latitude": 35.778051,
             "longitude": 139.720856,
@@ -329,7 +329,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 42,
+            "id": 42,
             "name": "神田",
             "latitude": 35.69169,
             "longitude": 139.7709,
@@ -337,7 +337,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 43,
+            "id": 43,
             "name": "外苑前",
             "latitude": 35.670527,
             "longitude": 139.717857,
@@ -345,7 +345,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 44,
+            "id": 44,
             "name": "西新宿",
             "latitude": 35.694298,
             "longitude": 139.692778,
@@ -353,7 +353,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 45,
+            "id": 45,
             "name": "赤坂",
             "latitude": 35.672371,
             "longitude": 139.736539,
@@ -361,7 +361,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 46,
+            "id": 46,
             "name": "大森",
             "latitude": 35.588442,
             "longitude": 139.727929,
@@ -369,7 +369,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 47,
+            "id": 47,
             "name": "内幸町",
             "latitude": 35.66975,
             "longitude": 139.75561,
@@ -377,7 +377,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 48,
+            "id": 48,
             "name": "立川",
             "latitude": 35.6979,
             "longitude": 139.414,
@@ -385,7 +385,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 49,
+            "id": 49,
             "name": "人形町",
             "latitude": 35.686307,
             "longitude": 139.782285,
@@ -393,7 +393,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 50,
+            "id": 50,
             "name": "築地",
             "latitude": 35.668115,
             "longitude": 139.772603,
@@ -401,7 +401,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 51,
+            "id": 51,
             "name": "中目黒",
             "latitude": 35.644307,
             "longitude": 139.699157,
@@ -409,7 +409,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 52,
+            "id": 52,
             "name": "広尾",
             "latitude": 35.652279,
             "longitude": 139.722227,
@@ -417,7 +417,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 53,
+            "id": 53,
             "name": "代官山",
             "latitude": 35.6479752069757,
             "longitude": 139.70331852374,
@@ -425,7 +425,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 54,
+            "id": 54,
             "name": "府中",
             "latitude": 35.6740285178893,
             "longitude": 139.480118668802,
@@ -433,7 +433,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 55,
+            "id": 55,
             "name": "阿佐ケ谷",
             "latitude": 35.70482,
             "longitude": 139.6359,
@@ -441,7 +441,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 56,
+            "id": 56,
             "name": "田町",
             "latitude": 35.64574,
             "longitude": 139.7476,
@@ -449,7 +449,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 57,
+            "id": 57,
             "name": "二子玉川",
             "latitude": 35.611499,
             "longitude": 139.626624,
@@ -457,7 +457,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 58,
+            "id": 58,
             "name": "目黒",
             "latitude": 35.634,
             "longitude": 139.7158,
@@ -465,7 +465,7 @@
             "color": "#00fa9a"
         },
         {
-            "rank": 59,
+            "id": 59,
             "name": "三越前",
             "latitude": 35.684888,
             "longitude": 139.773161,
