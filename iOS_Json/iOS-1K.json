@@ -2,6 +2,246 @@
 	"locations": [
 		{
 			"id": 1,
+			"name": "水沢",
+			"latitude": 39.138996,
+			"longitude": 141.146229,
+			"rent": 2.6,
+			"color": "#0000ff"
+		},
+		{
+			"id": 2,
+			"name": "朝里",
+			"latitude": 43.17686,
+			"longitude": 141.064396,
+			"rent": 2.8,
+			"color": "#0000ff"
+		},
+		{
+			"id": 3,
+			"name": "妹背牛",
+			"latitude": 43.690958,
+			"longitude": 141.966644,
+			"rent": 2.8,
+			"color": "#0000ff"
+		},
+		{
+			"id": 4,
+			"name": "二本松",
+			"latitude": 37.589583,
+			"longitude": 140.435365,
+			"rent": 2.8,
+			"color": "#0000ff"
+		},
+		{
+			"id": 5,
+			"name": "備前原",
+			"latitude": 34.704974,
+			"longitude": 133.944896,
+			"rent": 2.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 6,
+			"name": "奈井江",
+			"latitude": 43.423854,
+			"longitude": 141.889137,
+			"rent": 2.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 7,
+			"name": "豊沼",
+			"latitude": 43.464662,
+			"longitude": 141.90136,
+			"rent": 2.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 8,
+			"name": "越河",
+			"latitude": 37.933608,
+			"longitude": 140.604571,
+			"rent": 2.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 9,
+			"name": "新木曽川",
+			"latitude": 35.342164,
+			"longitude": 136.779385,
+			"rent": 2.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 10,
+			"name": "月寒中央",
+			"latitude": 43.030553,
+			"longitude": 141.396263,
+			"rent": 2.92,
+			"color": "#0000ff"
+		},
+		{
+			"id": 11,
+			"name": "江部乙",
+			"latitude": 43.627361,
+			"longitude": 141.9359,
+			"rent": 3,
+			"color": "#0000ff"
+		},
+		{
+			"id": 12,
+			"name": "本宮",
+			"latitude": 37.514145,
+			"longitude": 140.399551,
+			"rent": 3,
+			"color": "#0000ff"
+		},
+		{
+			"id": 13,
+			"name": "北上",
+			"latitude": 39.282229,
+			"longitude": 141.122598,
+			"rent": 3,
+			"color": "#0000ff"
+		},
+		{
+			"id": 14,
+			"name": "津山",
+			"latitude": 35.054747,
+			"longitude": 134.003013,
+			"rent": 3.2,
+			"color": "#0000ff"
+		},
+		{
+			"id": 15,
+			"name": "美園",
+			"latitude": 43.036338,
+			"longitude": 141.385756,
+			"rent": 3.2,
+			"color": "#0000ff"
+		},
+		{
+			"id": 16,
+			"name": "東福島",
+			"latitude": 37.800444,
+			"longitude": 140.478065,
+			"rent": 3.2,
+			"color": "#0000ff"
+		},
+		{
+			"id": 17,
+			"name": "名取",
+			"latitude": 38.173119,
+			"longitude": 140.882808,
+			"rent": 3.2,
+			"color": "#0000ff"
+		},
+		{
+			"id": 18,
+			"name": "国府多賀城",
+			"latitude": 38.301044,
+			"longitude": 140.994104,
+			"rent": 3.2,
+			"color": "#0000ff"
+		},
+		{
+			"id": 19,
+			"name": "平泉",
+			"latitude": 38.988043,
+			"longitude": 141.117499,
+			"rent": 3.2,
+			"color": "#0000ff"
+		},
+		{
+			"id": 20,
+			"name": "新道東",
+			"latitude": 43.104663,
+			"longitude": 141.369086,
+			"rent": 3.25,
+			"color": "#0000ff"
+		},
+		{
+			"id": 21,
+			"name": "新大牟田",
+			"latitude": 33.071123,
+			"longitude": 130.488786,
+			"rent": 3.3,
+			"color": "#0000ff"
+		},
+		{
+			"id": 22,
+			"name": "新八代",
+			"latitude": 32.517843,
+			"longitude": 130.634938,
+			"rent": 3.3,
+			"color": "#0000ff"
+		},
+		{
+			"id": 23,
+			"name": "函館",
+			"latitude": 41.773746,
+			"longitude": 140.726399,
+			"rent": 3.3,
+			"color": "#0000ff"
+		},
+		{
+			"id": 24,
+			"name": "ほしみ",
+			"latitude": 43.133757,
+			"longitude": 141.191402,
+			"rent": 3.3,
+			"color": "#0000ff"
+		},
+		{
+			"id": 25,
+			"name": "福住",
+			"latitude": 43.021621,
+			"longitude": 141.403105,
+			"rent": 3.3,
+			"color": "#0000ff"
+		},
+		{
+			"id": 26,
+			"name": "納内",
+			"latitude": 43.732509,
+			"longitude": 142.130072,
+			"rent": 3.4,
+			"color": "#0000ff"
+		},
+		{
+			"id": 27,
+			"name": "東区役所前",
+			"latitude": 43.078197,
+			"longitude": 141.364769,
+			"rent": 3.4,
+			"color": "#0000ff"
+		},
+		{
+			"id": 28,
+			"name": "南福島",
+			"latitude": 37.75442,
+			"longitude": 140.458533,
+			"rent": 3.4,
+			"color": "#0000ff"
+		},
+		{
+			"id": 29,
+			"name": "塩釜",
+			"latitude": 38.309565,
+			"longitude": 141.009843,
+			"rent": 3.4,
+			"color": "#0000ff"
+		},
+		{
+			"id": 30,
+			"name": "花巻",
+			"latitude": 39.393161,
+			"longitude": 141.110718,
+			"rent": 3.4,
+			"color": "#0000ff"
+		},
+		{
+			"id": 31,
 			"name": "栢山",
 			"latitude": 35.310357,
 			"longitude": 139.142707,
@@ -9,7 +249,7 @@
 			"color": "#0000ff"
 		},
 		{
-			"id": 2,
+			"id": 32,
 			"name": "渋沢",
 			"latitude": 35.374168,
 			"longitude": 139.18451,
@@ -17,7 +257,1127 @@
 			"color": "#0000ff"
 		},
 		{
-			"id": 3,
+			"id": 33,
+			"name": "朝霧",
+			"latitude": 34.644394,
+			"longitude": 135.017488,
+			"rent": 3.5,
+			"color": "#0000ff"
+		},
+		{
+			"id": 34,
+			"name": "福渡",
+			"latitude": 34.87052,
+			"longitude": 133.90381,
+			"rent": 3.5,
+			"color": "#0000ff"
+		},
+		{
+			"id": 35,
+			"name": "建部",
+			"latitude": 34.842254,
+			"longitude": 133.899228,
+			"rent": 3.5,
+			"color": "#0000ff"
+		},
+		{
+			"id": 36,
+			"name": "金川",
+			"latitude": 34.792104,
+			"longitude": 133.933891,
+			"rent": 3.5,
+			"color": "#0000ff"
+		},
+		{
+			"id": 37,
+			"name": "野々口",
+			"latitude": 34.771267,
+			"longitude": 133.932417,
+			"rent": 3.5,
+			"color": "#0000ff"
+		},
+		{
+			"id": 38,
+			"name": "玉柏",
+			"latitude": 34.716865,
+			"longitude": 133.9646,
+			"rent": 3.5,
+			"color": "#0000ff"
+		},
+		{
+			"id": 39,
+			"name": "五稜郭",
+			"latitude": 41.803418,
+			"longitude": 140.733884,
+			"rent": 3.5,
+			"color": "#0000ff"
+		},
+		{
+			"id": 40,
+			"name": "大中山",
+			"latitude": 41.864738,
+			"longitude": 140.713482,
+			"rent": 3.5,
+			"color": "#0000ff"
+		},
+		{
+			"id": 41,
+			"name": "七飯",
+			"latitude": 41.887682,
+			"longitude": 140.688223,
+			"rent": 3.5,
+			"color": "#0000ff"
+		},
+		{
+			"id": 42,
+			"name": "苗穂",
+			"latitude": 43.068532,
+			"longitude": 141.377386,
+			"rent": 3.5,
+			"color": "#0000ff"
+		},
+		{
+			"id": 43,
+			"name": "砂川",
+			"latitude": 43.492932,
+			"longitude": 141.909164,
+			"rent": 3.5,
+			"color": "#0000ff"
+		},
+		{
+			"id": 44,
+			"name": "近文",
+			"latitude": 43.789493,
+			"longitude": 142.325708,
+			"rent": 3.5,
+			"color": "#0000ff"
+		},
+		{
+			"id": 45,
+			"name": "環状通東",
+			"latitude": 43.082166,
+			"longitude": 141.374643,
+			"rent": 3.5,
+			"color": "#0000ff"
+		},
+		{
+			"id": 46,
+			"name": "村崎野",
+			"latitude": 39.323022,
+			"longitude": 141.12055,
+			"rent": 3.5,
+			"color": "#0000ff"
+		},
+		{
+			"id": 47,
+			"name": "神保原",
+			"latitude": 36.25374,
+			"longitude": 139.149289,
+			"rent": 3.5,
+			"color": "#0000ff"
+		},
+		{
+			"id": 48,
+			"name": "藤川",
+			"latitude": 34.913265,
+			"longitude": 137.218473,
+			"rent": 3.5,
+			"color": "#0000ff"
+		},
+		{
+			"id": 49,
+			"name": "国府宮",
+			"latitude": 35.253846,
+			"longitude": 136.802908,
+			"rent": 3.5,
+			"color": "#0000ff"
+		},
+		{
+			"id": 50,
+			"name": "てだこ浦西",
+			"latitude": 26.241778,
+			"longitude": 127.741861,
+			"rent": 3.5,
+			"color": "#0000ff"
+		},
+		{
+			"id": 51,
+			"name": "久留米",
+			"latitude": 33.320409,
+			"longitude": 130.501888,
+			"rent": 3.6,
+			"color": "#0000ff"
+		},
+		{
+			"id": 52,
+			"name": "新玉名",
+			"latitude": 32.942525,
+			"longitude": 130.573506,
+			"rent": 3.6,
+			"color": "#0000ff"
+		},
+		{
+			"id": 53,
+			"name": "牧山",
+			"latitude": 34.740938,
+			"longitude": 133.960757,
+			"rent": 3.6,
+			"color": "#0000ff"
+		},
+		{
+			"id": 54,
+			"name": "大麻",
+			"latitude": 43.072491,
+			"longitude": 141.497258,
+			"rent": 3.6,
+			"color": "#0000ff"
+		},
+		{
+			"id": 55,
+			"name": "栄町",
+			"latitude": 43.112995,
+			"longitude": 141.367142,
+			"rent": 3.6,
+			"color": "#0000ff"
+		},
+		{
+			"id": 56,
+			"name": "安積永盛",
+			"latitude": 37.357023,
+			"longitude": 140.369121,
+			"rent": 3.6,
+			"color": "#0000ff"
+		},
+		{
+			"id": 57,
+			"name": "日和田",
+			"latitude": 37.446386,
+			"longitude": 140.388366,
+			"rent": 3.6,
+			"color": "#0000ff"
+		},
+		{
+			"id": 58,
+			"name": "杉田",
+			"latitude": 37.563302,
+			"longitude": 140.413656,
+			"rent": 3.6,
+			"color": "#0000ff"
+		},
+		{
+			"id": 59,
+			"name": "安達",
+			"latitude": 37.611706,
+			"longitude": 140.466055,
+			"rent": 3.6,
+			"color": "#0000ff"
+		},
+		{
+			"id": 60,
+			"name": "前沢",
+			"latitude": 39.048678,
+			"longitude": 141.126132,
+			"rent": 3.6,
+			"color": "#0000ff"
+		},
+		{
+			"id": 61,
+			"name": "豊橋",
+			"latitude": 34.762811,
+			"longitude": 137.381651,
+			"rent": 3.6,
+			"color": "#0000ff"
+		},
+		{
+			"id": 62,
+			"name": "木曽川堤",
+			"latitude": 35.365072,
+			"longitude": 136.770441,
+			"rent": 3.6,
+			"color": "#0000ff"
+		},
+		{
+			"id": 63,
+			"name": "舞子",
+			"latitude": 34.633484,
+			"longitude": 135.033773,
+			"rent": 3.7,
+			"color": "#0000ff"
+		},
+		{
+			"id": 64,
+			"name": "新函館北斗",
+			"latitude": 41.9054,
+			"longitude": 140.646525,
+			"rent": 3.7,
+			"color": "#0000ff"
+		},
+		{
+			"id": 65,
+			"name": "発寒中央",
+			"latitude": 43.089565,
+			"longitude": 141.294127,
+			"rent": 3.7,
+			"color": "#0000ff"
+		},
+		{
+			"id": 66,
+			"name": "厚別",
+			"latitude": 43.045095,
+			"longitude": 141.463684,
+			"rent": 3.7,
+			"color": "#0000ff"
+		},
+		{
+			"id": 67,
+			"name": "森林公園",
+			"latitude": 43.056489,
+			"longitude": 141.48128,
+			"rent": 3.7,
+			"color": "#0000ff"
+		},
+		{
+			"id": 68,
+			"name": "野幌",
+			"latitude": 43.092665,
+			"longitude": 141.529578,
+			"rent": 3.7,
+			"color": "#0000ff"
+		},
+		{
+			"id": 69,
+			"name": "高砂",
+			"latitude": 43.099978,
+			"longitude": 141.540666,
+			"rent": 3.7,
+			"color": "#0000ff"
+		},
+		{
+			"id": 70,
+			"name": "上幌向",
+			"latitude": 43.181221,
+			"longitude": 141.714086,
+			"rent": 3.7,
+			"color": "#0000ff"
+		},
+		{
+			"id": 71,
+			"name": "松川",
+			"latitude": 37.653818,
+			"longitude": 140.48443,
+			"rent": 3.7,
+			"color": "#0000ff"
+		},
+		{
+			"id": 72,
+			"name": "松山町",
+			"latitude": 38.5127034,
+			"longitude": 141.0748902,
+			"rent": 3.7,
+			"color": "#0000ff"
+		},
+		{
+			"id": 73,
+			"name": "二ツ杁",
+			"latitude": 35.194646,
+			"longitude": 136.859583,
+			"rent": 3.7,
+			"color": "#0000ff"
+		},
+		{
+			"id": 74,
+			"name": "岐南",
+			"latitude": 35.389769,
+			"longitude": 136.769115,
+			"rent": 3.7,
+			"color": "#0000ff"
+		},
+		{
+			"id": 75,
+			"name": "出水",
+			"latitude": 32.089586,
+			"longitude": 130.35823,
+			"rent": 3.8,
+			"color": "#0000ff"
+		},
+		{
+			"id": 76,
+			"name": "川内",
+			"latitude": 31.813726,
+			"longitude": 130.31213,
+			"rent": 3.8,
+			"color": "#0000ff"
+		},
+		{
+			"id": 77,
+			"name": "垂水",
+			"latitude": 34.62953,
+			"longitude": 135.05363,
+			"rent": 3.8,
+			"color": "#0000ff"
+		},
+		{
+			"id": 78,
+			"name": "岩見沢",
+			"latitude": 43.204074,
+			"longitude": 141.759884,
+			"rent": 3.8,
+			"color": "#0000ff"
+		},
+		{
+			"id": 79,
+			"name": "峰延",
+			"latitude": 43.264691,
+			"longitude": 141.814853,
+			"rent": 3.8,
+			"color": "#0000ff"
+		},
+		{
+			"id": 80,
+			"name": "北１３条東",
+			"latitude": 43.07689,
+			"longitude": 141.354851,
+			"rent": 3.8,
+			"color": "#0000ff"
+		},
+		{
+			"id": 81,
+			"name": "福島",
+			"latitude": 37.75442,
+			"longitude": 140.458533,
+			"rent": 3.8,
+			"color": "#0000ff"
+		},
+		{
+			"id": 82,
+			"name": "仙台",
+			"latitude": 38.260297,
+			"longitude": 140.882049,
+			"rent": 3.8,
+			"color": "#0000ff"
+		},
+		{
+			"id": 83,
+			"name": "陸前山王",
+			"latitude": 38.316996,
+			"longitude": 140.97281,
+			"rent": 3.8,
+			"color": "#0000ff"
+		},
+		{
+			"id": 84,
+			"name": "石鳥谷",
+			"latitude": 39.49127,
+			"longitude": 141.147086,
+			"rent": 3.8,
+			"color": "#0000ff"
+		},
+		{
+			"id": 85,
+			"name": "本庄",
+			"latitude": 36.236132,
+			"longitude": 139.18863,
+			"rent": 3.8,
+			"color": "#0000ff"
+		},
+		{
+			"id": 86,
+			"name": "名電赤坂",
+			"latitude": 34.859272,
+			"longitude": 137.311166,
+			"rent": 3.8,
+			"color": "#0000ff"
+		},
+		{
+			"id": 87,
+			"name": "美合",
+			"latitude": 34.923724,
+			"longitude": 137.19642,
+			"rent": 3.8,
+			"color": "#0000ff"
+		},
+		{
+			"id": 88,
+			"name": "今伊勢",
+			"latitude": 35.318513,
+			"longitude": 136.789254,
+			"rent": 3.8,
+			"color": "#0000ff"
+		},
+		{
+			"id": 89,
+			"name": "石刀",
+			"latitude": 35.326318,
+			"longitude": 136.78549,
+			"rent": 3.8,
+			"color": "#0000ff"
+		},
+		{
+			"id": 90,
+			"name": "筑後船小屋",
+			"latitude": 33.183208,
+			"longitude": 130.492711,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 91,
+			"name": "塩屋",
+			"latitude": 34.633693,
+			"longitude": 135.08253,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 92,
+			"name": "法界院",
+			"latitude": 34.685131,
+			"longitude": 133.927489,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 93,
+			"name": "銭函",
+			"latitude": 43.143655,
+			"longitude": 141.159676,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 94,
+			"name": "稲穂",
+			"latitude": 43.12807,
+			"longitude": 141.222853,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 95,
+			"name": "金谷川",
+			"latitude": 37.6805,
+			"longitude": 140.452256,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 96,
+			"name": "有壁",
+			"latitude": 38.867359,
+			"longitude": 141.120995,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 97,
+			"name": "一ノ関",
+			"latitude": 38.926283,
+			"longitude": 141.137586,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 98,
+			"name": "日詰",
+			"latitude": 39.538703,
+			"longitude": 141.16075,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 99,
+			"name": "行田",
+			"latitude": 36.113863,
+			"longitude": 139.432264,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 100,
+			"name": "新町",
+			"latitude": 36.273148,
+			"longitude": 139.10551,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 101,
+			"name": "小田渕",
+			"latitude": 34.814484,
+			"longitude": 137.345882,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 102,
+			"name": "国府",
+			"latitude": 34.837592,
+			"longitude": 137.328131,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 103,
+			"name": "御油",
+			"latitude": 34.845619,
+			"longitude": 137.321798,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 104,
+			"name": "名電山中",
+			"latitude": 34.899462,
+			"longitude": 137.24281,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 105,
+			"name": "奥田",
+			"latitude": 35.235287,
+			"longitude": 136.811081,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 106,
+			"name": "名鉄一宮",
+			"latitude": 35.301751,
+			"longitude": 136.797083,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 107,
+			"name": "加納",
+			"latitude": 35.405153,
+			"longitude": 136.766187,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 108,
+			"name": "名鉄岐阜",
+			"latitude": 35.411714,
+			"longitude": 136.759843,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 109,
+			"name": "経塚",
+			"latitude": 26.236667,
+			"longitude": 127.728333,
+			"rent": 3.9,
+			"color": "#0000ff"
+		},
+		{
+			"id": 110,
+			"name": "明石",
+			"latitude": 34.648748,
+			"longitude": 134.993265,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 111,
+			"name": "津山口",
+			"latitude": 35.054633,
+			"longitude": 133.982826,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 112,
+			"name": "桔梗",
+			"latitude": 41.846735,
+			"longitude": 140.723046,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 113,
+			"name": "星置",
+			"latitude": 43.132316,
+			"longitude": 141.210881,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 114,
+			"name": "手稲",
+			"latitude": 43.120158,
+			"longitude": 141.243788,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 115,
+			"name": "札幌",
+			"latitude": 43.068625,
+			"longitude": 141.350801,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 116,
+			"name": "白石",
+			"latitude": 43.054654,
+			"longitude": 141.413608,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 117,
+			"name": "白坂",
+			"latitude": 37.123281,
+			"longitude": 140.188998,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 118,
+			"name": "久田野",
+			"latitude": 37.137015,
+			"longitude": 140.259483,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 119,
+			"name": "矢吹",
+			"latitude": 37.205255,
+			"longitude": 140.327998,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 120,
+			"name": "鏡石",
+			"latitude": 37.250725,
+			"longitude": 140.346825,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 121,
+			"name": "郡山",
+			"latitude": 37.397983,
+			"longitude": 140.388412,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 122,
+			"name": "五百川",
+			"latitude": 37.482849,
+			"longitude": 140.387859,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 123,
+			"name": "伊達",
+			"latitude": 37.823903,
+			"longitude": 140.493274,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 124,
+			"name": "桑折",
+			"latitude": 37.855244,
+			"longitude": 140.517527,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 125,
+			"name": "貝田",
+			"latitude": 37.908215,
+			"longitude": 140.581073,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 126,
+			"name": "東白石",
+			"latitude": 38.034919,
+			"longitude": 140.651115,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 127,
+			"name": "松島",
+			"latitude": 38.379839,
+			"longitude": 141.066111,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 128,
+			"name": "愛宕",
+			"latitude": 38.397356,
+			"longitude": 141.065071,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 129,
+			"name": "品井沼",
+			"latitude": 38.4316,
+			"longitude": 141.082256,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 130,
+			"name": "鹿島台",
+			"latitude": 38.474711,
+			"longitude": 141.097841,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 131,
+			"name": "小牛田",
+			"latitude": 38.541503,
+			"longitude": 141.063686,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 132,
+			"name": "田尻",
+			"latitude": 38.596238,
+			"longitude": 141.058766,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 133,
+			"name": "瀬峰",
+			"latitude": 38.655129,
+			"longitude": 141.073709,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 134,
+			"name": "梅ケ沢",
+			"latitude": 38.681678,
+			"longitude": 141.085278,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 135,
+			"name": "新田",
+			"latitude": 38.711465,
+			"longitude": 141.11944,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 136,
+			"name": "石越",
+			"latitude": 38.76881,
+			"longitude": 141.15897,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 137,
+			"name": "油島",
+			"latitude": 38.7971,
+			"longitude": 141.175712,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 138,
+			"name": "花泉",
+			"latitude": 38.833448,
+			"longitude": 141.180089,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 139,
+			"name": "清水原",
+			"latitude": 38.854901,
+			"longitude": 141.156589,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 140,
+			"name": "山ノ目",
+			"latitude": 38.951217,
+			"longitude": 141.131847,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 141,
+			"name": "金ケ崎",
+			"latitude": 39.199615,
+			"longitude": 141.112894,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 142,
+			"name": "花巻空港",
+			"latitude": 39.442597,
+			"longitude": 141.127748,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 143,
+			"name": "北本",
+			"latitude": 36.031618,
+			"longitude": 139.533994,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 144,
+			"name": "北鴻巣",
+			"latitude": 36.085571,
+			"longitude": 139.477041,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 145,
+			"name": "吹上",
+			"latitude": 36.103237,
+			"longitude": 139.45317,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 146,
+			"name": "伊奈",
+			"latitude": 34.802413,
+			"longitude": 137.355012,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 147,
+			"name": "東枇杷島",
+			"latitude": 35.189786,
+			"longitude": 136.870249,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 148,
+			"name": "新川橋",
+			"latitude": 35.195709,
+			"longitude": 136.852023,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 149,
+			"name": "須ケ口",
+			"latitude": 35.1985014,
+			"longitude": 136.8462707,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 150,
+			"name": "笠松",
+			"latitude": 35.374268,
+			"longitude": 136.76438,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 151,
+			"name": "首里",
+			"latitude": 26.219174,
+			"longitude": 127.725506,
+			"rent": 4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 152,
+			"name": "新水俣",
+			"latitude": 32.210736,
+			"longitude": 130.42882,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 153,
+			"name": "亀甲",
+			"latitude": 34.998725,
+			"longitude": 133.959046,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 154,
+			"name": "小原",
+			"latitude": 34.968234,
+			"longitude": 133.962033,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 155,
+			"name": "誕生寺",
+			"latitude": 34.951452,
+			"longitude": 133.959473,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 156,
+			"name": "弓削",
+			"latitude": 34.925457,
+			"longitude": 133.957849,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 157,
+			"name": "神目",
+			"latitude": 34.896193,
+			"longitude": 133.935154,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 158,
+			"name": "仁山",
+			"latitude": 41.930014,
+			"longitude": 140.63522,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 159,
+			"name": "大沼",
+			"latitude": 41.971954,
+			"longitude": 140.669347,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 160,
+			"name": "大沼公園",
+			"latitude": 41.98103,
+			"longitude": 140.669888,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 161,
+			"name": "赤井川",
+			"latitude": 42.003267,
+			"longitude": 140.642678,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 162,
+			"name": "駒ヶ岳",
+			"latitude": 42.038809,
+			"longitude": 140.610476,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 163,
+			"name": "熱郛",
+			"latitude": 42.675662,
+			"longitude": 140.375123,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 164,
+			"name": "目名",
+			"latitude": 42.76139,
+			"longitude": 140.465683,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 165,
+			"name": "蘭島",
+			"latitude": 43.196785,
+			"longitude": 140.85537,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 166,
+			"name": "江別",
+			"latitude": 43.110642,
+			"longitude": 141.55717,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 167,
+			"name": "豊幌",
+			"latitude": 43.135746,
+			"longitude": 141.623707,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 168,
+			"name": "美唄",
+			"latitude": 43.33099,
+			"longitude": 141.861826,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 169,
+			"name": "茶志内",
+			"latitude": 43.369653,
+			"longitude": 141.872976,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 170,
+			"name": "滝川",
+			"latitude": 43.555164,
+			"longitude": 141.901305,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 171,
+			"name": "深川",
+			"latitude": 43.721021,
+			"longitude": 142.041642,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 172,
+			"name": "泉崎",
+			"latitude": 37.158327,
+			"longitude": 140.299048,
+			"rent": 4.1,
+			"color": "#6495ed"
+		},
+		{
+			"id": 173,
 			"name": "東海大学前",
 			"latitude": 35.373151,
 			"longitude": 139.271236,
@@ -25,7 +1385,103 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 4,
+			"id": 174,
+			"name": "鹿児島中央",
+			"latitude": 31.583785,
+			"longitude": 130.541245,
+			"rent": 4.2,
+			"color": "#6495ed"
+		},
+		{
+			"id": 175,
+			"name": "曽根",
+			"latitude": 34.793273,
+			"longitude": 134.769915,
+			"rent": 4.2,
+			"color": "#6495ed"
+		},
+		{
+			"id": 176,
+			"name": "発寒",
+			"latitude": 43.099794,
+			"longitude": 141.277267,
+			"rent": 4.2,
+			"color": "#6495ed"
+		},
+		{
+			"id": 177,
+			"name": "豊平公園",
+			"latitude": 43.041929,
+			"longitude": 141.376573,
+			"rent": 4.2,
+			"color": "#6495ed"
+		},
+		{
+			"id": 178,
+			"name": "大河原",
+			"latitude": 38.047488,
+			"longitude": 140.740145,
+			"rent": 4.2,
+			"color": "#6495ed"
+		},
+		{
+			"id": 179,
+			"name": "船岡",
+			"latitude": 38.059299,
+			"longitude": 140.768257,
+			"rent": 4.2,
+			"color": "#6495ed"
+		},
+		{
+			"id": 180,
+			"name": "鴻巣",
+			"latitude": 36.059225,
+			"longitude": 139.509646,
+			"rent": 4.2,
+			"color": "#6495ed"
+		},
+		{
+			"id": 181,
+			"name": "名電長沢",
+			"latitude": 34.871756,
+			"longitude": 137.288057,
+			"rent": 4.2,
+			"color": "#6495ed"
+		},
+		{
+			"id": 182,
+			"name": "本宿",
+			"latitude": 34.893125,
+			"longitude": 137.259947,
+			"rent": 4.2,
+			"color": "#6495ed"
+		},
+		{
+			"id": 183,
+			"name": "本星崎",
+			"latitude": 35.086926,
+			"longitude": 136.9374,
+			"rent": 4.2,
+			"color": "#6495ed"
+		},
+		{
+			"id": 184,
+			"name": "新清洲",
+			"latitude": 35.211296,
+			"longitude": 136.835563,
+			"rent": 4.2,
+			"color": "#6495ed"
+		},
+		{
+			"id": 185,
+			"name": "大里",
+			"latitude": 35.226255,
+			"longitude": 136.818342,
+			"rent": 4.2,
+			"color": "#6495ed"
+		},
+		{
+			"id": 186,
 			"name": "京王堀之内",
 			"latitude": 35.62443,
 			"longitude": 139.400299,
@@ -33,7 +1489,7 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 5,
+			"id": 187,
 			"name": "秦野",
 			"latitude": 35.370175,
 			"longitude": 139.225868,
@@ -41,7 +1497,7 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 6,
+			"id": 188,
 			"name": "南大沢",
 			"latitude": 35.6140699,
 			"longitude": 139.3797737,
@@ -49,7 +1505,151 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 7,
+			"id": 189,
+			"name": "新鳥栖",
+			"latitude": 33.370538,
+			"longitude": 130.491003,
+			"rent": 4.3,
+			"color": "#6495ed"
+		},
+		{
+			"id": 190,
+			"name": "加古川",
+			"latitude": 34.767844,
+			"longitude": 134.839416,
+			"rent": 4.3,
+			"color": "#6495ed"
+		},
+		{
+			"id": 191,
+			"name": "ひめじ別所",
+			"latitude": 34.805552,
+			"longitude": 134.753251,
+			"rent": 4.3,
+			"color": "#6495ed"
+		},
+		{
+			"id": 192,
+			"name": "御着",
+			"latitude": 34.816944,
+			"longitude": 134.735589,
+			"rent": 4.3,
+			"color": "#6495ed"
+		},
+		{
+			"id": 193,
+			"name": "姫路",
+			"latitude": 34.8265745831076,
+			"longitude": 134.690468637272,
+			"rent": 4.3,
+			"color": "#6495ed"
+		},
+		{
+			"id": 194,
+			"name": "塩谷",
+			"latitude": 43.202628,
+			"longitude": 140.924771,
+			"rent": 4.3,
+			"color": "#6495ed"
+		},
+		{
+			"id": 195,
+			"name": "小樽",
+			"latitude": 43.197642,
+			"longitude": 140.993731,
+			"rent": 4.3,
+			"color": "#6495ed"
+		},
+		{
+			"id": 196,
+			"name": "南小樽",
+			"latitude": 43.187123,
+			"longitude": 141.007628,
+			"rent": 4.3,
+			"color": "#6495ed"
+		},
+		{
+			"id": 197,
+			"name": "稲積公園",
+			"latitude": 43.111973,
+			"longitude": 141.25709,
+			"rent": 4.3,
+			"color": "#6495ed"
+		},
+		{
+			"id": 198,
+			"name": "琴似",
+			"latitude": 43.081522,
+			"longitude": 141.30746,
+			"rent": 4.3,
+			"color": "#6495ed"
+		},
+		{
+			"id": 199,
+			"name": "光珠内",
+			"latitude": 43.292594,
+			"longitude": 141.844785,
+			"rent": 4.3,
+			"color": "#6495ed"
+		},
+		{
+			"id": 200,
+			"name": "白河",
+			"latitude": 37.129656,
+			"longitude": 140.213756,
+			"rent": 4.3,
+			"color": "#6495ed"
+		},
+		{
+			"id": 201,
+			"name": "北白川",
+			"latitude": 38.032576,
+			"longitude": 140.692536,
+			"rent": 4.3,
+			"color": "#6495ed"
+		},
+		{
+			"id": 202,
+			"name": "槻木",
+			"latitude": 38.078618,
+			"longitude": 140.809996,
+			"rent": 4.3,
+			"color": "#6495ed"
+		},
+		{
+			"id": 203,
+			"name": "倉賀野",
+			"latitude": 36.30028,
+			"longitude": 139.049171,
+			"rent": 4.3,
+			"color": "#6495ed"
+		},
+		{
+			"id": 204,
+			"name": "丸ノ内",
+			"latitude": 35.204716,
+			"longitude": 136.841882,
+			"rent": 4.3,
+			"color": "#6495ed"
+		},
+		{
+			"id": 205,
+			"name": "茶所",
+			"latitude": 35.40227,
+			"longitude": 136.768931,
+			"rent": 4.3,
+			"color": "#6495ed"
+		},
+		{
+			"id": 206,
+			"name": "那覇空港",
+			"latitude": 26.206468,
+			"longitude": 127.652248,
+			"rent": 4.3,
+			"color": "#6495ed"
+		},
+		{
+			"id": 207,
 			"name": "長沼",
 			"latitude": 35.6428043,
 			"longitude": 139.3660475,
@@ -57,7 +1657,7 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 8,
+			"id": 208,
 			"name": "鶴巻温泉",
 			"latitude": 35.381131,
 			"longitude": 139.277813,
@@ -65,7 +1665,111 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 9,
+			"id": 209,
+			"name": "長居",
+			"latitude": 34.611114,
+			"longitude": 135.512599,
+			"rent": 4.4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 210,
+			"name": "あびこ",
+			"latitude": 34.598821,
+			"longitude": 135.512747,
+			"rent": 4.4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 211,
+			"name": "蘭越",
+			"latitude": 42.804542,
+			"longitude": 140.52894,
+			"rent": 4.4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 212,
+			"name": "余市",
+			"latitude": 43.18645,
+			"longitude": 140.794675,
+			"rent": 4.4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 213,
+			"name": "小樽築港",
+			"latitude": 43.180863,
+			"longitude": 141.027696,
+			"rent": 4.4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 214,
+			"name": "岩沼",
+			"latitude": 38.111889,
+			"longitude": 140.864102,
+			"rent": 4.4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 215,
+			"name": "陸中折居",
+			"latitude": 39.094212,
+			"longitude": 141.140784,
+			"rent": 4.4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 216,
+			"name": "深谷",
+			"latitude": 36.191503,
+			"longitude": 139.281011,
+			"rent": 4.4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 217,
+			"name": "岡部",
+			"latitude": 36.20587,
+			"longitude": 139.237638,
+			"rent": 4.4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 218,
+			"name": "男川",
+			"latitude": 34.937811,
+			"longitude": 137.183165,
+			"rent": 4.4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 219,
+			"name": "富士松",
+			"latitude": 35.029557,
+			"longitude": 137.016763,
+			"rent": 4.4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 220,
+			"name": "前後",
+			"latitude": 35.05209,
+			"longitude": 136.995821,
+			"rent": 4.4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 221,
+			"name": "西枇杷島",
+			"latitude": 35.195021,
+			"longitude": 136.865682,
+			"rent": 4.4,
+			"color": "#6495ed"
+		},
+		{
+			"id": 222,
 			"name": "多摩境",
 			"latitude": 35.601904,
 			"longitude": 139.367303,
@@ -73,7 +1777,7 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 10,
+			"id": 223,
 			"name": "百草園",
 			"latitude": 35.657372,
 			"longitude": 139.431351,
@@ -81,7 +1785,143 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 11,
+			"id": 224,
+			"name": "熊本",
+			"latitude": 32.790065,
+			"longitude": 130.689401,
+			"rent": 4.5,
+			"color": "#6495ed"
+		},
+		{
+			"id": 225,
+			"name": "東加古川",
+			"latitude": 34.745852,
+			"longitude": 134.869039,
+			"rent": 4.5,
+			"color": "#6495ed"
+		},
+		{
+			"id": 226,
+			"name": "宝殿",
+			"latitude": 34.784545,
+			"longitude": 134.81243,
+			"rent": 4.5,
+			"color": "#6495ed"
+		},
+		{
+			"id": 227,
+			"name": "然別",
+			"latitude": 43.12551,
+			"longitude": 140.737211,
+			"rent": 4.5,
+			"color": "#6495ed"
+		},
+		{
+			"id": 228,
+			"name": "新白河",
+			"latitude": 37.094537,
+			"longitude": 140.18441,
+			"rent": 4.5,
+			"color": "#6495ed"
+		},
+		{
+			"id": 229,
+			"name": "矢幅",
+			"latitude": 39.613141,
+			"longitude": 141.148227,
+			"rent": 4.5,
+			"color": "#6495ed"
+		},
+		{
+			"id": 230,
+			"name": "仙北町",
+			"latitude": 39.687907,
+			"longitude": 141.148946,
+			"rent": 4.5,
+			"color": "#6495ed"
+		},
+		{
+			"id": 231,
+			"name": "高崎",
+			"latitude": 36.322356,
+			"longitude": 139.013057,
+			"rent": 4.5,
+			"color": "#6495ed"
+		},
+		{
+			"id": 232,
+			"name": "つくば",
+			"latitude": 36.082744,
+			"longitude": 140.111234,
+			"rent": 4.5,
+			"color": "#6495ed"
+		},
+		{
+			"id": 233,
+			"name": "矢作橋",
+			"latitude": 34.961374,
+			"longitude": 137.139654,
+			"rent": 4.5,
+			"color": "#6495ed"
+		},
+		{
+			"id": 234,
+			"name": "宇頭",
+			"latitude": 34.97112,
+			"longitude": 137.118787,
+			"rent": 4.5,
+			"color": "#6495ed"
+		},
+		{
+			"id": 235,
+			"name": "一ツ木",
+			"latitude": 35.013795,
+			"longitude": 137.025402,
+			"rent": 4.5,
+			"color": "#6495ed"
+		},
+		{
+			"id": 236,
+			"name": "豊明",
+			"latitude": 35.040883,
+			"longitude": 137.008497,
+			"rent": 4.5,
+			"color": "#6495ed"
+		},
+		{
+			"id": 237,
+			"name": "中京競馬場前",
+			"latitude": 35.061469,
+			"longitude": 136.981325,
+			"rent": 4.5,
+			"color": "#6495ed"
+		},
+		{
+			"id": 238,
+			"name": "古島",
+			"latitude": 26.23085,
+			"longitude": 127.703045,
+			"rent": 4.5,
+			"color": "#6495ed"
+		},
+		{
+			"id": 239,
+			"name": "儀保",
+			"latitude": 26.22459,
+			"longitude": 127.719067,
+			"rent": 4.5,
+			"color": "#6495ed"
+		},
+		{
+			"id": 240,
+			"name": "須磨",
+			"latitude": 34.642273,
+			"longitude": 135.112894,
+			"rent": 4.55,
+			"color": "#6495ed"
+		},
+		{
+			"id": 241,
 			"name": "高幡不動",
 			"latitude": 35.6621387,
 			"longitude": 139.4132073,
@@ -89,7 +1929,7 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 12,
+			"id": 242,
 			"name": "高尾",
 			"latitude": 35.64223,
 			"longitude": 139.2818,
@@ -97,7 +1937,7 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 13,
+			"id": 243,
 			"name": "足柄",
 			"latitude": 35.271799,
 			"longitude": 139.154381,
@@ -105,7 +1945,95 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 14,
+			"id": 244,
+			"name": "西明石",
+			"latitude": 34.666855,
+			"longitude": 134.960542,
+			"rent": 4.6,
+			"color": "#6495ed"
+		},
+		{
+			"id": 245,
+			"name": "土山",
+			"latitude": 34.720485,
+			"longitude": 134.888874,
+			"rent": 4.6,
+			"color": "#6495ed"
+		},
+		{
+			"id": 246,
+			"name": "岡山",
+			"latitude": 34.666369,
+			"longitude": 133.918588,
+			"rent": 4.6,
+			"color": "#6495ed"
+		},
+		{
+			"id": 247,
+			"name": "東仙台",
+			"latitude": 38.276571,
+			"longitude": 140.919939,
+			"rent": 4.6,
+			"color": "#6495ed"
+		},
+		{
+			"id": 248,
+			"name": "熊谷",
+			"latitude": 36.139702,
+			"longitude": 139.389942,
+			"rent": 4.6,
+			"color": "#6495ed"
+		},
+		{
+			"id": 249,
+			"name": "籠原",
+			"latitude": 36.174675,
+			"longitude": 139.330516,
+			"rent": 4.6,
+			"color": "#6495ed"
+		},
+		{
+			"id": 250,
+			"name": "研究学園",
+			"latitude": 36.082094,
+			"longitude": 140.082417,
+			"rent": 4.6,
+			"color": "#6495ed"
+		},
+		{
+			"id": 251,
+			"name": "東岡崎",
+			"latitude": 34.95187,
+			"longitude": 137.167352,
+			"rent": 4.6,
+			"color": "#6495ed"
+		},
+		{
+			"id": 252,
+			"name": "本笠寺",
+			"latitude": 35.099571,
+			"longitude": 136.933656,
+			"rent": 4.6,
+			"color": "#6495ed"
+		},
+		{
+			"id": 253,
+			"name": "桜",
+			"latitude": 35.106474,
+			"longitude": 136.934639,
+			"rent": 4.6,
+			"color": "#6495ed"
+		},
+		{
+			"id": 254,
+			"name": "赤嶺",
+			"latitude": 26.193233,
+			"longitude": 127.660479,
+			"rent": 4.6,
+			"color": "#6495ed"
+		},
+		{
+			"id": 255,
 			"name": "京王多摩センター",
 			"latitude": 35.6252061189993,
 			"longitude": 139.424168863333,
@@ -113,7 +2041,7 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 15,
+			"id": 256,
 			"name": "聖蹟桜ヶ丘",
 			"latitude": 35.65079,
 			"longitude": 139.446933,
@@ -121,7 +2049,7 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 16,
+			"id": 257,
 			"name": "南平",
 			"latitude": 35.65462,
 			"longitude": 139.391944,
@@ -129,7 +2057,7 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 17,
+			"id": 258,
 			"name": "平山城址公園",
 			"latitude": 35.6473373,
 			"longitude": 139.3799404,
@@ -137,7 +2065,103 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 18,
+			"id": 259,
+			"name": "門真南",
+			"latitude": 34.716865,
+			"longitude": 135.59246,
+			"rent": 4.7,
+			"color": "#6495ed"
+		},
+		{
+			"id": 260,
+			"name": "森",
+			"latitude": 42.108897,
+			"longitude": 140.573985,
+			"rent": 4.7,
+			"color": "#6495ed"
+		},
+		{
+			"id": 261,
+			"name": "桑園",
+			"latitude": 43.07098,
+			"longitude": 141.331358,
+			"rent": 4.7,
+			"color": "#6495ed"
+		},
+		{
+			"id": 262,
+			"name": "さっぽろ",
+			"latitude": 43.06637,
+			"longitude": 141.350299,
+			"rent": 4.7,
+			"color": "#6495ed"
+		},
+		{
+			"id": 263,
+			"name": "豊水すすきの",
+			"latitude": 43.055008,
+			"longitude": 141.356838,
+			"rent": 4.7,
+			"color": "#6495ed"
+		},
+		{
+			"id": 264,
+			"name": "学園前",
+			"latitude": 43.047448,
+			"longitude": 141.36909,
+			"rent": 4.7,
+			"color": "#6495ed"
+		},
+		{
+			"id": 265,
+			"name": "岩手飯岡",
+			"latitude": 39.653728,
+			"longitude": 141.146878,
+			"rent": 4.7,
+			"color": "#6495ed"
+		},
+		{
+			"id": 266,
+			"name": "知立",
+			"latitude": 34.995235,
+			"longitude": 137.024132,
+			"rent": 4.7,
+			"color": "#6495ed"
+		},
+		{
+			"id": 267,
+			"name": "黒田",
+			"latitude": 35.350474,
+			"longitude": 136.777355,
+			"rent": 4.7,
+			"color": "#6495ed"
+		},
+		{
+			"id": 268,
+			"name": "小禄",
+			"latitude": 26.196561,
+			"longitude": 127.666978,
+			"rent": 4.7,
+			"color": "#6495ed"
+		},
+		{
+			"id": 269,
+			"name": "奥武山公園",
+			"latitude": 26.200758,
+			"longitude": 127.675291,
+			"rent": 4.7,
+			"color": "#6495ed"
+		},
+		{
+			"id": 270,
+			"name": "浦添前田",
+			"latitude": 26.243889,
+			"longitude": 127.732278,
+			"rent": 4.7,
+			"color": "#6495ed"
+		},
+		{
+			"id": 271,
 			"name": "京王永山",
 			"latitude": 35.6302365,
 			"longitude": 139.4482672,
@@ -145,7 +2169,7 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 19,
+			"id": 272,
 			"name": "橋本",
 			"latitude": 35.5949367199774,
 			"longitude": 139.344929996877,
@@ -153,7 +2177,7 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 20,
+			"id": 273,
 			"name": "狭山市",
 			"latitude": 35.856936,
 			"longitude": 139.413015,
@@ -161,7 +2185,7 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 21,
+			"id": 274,
 			"name": "東村山",
 			"latitude": 35.760471,
 			"longitude": 139.46585,
@@ -169,7 +2193,63 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 22,
+			"id": 275,
+			"name": "西田辺",
+			"latitude": 34.621627,
+			"longitude": 135.515152,
+			"rent": 4.8,
+			"color": "#6495ed"
+		},
+		{
+			"id": 276,
+			"name": "左京山",
+			"latitude": 35.07085,
+			"longitude": 136.959609,
+			"rent": 4.8,
+			"color": "#6495ed"
+		},
+		{
+			"id": 277,
+			"name": "鳴海",
+			"latitude": 35.078574,
+			"longitude": 136.950632,
+			"rent": 4.8,
+			"color": "#6495ed"
+		},
+		{
+			"id": 278,
+			"name": "栄生",
+			"latitude": 35.183406,
+			"longitude": 136.873568,
+			"rent": 4.8,
+			"color": "#6495ed"
+		},
+		{
+			"id": 279,
+			"name": "妙興寺",
+			"latitude": 35.286792,
+			"longitude": 136.798253,
+			"rent": 4.8,
+			"color": "#6495ed"
+		},
+		{
+			"id": 280,
+			"name": "県庁前",
+			"latitude": 26.214387,
+			"longitude": 127.679357,
+			"rent": 4.8,
+			"color": "#6495ed"
+		},
+		{
+			"id": 281,
+			"name": "安里",
+			"latitude": 26.216737,
+			"longitude": 127.695736,
+			"rent": 4.8,
+			"color": "#6495ed"
+		},
+		{
+			"id": 282,
 			"name": "小田相模原",
 			"latitude": 35.515134,
 			"longitude": 139.422596,
@@ -177,7 +2257,15 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 23,
+			"id": 283,
+			"name": "魚住",
+			"latitude": 34.696487,
+			"longitude": 134.905975,
+			"rent": 4.85,
+			"color": "#6495ed"
+		},
+		{
+			"id": 284,
 			"name": "伊勢原",
 			"latitude": 35.396033,
 			"longitude": 139.313504,
@@ -185,7 +2273,7 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 24,
+			"id": 285,
 			"name": "新狭山",
 			"latitude": 35.873993,
 			"longitude": 139.433499,
@@ -193,7 +2281,7 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 25,
+			"id": 286,
 			"name": "螢田",
 			"latitude": 35.284922,
 			"longitude": 139.152016,
@@ -201,7 +2289,87 @@
 			"color": "#6495ed"
 		},
 		{
-			"id": 26,
+			"id": 287,
+			"name": "六甲道",
+			"latitude": 34.714989,
+			"longitude": 135.238507,
+			"rent": 4.9,
+			"color": "#6495ed"
+		},
+		{
+			"id": 288,
+			"name": "大通",
+			"latitude": 43.060479,
+			"longitude": 141.354526,
+			"rent": 4.9,
+			"color": "#6495ed"
+		},
+		{
+			"id": 289,
+			"name": "館腰",
+			"latitude": 38.143117,
+			"longitude": 140.880208,
+			"rent": 4.9,
+			"color": "#6495ed"
+		},
+		{
+			"id": 290,
+			"name": "南仙台",
+			"latitude": 38.197392,
+			"longitude": 140.883487,
+			"rent": 4.9,
+			"color": "#6495ed"
+		},
+		{
+			"id": 291,
+			"name": "紫波中央",
+			"latitude": 39.554851,
+			"longitude": 141.159772,
+			"rent": 4.9,
+			"color": "#6495ed"
+		},
+		{
+			"id": 292,
+			"name": "牛田",
+			"latitude": 34.999053,
+			"longitude": 137.061471,
+			"rent": 4.9,
+			"color": "#6495ed"
+		},
+		{
+			"id": 293,
+			"name": "島氏永",
+			"latitude": 35.271488,
+			"longitude": 136.80089,
+			"rent": 4.9,
+			"color": "#6495ed"
+		},
+		{
+			"id": 294,
+			"name": "壺川",
+			"latitude": 26.205844,
+			"longitude": 127.678349,
+			"rent": 4.9,
+			"color": "#6495ed"
+		},
+		{
+			"id": 295,
+			"name": "旭橋",
+			"latitude": 26.211948,
+			"longitude": 127.675474,
+			"rent": 4.9,
+			"color": "#6495ed"
+		},
+		{
+			"id": 296,
+			"name": "市立病院前",
+			"latitude": 26.22749,
+			"longitude": 127.710081,
+			"rent": 4.9,
+			"color": "#6495ed"
+		},
+		{
+			"id": 297,
 			"name": "相模原",
 			"latitude": 35.58145,
 			"longitude": 139.3707,
@@ -209,7 +2377,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 27,
+			"id": 298,
 			"name": "淵野辺",
 			"latitude": 35.56876,
 			"longitude": 139.3951,
@@ -217,7 +2385,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 28,
+			"id": 299,
 			"name": "矢部",
 			"latitude": 35.57307,
 			"longitude": 139.3868,
@@ -225,7 +2393,95 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 29,
+			"id": 300,
+			"name": "横堤",
+			"latitude": 34.703593,
+			"longitude": 135.57279,
+			"rent": 5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 301,
+			"name": "鶴見緑地",
+			"latitude": 34.710754,
+			"longitude": 135.580239,
+			"rent": 5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 302,
+			"name": "摩耶",
+			"latitude": 34.708667,
+			"longitude": 135.225167,
+			"rent": 5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 303,
+			"name": "仁木",
+			"latitude": 43.154122,
+			"longitude": 140.770835,
+			"rent": 5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 304,
+			"name": "岩切",
+			"latitude": 38.300933,
+			"longitude": 140.95434,
+			"rent": 5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 305,
+			"name": "古館",
+			"latitude": 39.581054,
+			"longitude": 141.154952,
+			"rent": 5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 306,
+			"name": "万博記念公園",
+			"latitude": 36.058427,
+			"longitude": 140.059392,
+			"rent": 5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 307,
+			"name": "岡崎公園前",
+			"latitude": 34.955367,
+			"longitude": 137.152687,
+			"rent": 5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 308,
+			"name": "新安城",
+			"latitude": 34.987079,
+			"longitude": 137.08518,
+			"rent": 5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 309,
+			"name": "有松",
+			"latitude": 35.067401,
+			"longitude": 136.97152,
+			"rent": 5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 310,
+			"name": "美栄橋",
+			"latitude": 26.21924,
+			"longitude": 127.684403,
+			"rent": 5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 311,
 			"name": "すずかけ台",
 			"latitude": 35.516963,
 			"longitude": 139.481467,
@@ -233,7 +2489,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 30,
+			"id": 312,
 			"name": "つきみ野",
 			"latitude": 35.510335,
 			"longitude": 139.458029,
@@ -241,7 +2497,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 31,
+			"id": 313,
 			"name": "稲城",
 			"latitude": 35.636224,
 			"longitude": 139.5003491,
@@ -249,7 +2505,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 32,
+			"id": 314,
 			"name": "京王よみうりランド",
 			"latitude": 35.6329726,
 			"longitude": 139.517379,
@@ -257,7 +2513,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 33,
+			"id": 315,
 			"name": "相原",
 			"latitude": 35.60687,
 			"longitude": 139.3317,
@@ -265,7 +2521,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 34,
+			"id": 316,
 			"name": "鶴川",
 			"latitude": 35.58313,
 			"longitude": 139.480895,
@@ -273,7 +2529,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 35,
+			"id": 317,
 			"name": "南大塚",
 			"latitude": 35.889805,
 			"longitude": 139.454314,
@@ -281,7 +2537,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 36,
+			"id": 318,
 			"name": "豊田",
 			"latitude": 35.6595,
 			"longitude": 139.3815,
@@ -289,7 +2545,39 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 37,
+			"id": 319,
+			"name": "立花",
+			"latitude": 34.737961,
+			"longitude": 135.399121,
+			"rent": 5.1,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 320,
+			"name": "灘",
+			"latitude": 34.706073,
+			"longitude": 135.216439,
+			"rent": 5.1,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 321,
+			"name": "桶川",
+			"latitude": 35.998814,
+			"longitude": 139.564013,
+			"rent": 5.1,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 322,
+			"name": "おもろまち",
+			"latitude": 26.222812,
+			"longitude": 127.698416,
+			"rent": 5.1,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 323,
 			"name": "座間",
 			"latitude": 35.480691,
 			"longitude": 139.399932,
@@ -297,7 +2585,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 38,
+			"id": 324,
 			"name": "若葉台",
 			"latitude": 35.619238,
 			"longitude": 139.472405,
@@ -305,7 +2593,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 39,
+			"id": 325,
 			"name": "所沢",
 			"latitude": 35.786201,
 			"longitude": 139.473916,
@@ -313,7 +2601,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 40,
+			"id": 326,
 			"name": "西千葉",
 			"latitude": 35.62258,
 			"longitude": 140.1033,
@@ -321,7 +2609,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 41,
+			"id": 327,
 			"name": "相武台前",
 			"latitude": 35.499147,
 			"longitude": 139.408401,
@@ -329,7 +2617,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 42,
+			"id": 328,
 			"name": "中河原",
 			"latitude": 35.6595833,
 			"longitude": 139.4578965,
@@ -337,7 +2625,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 43,
+			"id": 329,
 			"name": "南町田グランベリーパーク",
 			"latitude": 35.511502,
 			"longitude": 139.470318,
@@ -345,7 +2633,55 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 44,
+			"id": 330,
+			"name": "博多",
+			"latitude": 33.590002,
+			"longitude": 130.420622,
+			"rent": 5.2,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 331,
+			"name": "須磨海浜公園",
+			"latitude": 34.647192,
+			"longitude": 135.126623,
+			"rent": 5.2,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 332,
+			"name": "東姫路",
+			"latitude": 34.8244576269951,
+			"longitude": 134.710541283711,
+			"rent": 5.2,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 333,
+			"name": "上尾",
+			"latitude": 35.973534,
+			"longitude": 139.588451,
+			"rent": 5.2,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 334,
+			"name": "呼続",
+			"latitude": 35.114356,
+			"longitude": 136.930467,
+			"rent": 5.2,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 335,
+			"name": "牧志",
+			"latitude": 26.217248,
+			"longitude": 127.69255,
+			"rent": 5.2,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 336,
 			"name": "西八王子",
 			"latitude": 35.65678,
 			"longitude": 139.3125,
@@ -353,7 +2689,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 45,
+			"id": 337,
 			"name": "中央林間",
 			"latitude": 35.5078841060272,
 			"longitude": 139.444117122329,
@@ -361,7 +2697,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 46,
+			"id": 338,
 			"name": "北野",
 			"latitude": 35.6443991,
 			"longitude": 139.3544968,
@@ -369,7 +2705,47 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 47,
+			"id": 339,
+			"name": "鷹取",
+			"latitude": 34.651339,
+			"longitude": 135.135203,
+			"rent": 5.3,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 340,
+			"name": "倶知安",
+			"latitude": 42.90164,
+			"longitude": 140.745471,
+			"rent": 5.3,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 341,
+			"name": "太子堂",
+			"latitude": 38.217846,
+			"longitude": 140.883326,
+			"rent": 5.3,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 342,
+			"name": "堀田",
+			"latitude": 35.120141,
+			"longitude": 136.919835,
+			"rent": 5.3,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 343,
+			"name": "石嶺",
+			"latitude": 26.227222,
+			"longitude": 127.729167,
+			"rent": 5.3,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 344,
 			"name": "久米川",
 			"latitude": 35.750022,
 			"longitude": 139.471995,
@@ -377,7 +2753,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 48,
+			"id": 345,
 			"name": "古淵",
 			"latitude": 35.55597,
 			"longitude": 139.4193,
@@ -385,7 +2761,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 49,
+			"id": 346,
 			"name": "新検見川",
 			"latitude": 35.65183,
 			"longitude": 140.073,
@@ -393,7 +2769,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 50,
+			"id": 347,
 			"name": "読売ランド前",
 			"latitude": 35.614632,
 			"longitude": 139.52825,
@@ -401,7 +2777,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 51,
+			"id": 348,
 			"name": "日野",
 			"latitude": 35.67925,
 			"longitude": 139.394,
@@ -409,7 +2785,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 52,
+			"id": 349,
 			"name": "入曽",
 			"latitude": 35.832486,
 			"longitude": 139.427293,
@@ -417,7 +2793,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 53,
+			"id": 350,
 			"name": "白楽",
 			"latitude": 35.4897,
 			"longitude": 139.6279,
@@ -425,7 +2801,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 54,
+			"id": 351,
 			"name": "百合ヶ丘",
 			"latitude": 35.608963,
 			"longitude": 139.515901,
@@ -433,7 +2809,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 55,
+			"id": 352,
 			"name": "片倉",
 			"latitude": 35.63969,
 			"longitude": 139.3412,
@@ -441,7 +2817,23 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 56,
+			"id": 353,
+			"name": "新長田",
+			"latitude": 34.657574,
+			"longitude": 135.145124,
+			"rent": 5.4,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 354,
+			"name": "北上尾",
+			"latitude": 35.985632,
+			"longitude": 139.577223,
+			"rent": 5.4,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 355,
 			"name": "京王稲田堤",
 			"latitude": 35.6337511,
 			"longitude": 139.5312067,
@@ -449,7 +2841,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 57,
+			"id": 356,
 			"name": "玉川学園前",
 			"latitude": 35.56333,
 			"longitude": 139.463333,
@@ -457,7 +2849,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 58,
+			"id": 357,
 			"name": "十日市場",
 			"latitude": 35.5263,
 			"longitude": 139.5166,
@@ -465,7 +2857,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 59,
+			"id": 358,
 			"name": "新所沢",
 			"latitude": 35.806767,
 			"longitude": 139.456111,
@@ -473,7 +2865,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 60,
+			"id": 359,
 			"name": "生田",
 			"latitude": 35.615015,
 			"longitude": 139.542215,
@@ -481,7 +2873,71 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 61,
+			"id": 360,
+			"name": "尼崎",
+			"latitude": 34.731629,
+			"longitude": 135.431687,
+			"rent": 5.5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 361,
+			"name": "芦屋",
+			"latitude": 34.734243,
+			"longitude": 135.30707,
+			"rent": 5.5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 362,
+			"name": "摂津本山",
+			"latitude": 34.726683,
+			"longitude": 135.276448,
+			"rent": 5.5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 363,
+			"name": "昆布",
+			"latitude": 42.797945,
+			"longitude": 140.596237,
+			"rent": 5.5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 364,
+			"name": "比羅夫",
+			"latitude": 42.84856,
+			"longitude": 140.722615,
+			"rent": 5.5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 365,
+			"name": "幌向",
+			"latitude": 43.151465,
+			"longitude": 141.655553,
+			"rent": 5.5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 366,
+			"name": "みらい平",
+			"latitude": 35.994515,
+			"longitude": 140.038274,
+			"rent": 5.5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 367,
+			"name": "金山",
+			"latitude": 35.143257,
+			"longitude": 136.900947,
+			"rent": 5.5,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 368,
 			"name": "愛甲石田",
 			"latitude": 35.417648,
 			"longitude": 139.343945,
@@ -489,7 +2945,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 62,
+			"id": 369,
 			"name": "稲毛",
 			"latitude": 35.63743,
 			"longitude": 140.0924,
@@ -497,7 +2953,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 63,
+			"id": 370,
 			"name": "航空公園",
 			"latitude": 35.79841,
 			"longitude": 139.465699,
@@ -505,7 +2961,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 64,
+			"id": 371,
 			"name": "本川越",
 			"latitude": 35.914113,
 			"longitude": 139.481377,
@@ -513,7 +2969,31 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 65,
+			"id": 372,
+			"name": "今福鶴見",
+			"latitude": 34.701913,
+			"longitude": 135.560044,
+			"rent": 5.6,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 373,
+			"name": "宮原",
+			"latitude": 35.940265,
+			"longitude": 139.609558,
+			"rent": 5.6,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 374,
+			"name": "みどりの",
+			"latitude": 36.030069,
+			"longitude": 140.056196,
+			"rent": 5.6,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 375,
 			"name": "国立",
 			"latitude": 35.699,
 			"longitude": 139.4464,
@@ -521,7 +3001,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 66,
+			"id": 376,
 			"name": "富水",
 			"latitude": 35.296356,
 			"longitude": 139.145464,
@@ -529,7 +3009,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 67,
+			"id": 377,
 			"name": "幕張",
 			"latitude": 35.65939,
 			"longitude": 140.0579,
@@ -537,7 +3017,15 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 68,
+			"id": 378,
+			"name": "甲南山手",
+			"latitude": 34.730583,
+			"longitude": 135.292427,
+			"rent": 5.7,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 379,
 			"name": "花小金井",
 			"latitude": 35.726129,
 			"longitude": 139.513228,
@@ -545,7 +3033,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 69,
+			"id": 380,
 			"name": "海老名",
 			"latitude": 35.452703,
 			"longitude": 139.390906,
@@ -553,7 +3041,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 70,
+			"id": 381,
 			"name": "小平",
 			"latitude": 35.737024,
 			"longitude": 139.488294,
@@ -561,7 +3049,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 71,
+			"id": 382,
 			"name": "西調布",
 			"latitude": 35.6570844,
 			"longitude": 139.5300797,
@@ -569,7 +3057,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 72,
+			"id": 383,
 			"name": "相模大野",
 			"latitude": 35.532003,
 			"longitude": 139.437627,
@@ -577,7 +3065,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 73,
+			"id": 384,
 			"name": "多磨霊園",
 			"latitude": 35.6660632,
 			"longitude": 139.5030888,
@@ -585,7 +3073,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 74,
+			"id": 385,
 			"name": "田無",
 			"latitude": 35.727366,
 			"longitude": 139.539253,
@@ -593,7 +3081,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 75,
+			"id": 386,
 			"name": "飛田給",
 			"latitude": 35.6600815,
 			"longitude": 139.5235242,
@@ -601,7 +3089,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 76,
+			"id": 387,
 			"name": "幕張本郷",
 			"latitude": 35.6728,
 			"longitude": 140.0422,
@@ -609,7 +3097,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 77,
+			"id": 388,
 			"name": "矢野口",
 			"latitude": 35.641674,
 			"longitude": 139.520457,
@@ -617,7 +3105,39 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 78,
+			"id": 389,
+			"name": "甲子園口",
+			"latitude": 34.738952,
+			"longitude": 135.374704,
+			"rent": 5.8,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 390,
+			"name": "ニセコ",
+			"latitude": 42.808746,
+			"longitude": 140.684588,
+			"rent": 5.8,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 391,
+			"name": "流山セントラルパーク",
+			"latitude": 35.854518,
+			"longitude": 139.915217,
+			"rent": 5.8,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 392,
+			"name": "守谷",
+			"latitude": 35.950777,
+			"longitude": 139.992292,
+			"rent": 5.8,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 393,
 			"name": "新杉田",
 			"latitude": 35.385877,
 			"longitude": 139.620533,
@@ -625,7 +3145,15 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 79,
+			"id": 394,
+			"name": "昭和町",
+			"latitude": 34.633564,
+			"longitude": 135.516954,
+			"rent": 5.85,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 395,
 			"name": "柿生",
 			"latitude": 35.589831,
 			"longitude": 139.497945,
@@ -633,7 +3161,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 80,
+			"id": 396,
 			"name": "八王子",
 			"latitude": 35.65564,
 			"longitude": 139.339,
@@ -641,7 +3169,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 81,
+			"id": 397,
 			"name": "武蔵野台",
 			"latitude": 35.6641996,
 			"longitude": 139.5110719,
@@ -649,7 +3177,7 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 82,
+			"id": 398,
 			"name": "矢川",
 			"latitude": 35.684962,
 			"longitude": 139.432123,
@@ -657,7 +3185,55 @@
 			"color": "#1e90ff"
 		},
 		{
-			"id": 83,
+			"id": 399,
+			"name": "大正",
+			"latitude": 34.665518,
+			"longitude": 135.479976,
+			"rent": 5.9,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 400,
+			"name": "天王寺",
+			"latitude": 34.647321,
+			"longitude": 135.51394,
+			"rent": 5.9,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 401,
+			"name": "長町",
+			"latitude": 38.227042,
+			"longitude": 140.885528,
+			"rent": 5.9,
+			"color": "#1e90ff"
+		},
+		{
+			"id": 402,
+			"name": "ドーム前千代崎",
+			"latitude": 34.670501,
+			"longitude": 135.478398,
+			"rent": 5.94,
+			"color": "#00bfff"
+		},
+		{
+			"id": 403,
+			"name": "森ノ宮",
+			"latitude": 34.681101,
+			"longitude": 135.533846,
+			"rent": 5.95,
+			"color": "#00bfff"
+		},
+		{
+			"id": 404,
+			"name": "動物園前",
+			"latitude": 34.648815,
+			"longitude": 135.504413,
+			"rent": 5.95,
+			"color": "#00bfff"
+		},
+		{
+			"id": 405,
 			"name": "稲城長沼",
 			"latitude": 35.6444878651794,
 			"longitude": 139.501989050768,
@@ -665,7 +3241,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 84,
+			"id": 406,
 			"name": "国分寺",
 			"latitude": 35.70026,
 			"longitude": 139.4803,
@@ -673,7 +3249,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 85,
+			"id": 407,
 			"name": "西国分寺",
 			"latitude": 35.69977,
 			"longitude": 139.4657,
@@ -681,7 +3257,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 86,
+			"id": 408,
 			"name": "西武柳沢",
 			"latitude": 35.728638,
 			"longitude": 139.55261,
@@ -689,7 +3265,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 87,
+			"id": 409,
 			"name": "長津田",
 			"latitude": 35.5316836756798,
 			"longitude": 139.495262678246,
@@ -697,7 +3273,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 88,
+			"id": 410,
 			"name": "津田沼",
 			"latitude": 35.69123,
 			"longitude": 140.0205,
@@ -705,7 +3281,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 89,
+			"id": 411,
 			"name": "南浦和",
 			"latitude": 35.847681,
 			"longitude": 139.66915,
@@ -713,7 +3289,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 90,
+			"id": 412,
 			"name": "武蔵小金井",
 			"latitude": 35.70135,
 			"longitude": 139.5065,
@@ -721,7 +3297,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 91,
+			"id": 413,
 			"name": "本厚木",
 			"latitude": 35.439366,
 			"longitude": 139.364303,
@@ -729,7 +3305,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 92,
+			"id": 414,
 			"name": "和泉多摩川",
 			"latitude": 35.627324,
 			"longitude": 139.573709,
@@ -737,7 +3313,71 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 93,
+			"id": 415,
+			"name": "大阪ビジネスパーク",
+			"latitude": 34.692144,
+			"longitude": 135.529688,
+			"rent": 6,
+			"color": "#00bfff"
+		},
+		{
+			"id": 416,
+			"name": "なんば",
+			"latitude": 34.666316,
+			"longitude": 135.500277,
+			"rent": 6,
+			"color": "#00bfff"
+		},
+		{
+			"id": 417,
+			"name": "さくら夙川",
+			"latitude": 34.738988,
+			"longitude": 135.331046,
+			"rent": 6,
+			"color": "#00bfff"
+		},
+		{
+			"id": 418,
+			"name": "兵庫",
+			"latitude": 34.668379,
+			"longitude": 135.164667,
+			"rent": 6,
+			"color": "#00bfff"
+		},
+		{
+			"id": 419,
+			"name": "神宮前",
+			"latitude": 35.125798,
+			"longitude": 136.912471,
+			"rent": 6,
+			"color": "#00bfff"
+		},
+		{
+			"id": 420,
+			"name": "名鉄名古屋",
+			"latitude": 35.169661,
+			"longitude": 136.88405,
+			"rent": 6,
+			"color": "#00bfff"
+		},
+		{
+			"id": 421,
+			"name": "神戸",
+			"latitude": 34.679526,
+			"longitude": 135.178021,
+			"rent": 6.03,
+			"color": "#00bfff"
+		},
+		{
+			"id": 422,
+			"name": "塚本",
+			"latitude": 34.712579,
+			"longitude": 135.468876,
+			"rent": 6.05,
+			"color": "#00bfff"
+		},
+		{
+			"id": 423,
 			"name": "京王多摩川",
 			"latitude": 35.644804,
 			"longitude": 139.537042,
@@ -745,7 +3385,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 94,
+			"id": 424,
 			"name": "京王八王子",
 			"latitude": 35.657886,
 			"longitude": 139.343137,
@@ -753,7 +3393,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 95,
+			"id": 425,
 			"name": "向ヶ丘遊園",
 			"latitude": 35.617241,
 			"longitude": 139.564758,
@@ -761,7 +3401,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 96,
+			"id": 426,
 			"name": "狛江",
 			"latitude": 35.63217,
 			"longitude": 139.577413,
@@ -769,7 +3409,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 97,
+			"id": 427,
 			"name": "新百合ヶ丘",
 			"latitude": 35.603805,
 			"longitude": 139.507605,
@@ -777,7 +3417,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 98,
+			"id": 428,
 			"name": "中野島",
 			"latitude": 35.630135,
 			"longitude": 139.5501,
@@ -785,7 +3425,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 99,
+			"id": 429,
 			"name": "登戸",
 			"latitude": 35.6207850319793,
 			"longitude": 139.569301432929,
@@ -793,7 +3433,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 100,
+			"id": 430,
 			"name": "八王子みなみ野",
 			"latitude": 35.63136,
 			"longitude": 139.331,
@@ -801,7 +3441,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 101,
+			"id": 431,
 			"name": "洋光台",
 			"latitude": 35.378713,
 			"longitude": 139.596505,
@@ -809,7 +3449,15 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 102,
+			"id": 432,
+			"name": "南流山",
+			"latitude": 35.838276,
+			"longitude": 139.903505,
+			"rent": 6.1,
+			"color": "#00bfff"
+		},
+		{
+			"id": 433,
 			"name": "厚木",
 			"latitude": 35.4431256246062,
 			"longitude": 139.378191484138,
@@ -817,7 +3465,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 103,
+			"id": 434,
 			"name": "つくし野",
 			"latitude": 35.527625,
 			"longitude": 139.48512,
@@ -825,7 +3473,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 104,
+			"id": 435,
 			"name": "浦和",
 			"latitude": 35.858482,
 			"longitude": 139.657087,
@@ -833,7 +3481,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 105,
+			"id": 436,
 			"name": "山手",
 			"latitude": 35.427249,
 			"longitude": 139.646206,
@@ -841,7 +3489,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 106,
+			"id": 437,
 			"name": "東小金井",
 			"latitude": 35.70174,
 			"longitude": 139.5248,
@@ -849,7 +3497,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 107,
+			"id": 438,
 			"name": "東船橋",
 			"latitude": 35.69981,
 			"longitude": 140.0043,
@@ -857,7 +3505,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 108,
+			"id": 439,
 			"name": "東白楽",
 			"latitude": 35.48343,
 			"longitude": 139.6294,
@@ -865,7 +3513,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 109,
+			"id": 440,
 			"name": "北浦和",
 			"latitude": 35.872156,
 			"longitude": 139.646196,
@@ -873,7 +3521,31 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 110,
+			"id": 441,
+			"name": "西長堀",
+			"latitude": 34.675256,
+			"longitude": 135.487223,
+			"rent": 6.2,
+			"color": "#00bfff"
+		},
+		{
+			"id": 442,
+			"name": "大国町",
+			"latitude": 34.656075,
+			"longitude": 135.4978,
+			"rent": 6.2,
+			"color": "#00bfff"
+		},
+		{
+			"id": 443,
+			"name": "西宮",
+			"latitude": 34.738763,
+			"longitude": 135.347864,
+			"rent": 6.2,
+			"color": "#00bfff"
+		},
+		{
+			"id": 444,
 			"name": "港南台",
 			"latitude": 35.37528,
 			"longitude": 139.576712,
@@ -881,7 +3553,39 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 111,
+			"id": 445,
+			"name": "新大阪",
+			"latitude": 34.73348,
+			"longitude": 135.500109,
+			"rent": 6.25,
+			"color": "#00bfff"
+		},
+		{
+			"id": 446,
+			"name": "谷町六丁目",
+			"latitude": 34.674923,
+			"longitude": 135.516912,
+			"rent": 6.28,
+			"color": "#00bfff"
+		},
+		{
+			"id": 447,
+			"name": "玉造",
+			"latitude": 34.673526,
+			"longitude": 135.53283,
+			"rent": 6.28,
+			"color": "#00bfff"
+		},
+		{
+			"id": 448,
+			"name": "西中島南方",
+			"latitude": 34.725717,
+			"longitude": 135.499121,
+			"rent": 6.28,
+			"color": "#00bfff"
+		},
+		{
+			"id": 449,
 			"name": "稲田堤",
 			"latitude": 35.633645,
 			"longitude": 139.535262,
@@ -889,7 +3593,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 112,
+			"id": 450,
 			"name": "宿河原",
 			"latitude": 35.6153475953711,
 			"longitude": 139.579728876706,
@@ -897,7 +3601,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 113,
+			"id": 451,
 			"name": "千葉",
 			"latitude": 35.61286,
 			"longitude": 140.1143,
@@ -905,7 +3609,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 114,
+			"id": 452,
 			"name": "大口",
 			"latitude": 35.49216,
 			"longitude": 139.6462,
@@ -913,7 +3617,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 115,
+			"id": 453,
 			"name": "大船",
 			"latitude": 35.353435,
 			"longitude": 139.531124,
@@ -921,7 +3625,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 116,
+			"id": 454,
 			"name": "調布",
 			"latitude": 35.651788,
 			"longitude": 139.5447823,
@@ -929,7 +3633,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 117,
+			"id": 455,
 			"name": "東府中",
 			"latitude": 35.6688656,
 			"longitude": 139.4952598,
@@ -937,7 +3641,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 118,
+			"id": 456,
 			"name": "分倍河原",
 			"latitude": 35.6685677,
 			"longitude": 139.46874,
@@ -945,7 +3649,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 119,
+			"id": 457,
 			"name": "本郷台",
 			"latitude": 35.367436,
 			"longitude": 139.550281,
@@ -953,7 +3657,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 120,
+			"id": 458,
 			"name": "与野",
 			"latitude": 35.884393,
 			"longitude": 139.639085,
@@ -961,7 +3665,47 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 121,
+			"id": 459,
+			"name": "松屋町",
+			"latitude": 34.675479,
+			"longitude": 135.512467,
+			"rent": 6.3,
+			"color": "#00bfff"
+		},
+		{
+			"id": 460,
+			"name": "蒲生四丁目",
+			"latitude": 34.700368,
+			"longitude": 135.547709,
+			"rent": 6.3,
+			"color": "#00bfff"
+		},
+		{
+			"id": 461,
+			"name": "三郷中央",
+			"latitude": 35.824422,
+			"longitude": 139.878316,
+			"rent": 6.3,
+			"color": "#00bfff"
+		},
+		{
+			"id": 462,
+			"name": "山王",
+			"latitude": 35.15235,
+			"longitude": 136.888453,
+			"rent": 6.3,
+			"color": "#00bfff"
+		},
+		{
+			"id": 463,
+			"name": "中津",
+			"latitude": 34.71103,
+			"longitude": 135.496912,
+			"rent": 6.31,
+			"color": "#00bfff"
+		},
+		{
+			"id": 464,
 			"name": "磯子",
 			"latitude": 35.399881,
 			"longitude": 139.617916,
@@ -969,7 +3713,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 122,
+			"id": 465,
 			"name": "鴨居",
 			"latitude": 35.51087,
 			"longitude": 139.5671,
@@ -977,7 +3721,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 123,
+			"id": 466,
 			"name": "原木中山",
 			"latitude": 35.7032,
 			"longitude": 139.941876,
@@ -985,7 +3729,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 124,
+			"id": 467,
 			"name": "東伏見",
 			"latitude": 35.728666,
 			"longitude": 139.564232,
@@ -993,7 +3737,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 125,
+			"id": 468,
 			"name": "和光市",
 			"latitude": 35.788515,
 			"longitude": 139.612343,
@@ -1001,7 +3745,23 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 126,
+			"id": 469,
+			"name": "東三国",
+			"latitude": 34.741035,
+			"longitude": 135.498512,
+			"rent": 6.4,
+			"color": "#00bfff"
+		},
+		{
+			"id": 470,
+			"name": "大阪",
+			"latitude": 34.701909,
+			"longitude": 135.494977,
+			"rent": 6.4,
+			"color": "#00bfff"
+		},
+		{
+			"id": 471,
 			"name": "さいたま新都心",
 			"latitude": 35.893867,
 			"longitude": 139.633587,
@@ -1009,7 +3769,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 127,
+			"id": 472,
 			"name": "下総中山",
 			"latitude": 35.71428,
 			"longitude": 139.9431,
@@ -1017,7 +3777,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 128,
+			"id": 473,
 			"name": "葛西",
 			"latitude": 35.663523,
 			"longitude": 139.872694,
@@ -1025,7 +3785,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 129,
+			"id": 474,
 			"name": "喜多見",
 			"latitude": 35.636692,
 			"longitude": 139.587098,
@@ -1033,7 +3793,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 130,
+			"id": 475,
 			"name": "綱島",
 			"latitude": 35.53699,
 			"longitude": 139.635,
@@ -1041,7 +3801,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 131,
+			"id": 476,
 			"name": "市が尾",
 			"latitude": 35.551477,
 			"longitude": 139.541388,
@@ -1049,7 +3809,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 132,
+			"id": 477,
 			"name": "柴崎",
 			"latitude": 35.6540817,
 			"longitude": 139.5666085,
@@ -1057,7 +3817,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 133,
+			"id": 478,
 			"name": "新子安",
 			"latitude": 35.487106,
 			"longitude": 139.65554,
@@ -1065,7 +3825,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 134,
+			"id": 479,
 			"name": "西葛西",
 			"latitude": 35.664528,
 			"longitude": 139.85937,
@@ -1073,7 +3833,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 135,
+			"id": 480,
 			"name": "船堀",
 			"latitude": 35.683732,
 			"longitude": 139.864333,
@@ -1081,7 +3841,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 136,
+			"id": 481,
 			"name": "大宮",
 			"latitude": 35.906295,
 			"longitude": 139.623999,
@@ -1089,7 +3849,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 137,
+			"id": 482,
 			"name": "中山",
 			"latitude": 35.51483,
 			"longitude": 139.5402,
@@ -1097,7 +3857,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 138,
+			"id": 483,
 			"name": "町田",
 			"latitude": 35.541975372676,
 			"longitude": 139.445421095006,
@@ -1105,7 +3865,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 139,
+			"id": 484,
 			"name": "南多摩",
 			"latitude": 35.649093,
 			"longitude": 139.489284,
@@ -1113,7 +3873,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 140,
+			"id": 485,
 			"name": "武蔵境",
 			"latitude": 35.70216,
 			"longitude": 139.5447,
@@ -1121,7 +3881,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 141,
+			"id": 486,
 			"name": "妙典",
 			"latitude": 35.691613,
 			"longitude": 139.925017,
@@ -1129,7 +3889,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 142,
+			"id": 487,
 			"name": "妙蓮寺",
 			"latitude": 35.49847,
 			"longitude": 139.6331,
@@ -1137,7 +3897,31 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 143,
+			"id": 488,
+			"name": "長堀橋",
+			"latitude": 34.674645,
+			"longitude": 135.506357,
+			"rent": 6.5,
+			"color": "#00bfff"
+		},
+		{
+			"id": 489,
+			"name": "八潮",
+			"latitude": 35.807855,
+			"longitude": 139.845039,
+			"rent": 6.5,
+			"color": "#00bfff"
+		},
+		{
+			"id": 490,
+			"name": "柏の葉キャンパス",
+			"latitude": 35.893066,
+			"longitude": 139.952423,
+			"rent": 6.5,
+			"color": "#00bfff"
+		},
+		{
+			"id": 491,
 			"name": "西国立",
 			"latitude": 35.6934411454608,
 			"longitude": 139.424058012664,
@@ -1145,7 +3929,23 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 144,
+			"id": 492,
+			"name": "西大橋",
+			"latitude": 34.675442,
+			"longitude": 135.493575,
+			"rent": 6.55,
+			"color": "#00bfff"
+		},
+		{
+			"id": 493,
+			"name": "元町",
+			"latitude": 34.689569,
+			"longitude": 135.187373,
+			"rent": 6.55,
+			"color": "#00bfff"
+		},
+		{
+			"id": 494,
 			"name": "江田",
 			"latitude": 35.558646,
 			"longitude": 139.551509,
@@ -1153,7 +3953,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 145,
+			"id": 495,
 			"name": "久地",
 			"latitude": 35.61056,
 			"longitude": 139.592539,
@@ -1161,7 +3961,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 146,
+			"id": 496,
 			"name": "行徳",
 			"latitude": 35.682558,
 			"longitude": 139.914235,
@@ -1169,7 +3969,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 147,
+			"id": 497,
 			"name": "国領",
 			"latitude": 35.6501355,
 			"longitude": 139.5583464,
@@ -1177,7 +3977,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 148,
+			"id": 498,
 			"name": "小岩",
 			"latitude": 35.73296,
 			"longitude": 139.8817,
@@ -1185,7 +3985,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 149,
+			"id": 499,
 			"name": "小田原",
 			"latitude": 35.2563636441241,
 			"longitude": 139.155380171723,
@@ -1193,7 +3993,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 150,
+			"id": 500,
 			"name": "成城学園前",
 			"latitude": 35.640053,
 			"longitude": 139.598741,
@@ -1201,7 +4001,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 151,
+			"id": 501,
 			"name": "船橋",
 			"latitude": 35.70174,
 			"longitude": 139.9852,
@@ -1209,7 +4009,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 152,
+			"id": 502,
 			"name": "谷保",
 			"latitude": 35.681424,
 			"longitude": 139.446591,
@@ -1217,7 +4017,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 153,
+			"id": 503,
 			"name": "府中",
 			"latitude": 35.672195,
 			"longitude": 139.480469,
@@ -1225,7 +4025,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 154,
+			"id": 504,
 			"name": "立川",
 			"latitude": 35.6979,
 			"longitude": 139.414,
@@ -1233,7 +4033,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 155,
+			"id": 505,
 			"name": "蕨",
 			"latitude": 35.828148,
 			"longitude": 139.690443,
@@ -1241,7 +4041,15 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 156,
+			"id": 506,
+			"name": "江坂",
+			"latitude": 34.757905,
+			"longitude": 135.49702,
+			"rent": 6.65,
+			"color": "#00bfff"
+		},
+		{
+			"id": 507,
 			"name": "たまプラーザ",
 			"latitude": 35.577427,
 			"longitude": 139.558447,
@@ -1249,7 +4057,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 157,
+			"id": 508,
 			"name": "菊名",
 			"latitude": 35.50964,
 			"longitude": 139.6307,
@@ -1257,7 +4065,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 158,
+			"id": 509,
 			"name": "光が丘",
 			"latitude": 35.758526,
 			"longitude": 139.628603,
@@ -1265,7 +4073,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 159,
+			"id": 510,
 			"name": "根岸",
 			"latitude": 35.415795,
 			"longitude": 139.635057,
@@ -1273,7 +4081,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 160,
+			"id": 511,
 			"name": "新小岩",
 			"latitude": 35.71679,
 			"longitude": 139.8583,
@@ -1281,7 +4089,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 161,
+			"id": 512,
 			"name": "西船橋",
 			"latitude": 35.707452,
 			"longitude": 139.959097,
@@ -1289,7 +4097,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 162,
+			"id": 513,
 			"name": "大倉山",
 			"latitude": 35.52202,
 			"longitude": 139.6299,
@@ -1297,7 +4105,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 163,
+			"id": 514,
 			"name": "南行徳",
 			"latitude": 35.672687,
 			"longitude": 139.902311,
@@ -1305,7 +4113,39 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 164,
+			"id": 515,
+			"name": "梅田",
+			"latitude": 34.705517,
+			"longitude": 135.498312,
+			"rent": 6.7,
+			"color": "#00bfff"
+		},
+		{
+			"id": 516,
+			"name": "本町",
+			"latitude": 34.681936,
+			"longitude": 135.498982,
+			"rent": 6.7,
+			"color": "#00bfff"
+		},
+		{
+			"id": 517,
+			"name": "六町",
+			"latitude": 35.784841,
+			"longitude": 139.821874,
+			"rent": 6.7,
+			"color": "#00bfff"
+		},
+		{
+			"id": 518,
+			"name": "三ノ宮",
+			"latitude": 34.694835,
+			"longitude": 135.194944,
+			"rent": 6.75,
+			"color": "#00bfff"
+		},
+		{
+			"id": 519,
 			"name": "布田",
 			"latitude": 35.6498499,
 			"longitude": 139.5518261,
@@ -1313,7 +4153,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 165,
+			"id": 520,
 			"name": "あざみ野",
 			"latitude": 35.568717,
 			"longitude": 139.553556,
@@ -1321,7 +4161,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 166,
+			"id": 521,
 			"name": "つつじヶ丘",
 			"latitude": 35.6579842,
 			"longitude": 139.5750124,
@@ -1329,7 +4169,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 167,
+			"id": 522,
 			"name": "浦安",
 			"latitude": 35.665743,
 			"longitude": 139.892937,
@@ -1337,7 +4177,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 168,
+			"id": 523,
 			"name": "宮前平",
 			"latitude": 35.584945,
 			"longitude": 139.581919,
@@ -1345,7 +4185,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 169,
+			"id": 524,
 			"name": "鷺沼",
 			"latitude": 35.579579,
 			"longitude": 139.573018,
@@ -1353,7 +4193,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 170,
+			"id": 525,
 			"name": "市川",
 			"latitude": 35.72928,
 			"longitude": 139.9078,
@@ -1361,7 +4201,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 171,
+			"id": 526,
 			"name": "篠崎",
 			"latitude": 35.706017,
 			"longitude": 139.903698,
@@ -1369,7 +4209,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 172,
+			"id": 527,
 			"name": "祖師ヶ谷大蔵",
 			"latitude": 35.6433164,
 			"longitude": 139.6095789,
@@ -1377,7 +4217,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 173,
+			"id": 528,
 			"name": "日吉",
 			"latitude": 35.55306,
 			"longitude": 139.6468,
@@ -1385,7 +4225,15 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 174,
+			"id": 529,
+			"name": "心斎橋",
+			"latitude": 34.675012,
+			"longitude": 135.50033,
+			"rent": 6.8,
+			"color": "#00bfff"
+		},
+		{
+			"id": 530,
 			"name": "宮崎台",
 			"latitude": 35.587325,
 			"longitude": 139.591349,
@@ -1393,7 +4241,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 175,
+			"id": 531,
 			"name": "西川口",
 			"latitude": 35.815725,
 			"longitude": 139.704364,
@@ -1401,7 +4249,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 176,
+			"id": 532,
 			"name": "上井草",
 			"latitude": 35.72512,
 			"longitude": 139.603568,
@@ -1409,7 +4257,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 177,
+			"id": 533,
 			"name": "上石神井",
 			"latitude": 35.726245,
 			"longitude": 139.59208,
@@ -1417,7 +4265,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 178,
+			"id": 534,
 			"name": "瑞江",
 			"latitude": 35.693318,
 			"longitude": 139.89761,
@@ -1425,7 +4273,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 179,
+			"id": 535,
 			"name": "西高島平",
 			"latitude": 35.791938,
 			"longitude": 139.64589,
@@ -1433,7 +4281,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 180,
+			"id": 536,
 			"name": "西府",
 			"latitude": 35.670967,
 			"longitude": 139.457399,
@@ -1441,7 +4289,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 181,
+			"id": 537,
 			"name": "仙川",
 			"latitude": 35.662307,
 			"longitude": 139.584897,
@@ -1449,7 +4297,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 182,
+			"id": 538,
 			"name": "川口",
 			"latitude": 35.801922,
 			"longitude": 139.717583,
@@ -1457,7 +4305,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 183,
+			"id": 539,
 			"name": "地下鉄赤塚",
 			"latitude": 35.77053,
 			"longitude": 139.644543,
@@ -1465,7 +4313,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 184,
+			"id": 540,
 			"name": "鶴見",
 			"latitude": 35.508565,
 			"longitude": 139.676018,
@@ -1473,7 +4321,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 185,
+			"id": 541,
 			"name": "田奈",
 			"latitude": 35.536177,
 			"longitude": 139.504835,
@@ -1481,7 +4329,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 186,
+			"id": 542,
 			"name": "府中本町",
 			"latitude": 35.666204,
 			"longitude": 139.477203,
@@ -1489,7 +4337,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 187,
+			"id": 543,
 			"name": "武蔵関",
 			"latitude": 35.727547,
 			"longitude": 139.576889,
@@ -1497,7 +4345,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 188,
+			"id": 544,
 			"name": "練馬春日町",
 			"latitude": 35.751135,
 			"longitude": 139.641058,
@@ -1505,7 +4353,7 @@
 			"color": "#00bfff"
 		},
 		{
-			"id": 189,
+			"id": 545,
 			"name": "井荻",
 			"latitude": 35.724546,
 			"longitude": 139.614661,
@@ -1513,7 +4361,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 190,
+			"id": 546,
 			"name": "綾瀬",
 			"latitude": 35.762214,
 			"longitude": 139.824914,
@@ -1521,7 +4369,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 191,
+			"id": 547,
 			"name": "一之江",
 			"latitude": 35.686055,
 			"longitude": 139.882934,
@@ -1529,7 +4377,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 192,
+			"id": 548,
 			"name": "下井草",
 			"latitude": 35.723955,
 			"longitude": 139.624327,
@@ -1537,7 +4385,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 193,
+			"id": 549,
 			"name": "豪徳寺",
 			"latitude": 35.6537321924523,
 			"longitude": 139.647326107369,
@@ -1545,7 +4393,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 194,
+			"id": 550,
 			"name": "鷺ノ宮",
 			"latitude": 35.722605,
 			"longitude": 139.63892,
@@ -1553,7 +4401,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 195,
+			"id": 551,
 			"name": "小田栄",
 			"latitude": 35.5145,
 			"longitude": 139.704944,
@@ -1561,7 +4409,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 196,
+			"id": 552,
 			"name": "地下鉄成増",
 			"latitude": 35.776557,
 			"longitude": 139.631497,
@@ -1569,7 +4417,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 197,
+			"id": 553,
 			"name": "津田山",
 			"latitude": 35.60427,
 			"longitude": 139.600005,
@@ -1577,7 +4425,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 198,
+			"id": 554,
 			"name": "平和台",
 			"latitude": 35.757863,
 			"longitude": 139.653762,
@@ -1585,7 +4433,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 199,
+			"id": 555,
 			"name": "北綾瀬",
 			"latitude": 35.7770135,
 			"longitude": 139.8321012,
@@ -1593,7 +4441,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 200,
+			"id": 556,
 			"name": "本八幡",
 			"latitude": 35.72278,
 			"longitude": 139.9265,
@@ -1601,7 +4449,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 201,
+			"id": 557,
 			"name": "梶が谷",
 			"latitude": 35.594102,
 			"longitude": 139.606008,
@@ -1609,7 +4457,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 202,
+			"id": 558,
 			"name": "元住吉",
 			"latitude": 35.56432,
 			"longitude": 139.654,
@@ -1617,7 +4465,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 203,
+			"id": 559,
 			"name": "浜川崎",
 			"latitude": 35.510414,
 			"longitude": 139.713484,
@@ -1625,7 +4473,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 204,
+			"id": 560,
 			"name": "平井",
 			"latitude": 35.70643,
 			"longitude": 139.8425,
@@ -1633,7 +4481,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 205,
+			"id": 561,
 			"name": "豊島園",
 			"latitude": 35.7419142116061,
 			"longitude": 139.649146646261,
@@ -1641,7 +4489,23 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 206,
+			"id": 562,
+			"name": "青井",
+			"latitude": 35.772034,
+			"longitude": 139.820436,
+			"rent": 7.1,
+			"color": "#40e0d0"
+		},
+		{
+			"id": 563,
+			"name": "流山おおたかの森",
+			"latitude": 35.871782,
+			"longitude": 139.925013,
+			"rent": 7.1,
+			"color": "#40e0d0"
+		},
+		{
+			"id": 564,
 			"name": "三鷹",
 			"latitude": 35.70271,
 			"longitude": 139.5608,
@@ -1649,7 +4513,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 207,
+			"id": 565,
 			"name": "高津",
 			"latitude": 35.603548,
 			"longitude": 139.61747,
@@ -1657,7 +4521,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 208,
+			"id": 566,
 			"name": "小竹向原",
 			"latitude": 35.743803,
 			"longitude": 139.678572,
@@ -1665,7 +4529,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 209,
+			"id": 567,
 			"name": "青葉台",
 			"latitude": 35.542955,
 			"longitude": 139.517182,
@@ -1673,7 +4537,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 210,
+			"id": 568,
 			"name": "千歳烏山",
 			"latitude": 35.668212,
 			"longitude": 139.601139,
@@ -1681,7 +4545,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 211,
+			"id": 569,
 			"name": "千歳船橋",
 			"latitude": 35.64735,
 			"longitude": 139.62408,
@@ -1689,7 +4553,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 212,
+			"id": 570,
 			"name": "川崎新町",
 			"latitude": 35.51818,
 			"longitude": 139.699293,
@@ -1697,7 +4561,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 213,
+			"id": 571,
 			"name": "都立家政",
 			"latitude": 35.722333,
 			"longitude": 139.644586,
@@ -1705,7 +4569,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 214,
+			"id": 572,
 			"name": "二子新地",
 			"latitude": 35.607125,
 			"longitude": 139.622399,
@@ -1713,7 +4577,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 215,
+			"id": 573,
 			"name": "氷川台",
 			"latitude": 35.749822,
 			"longitude": 139.665023,
@@ -1721,7 +4585,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 216,
+			"id": 574,
 			"name": "北千住",
 			"latitude": 35.749412,
 			"longitude": 139.805108,
@@ -1729,7 +4593,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 217,
+			"id": 575,
 			"name": "尻手",
 			"latitude": 35.531064,
 			"longitude": 139.684389,
@@ -1737,7 +4601,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 218,
+			"id": 576,
 			"name": "志村三丁目",
 			"latitude": 35.777464,
 			"longitude": 139.685962,
@@ -1745,7 +4609,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 219,
+			"id": 577,
 			"name": "吉祥寺",
 			"latitude": 35.702112100252,
 			"longitude": 139.580452570226,
@@ -1753,7 +4617,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 220,
+			"id": 578,
 			"name": "久我山",
 			"latitude": 35.687797,
 			"longitude": 139.599703,
@@ -1761,7 +4625,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 221,
+			"id": 579,
 			"name": "宮の坂",
 			"latitude": 35.64797,
 			"longitude": 139.645,
@@ -1769,7 +4633,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 222,
+			"id": 580,
 			"name": "山下",
 			"latitude": 35.65373,
 			"longitude": 139.6473,
@@ -1777,7 +4641,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 223,
+			"id": 581,
 			"name": "新高島平",
 			"latitude": 35.790294,
 			"longitude": 139.654267,
@@ -1785,7 +4649,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 224,
+			"id": 582,
 			"name": "西台",
 			"latitude": 35.786926,
 			"longitude": 139.673987,
@@ -1793,7 +4657,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 225,
+			"id": 583,
 			"name": "千川",
 			"latitude": 35.738418,
 			"longitude": 139.689157,
@@ -1801,7 +4665,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 226,
+			"id": 584,
 			"name": "東神奈川",
 			"latitude": 35.477951,
 			"longitude": 139.633347,
@@ -1809,7 +4673,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 227,
+			"id": 585,
 			"name": "蓮根",
 			"latitude": 35.784174,
 			"longitude": 139.67904,
@@ -1817,7 +4681,23 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 228,
+			"id": 586,
+			"name": "淀屋橋",
+			"latitude": 34.692321,
+			"longitude": 135.501004,
+			"rent": 7.3,
+			"color": "#40e0d0"
+		},
+		{
+			"id": 587,
+			"name": "柏たなか",
+			"latitude": 35.910906,
+			"longitude": 139.957561,
+			"rent": 7.3,
+			"color": "#40e0d0"
+		},
+		{
+			"id": 588,
 			"name": "芦花公園",
 			"latitude": 35.670542,
 			"longitude": 139.608224,
@@ -1825,7 +4705,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 229,
+			"id": 589,
 			"name": "溝の口",
 			"latitude": 35.600032,
 			"longitude": 139.610626,
@@ -1833,7 +4713,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 230,
+			"id": 590,
 			"name": "高島平",
 			"latitude": 35.788833,
 			"longitude": 139.661172,
@@ -1841,7 +4721,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 231,
+			"id": 591,
 			"name": "西永福",
 			"latitude": 35.678798,
 			"longitude": 139.635383,
@@ -1849,7 +4729,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 232,
+			"id": 592,
 			"name": "八丁畷",
 			"latitude": 35.523113,
 			"longitude": 139.691488,
@@ -1857,7 +4737,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 233,
+			"id": 593,
 			"name": "矢向",
 			"latitude": 35.538933,
 			"longitude": 139.680422,
@@ -1865,7 +4745,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 234,
+			"id": 594,
 			"name": "井の頭公園",
 			"latitude": 35.697506,
 			"longitude": 139.582696,
@@ -1873,7 +4753,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 235,
+			"id": 595,
 			"name": "経堂",
 			"latitude": 35.651316,
 			"longitude": 139.636437,
@@ -1881,7 +4761,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 236,
+			"id": 596,
 			"name": "桜上水",
 			"latitude": 35.6674481,
 			"longitude": 139.6318829,
@@ -1889,7 +4769,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 237,
+			"id": 597,
 			"name": "三鷹台",
 			"latitude": 35.692235,
 			"longitude": 139.588903,
@@ -1897,7 +4777,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 238,
+			"id": 598,
 			"name": "志村坂上",
 			"latitude": 35.775725,
 			"longitude": 139.69538,
@@ -1905,7 +4785,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 239,
+			"id": 599,
 			"name": "鹿島田",
 			"latitude": 35.551331,
 			"longitude": 139.675131,
@@ -1913,7 +4793,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 240,
+			"id": 600,
 			"name": "沼袋",
 			"latitude": 35.719458,
 			"longitude": 139.663841,
@@ -1921,7 +4801,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 241,
+			"id": 601,
 			"name": "上北沢",
 			"latitude": 35.6688276,
 			"longitude": 139.6233971,
@@ -1929,7 +4809,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 242,
+			"id": 602,
 			"name": "川崎",
 			"latitude": 35.531328,
 			"longitude": 139.696899,
@@ -1937,7 +4817,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 243,
+			"id": 603,
 			"name": "梅ヶ丘",
 			"latitude": 35.6560169,
 			"longitude": 139.6536376,
@@ -1945,7 +4825,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 244,
+			"id": 604,
 			"name": "八幡山",
 			"latitude": 35.6698304,
 			"longitude": 139.6161352,
@@ -1953,7 +4833,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 245,
+			"id": 605,
 			"name": "浜田山",
 			"latitude": 35.681628,
 			"longitude": 139.627509,
@@ -1961,7 +4841,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 246,
+			"id": 606,
 			"name": "富士見ヶ丘",
 			"latitude": 35.6847865,
 			"longitude": 139.6072018,
@@ -1969,7 +4849,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 247,
+			"id": 607,
 			"name": "武蔵溝ノ口",
 			"latitude": 35.599032,
 			"longitude": 139.611207,
@@ -1977,7 +4857,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 248,
+			"id": 608,
 			"name": "本蓮沼",
 			"latitude": 35.768782,
 			"longitude": 139.702324,
@@ -1985,7 +4865,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 249,
+			"id": 609,
 			"name": "野方",
 			"latitude": 35.719658,
 			"longitude": 139.652733,
@@ -1993,7 +4873,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 250,
+			"id": 610,
 			"name": "阿佐ケ谷",
 			"latitude": 35.70482,
 			"longitude": 139.6359,
@@ -2001,7 +4881,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 251,
+			"id": 611,
 			"name": "荻窪",
 			"latitude": 35.70463,
 			"longitude": 139.62,
@@ -2009,7 +4889,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 252,
+			"id": 612,
 			"name": "関内",
 			"latitude": 35.443233,
 			"longitude": 139.637134,
@@ -2017,7 +4897,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 253,
+			"id": 613,
 			"name": "高井戸",
 			"latitude": 35.68322,
 			"longitude": 139.615257,
@@ -2025,7 +4905,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 254,
+			"id": 614,
 			"name": "桜木町",
 			"latitude": 35.450918,
 			"longitude": 139.631073,
@@ -2033,7 +4913,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 255,
+			"id": 615,
 			"name": "新横浜",
 			"latitude": 35.50679,
 			"longitude": 139.6175,
@@ -2041,7 +4921,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 256,
+			"id": 616,
 			"name": "新江古田",
 			"latitude": 35.732538,
 			"longitude": 139.670653,
@@ -2049,7 +4929,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 257,
+			"id": 617,
 			"name": "新板橋",
 			"latitude": 35.748802,
 			"longitude": 139.719604,
@@ -2057,7 +4937,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 258,
+			"id": 618,
 			"name": "東十条",
 			"latitude": 35.762947,
 			"longitude": 139.727694,
@@ -2065,7 +4945,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 259,
+			"id": 619,
 			"name": "二子玉川",
 			"latitude": 35.611499,
 			"longitude": 139.626624,
@@ -2073,7 +4953,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 260,
+			"id": 620,
 			"name": "反町",
 			"latitude": 35.47474,
 			"longitude": 139.6253,
@@ -2081,7 +4961,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 261,
+			"id": 621,
 			"name": "練馬",
 			"latitude": 35.73782,
 			"longitude": 139.653566,
@@ -2089,7 +4969,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 262,
+			"id": 622,
 			"name": "上中里",
 			"latitude": 35.746586,
 			"longitude": 139.746927,
@@ -2097,7 +4977,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 263,
+			"id": 623,
 			"name": "町屋",
 			"latitude": 35.742268,
 			"longitude": 139.781435,
@@ -2105,7 +4985,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 264,
+			"id": 624,
 			"name": "高円寺",
 			"latitude": 35.70539,
 			"longitude": 139.6499,
@@ -2113,7 +4993,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 265,
+			"id": 625,
 			"name": "成瀬",
 			"latitude": 35.53551,
 			"longitude": 139.4729,
@@ -2121,7 +5001,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 266,
+			"id": 626,
 			"name": "藤が丘",
 			"latitude": 35.543595,
 			"longitude": 139.527873,
@@ -2129,7 +5009,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 267,
+			"id": 627,
 			"name": "武蔵新城",
 			"latitude": 35.587225,
 			"longitude": 139.629691,
@@ -2137,7 +5017,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 268,
+			"id": 628,
 			"name": "永福町",
 			"latitude": 35.6762081618974,
 			"longitude": 139.642725071171,
@@ -2145,7 +5025,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 269,
+			"id": 629,
 			"name": "松原",
 			"latitude": 35.66005,
 			"longitude": 139.642,
@@ -2153,7 +5033,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 270,
+			"id": 630,
 			"name": "西ヶ原",
 			"latitude": 35.746008,
 			"longitude": 139.742322,
@@ -2161,7 +5041,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 271,
+			"id": 631,
 			"name": "石川町",
 			"latitude": 35.438247,
 			"longitude": 139.643151,
@@ -2169,7 +5049,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 272,
+			"id": 632,
 			"name": "赤羽",
 			"latitude": 35.778051,
 			"longitude": 139.720856,
@@ -2177,7 +5057,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 273,
+			"id": 633,
 			"name": "武蔵小杉",
 			"latitude": 35.57657,
 			"longitude": 139.6594,
@@ -2185,7 +5065,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 274,
+			"id": 634,
 			"name": "王子神谷",
 			"latitude": 35.765172,
 			"longitude": 139.735933,
@@ -2193,7 +5073,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 275,
+			"id": 635,
 			"name": "西荻窪",
 			"latitude": 35.70384,
 			"longitude": 139.5994,
@@ -2201,7 +5081,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 276,
+			"id": 636,
 			"name": "西巣鴨",
 			"latitude": 35.743508,
 			"longitude": 139.728712,
@@ -2209,7 +5089,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 277,
+			"id": 637,
 			"name": "板橋本町",
 			"latitude": 35.761339,
 			"longitude": 139.705535,
@@ -2217,7 +5097,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 278,
+			"id": 638,
 			"name": "平間",
 			"latitude": 35.56104,
 			"longitude": 139.671039,
@@ -2225,7 +5105,7 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 279,
+			"id": 639,
 			"name": "落合南長崎",
 			"latitude": 35.723608,
 			"longitude": 139.683303,
@@ -2233,7 +5113,15 @@
 			"color": "#40e0d0"
 		},
 		{
-			"id": 280,
+			"id": 640,
+			"name": "尾久",
+			"latitude": 35.746783,
+			"longitude": 139.754635,
+			"rent": 7.9,
+			"color": "#40e0d0"
+		},
+		{
+			"id": 641,
 			"name": "王子",
 			"latitude": 35.752474,
 			"longitude": 139.738139,
@@ -2241,7 +5129,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 281,
+			"id": 642,
 			"name": "下北沢",
 			"latitude": 35.6615464979642,
 			"longitude": 139.666900156298,
@@ -2249,7 +5137,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 282,
+			"id": 643,
 			"name": "雑司が谷",
 			"latitude": 35.72034,
 			"longitude": 139.715003,
@@ -2257,7 +5145,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 283,
+			"id": 644,
 			"name": "上町",
 			"latitude": 35.64341,
 			"longitude": 139.6466,
@@ -2265,7 +5153,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 284,
+			"id": 645,
 			"name": "新高円寺",
 			"latitude": 35.697985,
 			"longitude": 139.648068,
@@ -2273,7 +5161,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 285,
+			"id": 646,
 			"name": "世田谷",
 			"latitude": 35.64345,
 			"longitude": 139.6506,
@@ -2281,7 +5169,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 286,
+			"id": 647,
 			"name": "世田谷代田",
 			"latitude": 35.658174,
 			"longitude": 139.661252,
@@ -2289,7 +5177,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 287,
+			"id": 648,
 			"name": "南阿佐ケ谷",
 			"latitude": 35.699624,
 			"longitude": 139.63576,
@@ -2297,7 +5185,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 288,
+			"id": 649,
 			"name": "板橋区役所前",
 			"latitude": 35.751326,
 			"longitude": 139.710166,
@@ -2305,7 +5193,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 289,
+			"id": 650,
 			"name": "下高井戸",
 			"latitude": 35.6661402,
 			"longitude": 139.6414073,
@@ -2313,7 +5201,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 290,
+			"id": 651,
 			"name": "向河原",
 			"latitude": 35.572908,
 			"longitude": 139.667242,
@@ -2321,7 +5209,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 291,
+			"id": 652,
 			"name": "西馬込",
 			"latitude": 35.586859,
 			"longitude": 139.705942,
@@ -2329,7 +5217,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 292,
+			"id": 653,
 			"name": "赤羽岩淵",
 			"latitude": 35.783417,
 			"longitude": 139.722103,
@@ -2337,7 +5225,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 293,
+			"id": 654,
 			"name": "要町",
 			"latitude": 35.73323,
 			"longitude": 139.698715,
@@ -2345,7 +5233,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 294,
+			"id": 655,
 			"name": "新丸子",
 			"latitude": 35.58063,
 			"longitude": 139.6619,
@@ -2353,7 +5241,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 295,
+			"id": 656,
 			"name": "小机",
 			"latitude": 35.50855,
 			"longitude": 139.6001,
@@ -2361,7 +5249,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 296,
+			"id": 657,
 			"name": "松陰神社前",
 			"latitude": 35.64399,
 			"longitude": 139.6552,
@@ -2369,7 +5257,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 297,
+			"id": 658,
 			"name": "西日暮里",
 			"latitude": 35.732135,
 			"longitude": 139.766787,
@@ -2377,7 +5265,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 298,
+			"id": 659,
 			"name": "田園調布",
 			"latitude": 35.60384,
 			"longitude": 139.6723,
@@ -2385,7 +5273,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 299,
+			"id": 660,
 			"name": "東松原",
 			"latitude": 35.662656,
 			"longitude": 139.655652,
@@ -2393,7 +5281,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 300,
+			"id": 661,
 			"name": "東中野",
 			"latitude": 35.7061216972349,
 			"longitude": 139.68379064463,
@@ -2401,7 +5289,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 301,
+			"id": 662,
 			"name": "馬込",
 			"latitude": 35.596435,
 			"longitude": 139.711772,
@@ -2409,7 +5297,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 302,
+			"id": 663,
 			"name": "多摩川",
 			"latitude": 35.58977,
 			"longitude": 139.6688,
@@ -2417,7 +5305,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 303,
+			"id": 664,
 			"name": "中野",
 			"latitude": 35.706032,
 			"longitude": 139.665652,
@@ -2425,7 +5313,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 304,
+			"id": 665,
 			"name": "東高円寺",
 			"latitude": 35.697802,
 			"longitude": 139.657822,
@@ -2433,7 +5321,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 305,
+			"id": 666,
 			"name": "明大前",
 			"latitude": 35.6683488,
 			"longitude": 139.6505541,
@@ -2441,7 +5329,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 306,
+			"id": 667,
 			"name": "東大島",
 			"latitude": 35.690347,
 			"longitude": 139.84596,
@@ -2449,7 +5337,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 307,
+			"id": 668,
 			"name": "横浜",
 			"latitude": 35.46619,
 			"longitude": 139.6227,
@@ -2457,7 +5345,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 308,
+			"id": 669,
 			"name": "大塚",
 			"latitude": 35.73159,
 			"longitude": 139.7293,
@@ -2465,7 +5353,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 309,
+			"id": 670,
 			"name": "中井",
 			"latitude": 35.715065,
 			"longitude": 139.687264,
@@ -2473,7 +5361,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 310,
+			"id": 671,
 			"name": "南千住",
 			"latitude": 35.733336,
 			"longitude": 139.799171,
@@ -2481,7 +5369,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 311,
+			"id": 672,
 			"name": "落合",
 			"latitude": 35.71074,
 			"longitude": 139.686337,
@@ -2489,7 +5377,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 312,
+			"id": 673,
 			"name": "方南町",
 			"latitude": 35.683496,
 			"longitude": 139.656498,
@@ -2497,7 +5385,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 313,
+			"id": 674,
 			"name": "巣鴨",
 			"latitude": 35.733492,
 			"longitude": 139.739345,
@@ -2505,7 +5393,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 314,
+			"id": 675,
 			"name": "東池袋",
 			"latitude": 35.725362,
 			"longitude": 139.720435,
@@ -2513,7 +5401,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 315,
+			"id": 676,
 			"name": "護国寺",
 			"latitude": 35.719044,
 			"longitude": 139.72754,
@@ -2521,7 +5409,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 316,
+			"id": 677,
 			"name": "三ノ輪",
 			"latitude": 35.729528,
 			"longitude": 139.79133,
@@ -2529,7 +5417,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 317,
+			"id": 678,
 			"name": "新代田",
 			"latitude": 35.662593,
 			"longitude": 139.660524,
@@ -2537,7 +5425,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 318,
+			"id": 679,
 			"name": "東北沢",
 			"latitude": 35.665609,
 			"longitude": 139.673228,
@@ -2545,7 +5433,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 319,
+			"id": 680,
 			"name": "日暮里",
 			"latitude": 35.72777,
 			"longitude": 139.771,
@@ -2553,7 +5441,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 320,
+			"id": 681,
 			"name": "武蔵中原",
 			"latitude": 35.5806616208895,
 			"longitude": 139.642101069912,
@@ -2561,7 +5449,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 321,
+			"id": 682,
 			"name": "新中野",
 			"latitude": 35.697491,
 			"longitude": 139.66903,
@@ -2569,7 +5457,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 322,
+			"id": 683,
 			"name": "千駄木",
 			"latitude": 35.725549,
 			"longitude": 139.763243,
@@ -2577,7 +5465,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 323,
+			"id": 684,
 			"name": "代田橋",
 			"latitude": 35.671071,
 			"longitude": 139.659387,
@@ -2585,7 +5473,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 324,
+			"id": 685,
 			"name": "中野富士見町",
 			"latitude": 35.690514,
 			"longitude": 139.666933,
@@ -2593,7 +5481,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 325,
+			"id": 686,
 			"name": "押上",
 			"latitude": 35.710702,
 			"longitude": 139.812935,
@@ -2601,7 +5489,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 326,
+			"id": 687,
 			"name": "蒲田",
 			"latitude": 35.562479,
 			"longitude": 139.716051,
@@ -2609,7 +5497,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 327,
+			"id": 688,
 			"name": "駒沢大学",
 			"latitude": 35.633471,
 			"longitude": 139.661702,
@@ -2617,7 +5505,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 328,
+			"id": 689,
 			"name": "若林",
 			"latitude": 35.646,
 			"longitude": 139.6599,
@@ -2625,7 +5513,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 329,
+			"id": 690,
 			"name": "新井薬師前",
 			"latitude": 35.715795,
 			"longitude": 139.671885,
@@ -2633,7 +5521,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 330,
+			"id": 691,
 			"name": "田端",
 			"latitude": 35.73806,
 			"longitude": 139.7609,
@@ -2641,7 +5529,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 331,
+			"id": 692,
 			"name": "白山",
 			"latitude": 35.72133,
 			"longitude": 139.752078,
@@ -2649,7 +5537,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 332,
+			"id": 693,
 			"name": "目白",
 			"latitude": 35.7212,
 			"longitude": 139.7066,
@@ -2657,7 +5545,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 333,
+			"id": 694,
 			"name": "学芸大学",
 			"latitude": 35.62885,
 			"longitude": 139.6853,
@@ -2665,7 +5553,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 334,
+			"id": 695,
 			"name": "笹塚",
 			"latitude": 35.673654,
 			"longitude": 139.667136,
@@ -2673,7 +5561,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 335,
+			"id": 696,
 			"name": "三越前",
 			"latitude": 35.684888,
 			"longitude": 139.773161,
@@ -2681,7 +5569,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 336,
+			"id": 697,
 			"name": "代々木上原",
 			"latitude": 35.669062,
 			"longitude": 139.679678,
@@ -2689,7 +5577,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 337,
+			"id": 698,
 			"name": "中野新橋",
 			"latitude": 35.692123,
 			"longitude": 139.673997,
@@ -2697,7 +5585,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 338,
+			"id": 699,
 			"name": "幡ヶ谷",
 			"latitude": 35.6770576,
 			"longitude": 139.6761859,
@@ -2705,7 +5593,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 339,
+			"id": 700,
 			"name": "中野坂上",
 			"latitude": 35.69792,
 			"longitude": 139.68291,
@@ -2713,7 +5601,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 340,
+			"id": 701,
 			"name": "大森",
 			"latitude": 35.588442,
 			"longitude": 139.727929,
@@ -2721,7 +5609,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 341,
+			"id": 702,
 			"name": "桜新町",
 			"latitude": 35.631666,
 			"longitude": 139.644779,
@@ -2729,7 +5617,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 342,
+			"id": 703,
 			"name": "春日",
 			"latitude": 35.7098292315065,
 			"longitude": 139.753185447771,
@@ -2737,7 +5625,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 343,
+			"id": 704,
 			"name": "西早稲田",
 			"latitude": 35.707941,
 			"longitude": 139.709093,
@@ -2745,7 +5633,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 344,
+			"id": 705,
 			"name": "早稲田",
 			"latitude": 35.705723,
 			"longitude": 139.721319,
@@ -2753,7 +5641,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 345,
+			"id": 706,
 			"name": "大井町",
 			"latitude": 35.606249,
 			"longitude": 139.734855,
@@ -2761,7 +5649,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 346,
+			"id": 707,
 			"name": "中延",
 			"latitude": 35.605479,
 			"longitude": 139.713679,
@@ -2769,7 +5657,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 347,
+			"id": 708,
 			"name": "東大前",
 			"latitude": 35.717633,
 			"longitude": 139.758025,
@@ -2777,7 +5665,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 348,
+			"id": 709,
 			"name": "日本橋",
 			"latitude": 35.682413,
 			"longitude": 139.773919,
@@ -2785,7 +5673,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 349,
+			"id": 710,
 			"name": "祐天寺",
 			"latitude": 35.6377,
 			"longitude": 139.6912,
@@ -2793,7 +5681,7 @@
 			"color": "#32cd32"
 		},
 		{
-			"id": 350,
+			"id": 711,
 			"name": "本所吾妻橋",
 			"latitude": 35.70858,
 			"longitude": 139.804624,
@@ -2801,7 +5689,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 351,
+			"id": 712,
 			"name": "亀戸",
 			"latitude": 35.69759,
 			"longitude": 139.8261,
@@ -2809,7 +5697,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 352,
+			"id": 713,
 			"name": "参宮橋",
 			"latitude": 35.678714,
 			"longitude": 139.693562,
@@ -2817,7 +5705,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 353,
+			"id": 714,
 			"name": "上野広小路",
 			"latitude": 35.70766,
 			"longitude": 139.772977,
@@ -2825,7 +5713,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 354,
+			"id": 715,
 			"name": "大島",
 			"latitude": 35.689905,
 			"longitude": 139.83565,
@@ -2833,7 +5721,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 355,
+			"id": 716,
 			"name": "八丁堀",
 			"latitude": 35.674617,
 			"longitude": 139.777705,
@@ -2841,7 +5729,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 356,
+			"id": 717,
 			"name": "浅草",
 			"latitude": 35.712074,
 			"longitude": 139.79843,
@@ -2849,7 +5737,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 357,
+			"id": 718,
 			"name": "本駒込",
 			"latitude": 35.724155,
 			"longitude": 139.753828,
@@ -2857,7 +5745,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 358,
+			"id": 719,
 			"name": "下落合",
 			"latitude": 35.715846,
 			"longitude": 139.695152,
@@ -2865,7 +5753,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 359,
+			"id": 720,
 			"name": "高田馬場",
 			"latitude": 35.712285,
 			"longitude": 139.703782,
@@ -2873,7 +5761,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 360,
+			"id": 721,
 			"name": "自由が丘",
 			"latitude": 35.60758,
 			"longitude": 139.6691,
@@ -2881,7 +5769,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 361,
+			"id": 722,
 			"name": "西新宿五丁目",
 			"latitude": 35.6898804777869,
 			"longitude": 139.684550859674,
@@ -2889,7 +5777,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 362,
+			"id": 723,
 			"name": "西大島",
 			"latitude": 35.689349,
 			"longitude": 139.826206,
@@ -2897,7 +5785,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 363,
+			"id": 724,
 			"name": "千石",
 			"latitude": 35.727957,
 			"longitude": 139.744792,
@@ -2905,7 +5793,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 364,
+			"id": 725,
 			"name": "池袋",
 			"latitude": 35.72893,
 			"longitude": 139.7104,
@@ -2913,7 +5801,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 365,
+			"id": 726,
 			"name": "用賀",
 			"latitude": 35.626436,
 			"longitude": 139.633928,
@@ -2921,7 +5809,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 366,
+			"id": 727,
 			"name": "錦糸町",
 			"latitude": 35.696437,
 			"longitude": 139.813949,
@@ -2929,7 +5817,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 367,
+			"id": 728,
 			"name": "住吉",
 			"latitude": 35.689071,
 			"longitude": 139.815651,
@@ -2937,7 +5825,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 368,
+			"id": 729,
 			"name": "戸越",
 			"latitude": 35.614719,
 			"longitude": 139.716398,
@@ -2945,7 +5833,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 369,
+			"id": 730,
 			"name": "新大塚",
 			"latitude": 35.725793,
 			"longitude": 139.729915,
@@ -2953,7 +5841,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 370,
+			"id": 731,
 			"name": "東陽町",
 			"latitude": 35.669629,
 			"longitude": 139.817596,
@@ -2961,7 +5849,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 371,
+			"id": 732,
 			"name": "入谷",
 			"latitude": 35.720734,
 			"longitude": 139.784542,
@@ -2969,7 +5857,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 372,
+			"id": 733,
 			"name": "茗荷谷",
 			"latitude": 35.717305,
 			"longitude": 139.736734,
@@ -2977,7 +5865,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 373,
+			"id": 734,
 			"name": "後楽園",
 			"latitude": 35.707337,
 			"longitude": 139.7512,
@@ -2985,7 +5873,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 374,
+			"id": 735,
 			"name": "初台",
 			"latitude": 35.6809863,
 			"longitude": 139.6861815,
@@ -2993,7 +5881,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 375,
+			"id": 736,
 			"name": "南砂町",
 			"latitude": 35.668796,
 			"longitude": 139.83065,
@@ -3001,7 +5889,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 376,
+			"id": 737,
 			"name": "両国",
 			"latitude": 35.6966186752156,
 			"longitude": 139.797366606071,
@@ -3009,7 +5897,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 377,
+			"id": 738,
 			"name": "茅場町",
 			"latitude": 35.679752,
 			"longitude": 139.780005,
@@ -3017,7 +5905,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 378,
+			"id": 739,
 			"name": "新大久保",
 			"latitude": 35.70131,
 			"longitude": 139.7,
@@ -3025,7 +5913,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 379,
+			"id": 740,
 			"name": "田原町",
 			"latitude": 35.709855,
 			"longitude": 139.7908,
@@ -3033,7 +5921,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 380,
+			"id": 741,
 			"name": "木場",
 			"latitude": 35.669457,
 			"longitude": 139.806528,
@@ -3041,7 +5929,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 381,
+			"id": 742,
 			"name": "門前仲町",
 			"latitude": 35.6724674827531,
 			"longitude": 139.794726411346,
@@ -3049,7 +5937,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 382,
+			"id": 743,
 			"name": "鶯谷",
 			"latitude": 35.7205,
 			"longitude": 139.7788,
@@ -3057,7 +5945,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 383,
+			"id": 744,
 			"name": "駒込",
 			"latitude": 35.736489,
 			"longitude": 139.746875,
@@ -3065,7 +5953,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 384,
+			"id": 745,
 			"name": "三軒茶屋",
 			"latitude": 35.643515,
 			"longitude": 139.671162,
@@ -3073,7 +5961,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 385,
+			"id": 746,
 			"name": "代々木公園",
 			"latitude": 35.668954,
 			"longitude": 139.691318,
@@ -3081,7 +5969,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 386,
+			"id": 747,
 			"name": "大崎",
 			"latitude": 35.6197,
 			"longitude": 139.7286,
@@ -3089,7 +5977,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 387,
+			"id": 748,
 			"name": "本郷三丁目",
 			"latitude": 35.7074415606801,
 			"longitude": 139.760448848828,
@@ -3097,7 +5985,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 388,
+			"id": 749,
 			"name": "新木場",
 			"latitude": 35.646157,
 			"longitude": 139.827426,
@@ -3105,7 +5993,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 389,
+			"id": 750,
 			"name": "江戸川橋",
 			"latitude": 35.709495,
 			"longitude": 139.733538,
@@ -3113,7 +6001,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 390,
+			"id": 751,
 			"name": "市ケ谷",
 			"latitude": 35.6912107320703,
 			"longitude": 139.73649022635,
@@ -3121,7 +6009,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 391,
+			"id": 752,
 			"name": "若松河田",
 			"latitude": 35.699218,
 			"longitude": 139.718184,
@@ -3129,7 +6017,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 392,
+			"id": 753,
 			"name": "辰巳",
 			"latitude": 35.645576,
 			"longitude": 139.81052,
@@ -3137,7 +6025,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 393,
+			"id": 754,
 			"name": "豊洲",
 			"latitude": 35.654908,
 			"longitude": 139.79621,
@@ -3145,7 +6033,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 394,
+			"id": 755,
 			"name": "有楽町",
 			"latitude": 35.675069,
 			"longitude": 139.763328,
@@ -3153,7 +6041,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 395,
+			"id": 756,
 			"name": "根津",
 			"latitude": 35.717373,
 			"longitude": 139.765741,
@@ -3161,7 +6049,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 396,
+			"id": 757,
 			"name": "新宿西口",
 			"latitude": 35.693315,
 			"longitude": 139.699155,
@@ -3169,7 +6057,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 397,
+			"id": 758,
 			"name": "森下",
 			"latitude": 35.6880078574585,
 			"longitude": 139.79817285086,
@@ -3177,7 +6065,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 398,
+			"id": 759,
 			"name": "清澄白河",
 			"latitude": 35.682105,
 			"longitude": 139.798851,
@@ -3185,7 +6073,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 399,
+			"id": 760,
 			"name": "西太子堂",
 			"latitude": 35.64466,
 			"longitude": 139.6662,
@@ -3193,7 +6081,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 400,
+			"id": 761,
 			"name": "代々木八幡",
 			"latitude": 35.669484,
 			"longitude": 139.688635,
@@ -3201,7 +6089,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 401,
+			"id": 762,
 			"name": "中目黒",
 			"latitude": 35.644307,
 			"longitude": 139.699157,
@@ -3209,7 +6097,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 402,
+			"id": 763,
 			"name": "東新宿",
 			"latitude": 35.69792,
 			"longitude": 139.707549,
@@ -3217,7 +6105,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 403,
+			"id": 764,
 			"name": "宝町",
 			"latitude": 35.675461,
 			"longitude": 139.771767,
@@ -3225,7 +6113,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 404,
+			"id": 765,
 			"name": "大久保",
 			"latitude": 35.70072,
 			"longitude": 139.6974,
@@ -3233,7 +6121,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 405,
+			"id": 766,
 			"name": "稲荷町",
 			"latitude": 35.711352,
 			"longitude": 139.782734,
@@ -3241,7 +6129,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 406,
+			"id": 767,
 			"name": "月島",
 			"latitude": 35.6638199832237,
 			"longitude": 139.783909963443,
@@ -3249,7 +6137,7 @@
 			"color": "#7cfc00"
 		},
 		{
-			"id": 407,
+			"id": 768,
 			"name": "牛込柳町",
 			"latitude": 35.699518,
 			"longitude": 139.725027,
@@ -3257,7 +6145,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 408,
+			"id": 769,
 			"name": "御茶ノ水",
 			"latitude": 35.69986,
 			"longitude": 139.7638,
@@ -3265,7 +6153,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 409,
+			"id": 770,
 			"name": "勝どき",
 			"latitude": 35.6589560224249,
 			"longitude": 139.777108824346,
@@ -3273,7 +6161,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 410,
+			"id": 771,
 			"name": "蔵前",
 			"latitude": 35.7054625570622,
 			"longitude": 139.79250910459,
@@ -3281,7 +6169,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 411,
+			"id": 772,
 			"name": "池ノ上",
 			"latitude": 35.660452,
 			"longitude": 139.673117,
@@ -3289,7 +6177,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 412,
+			"id": 773,
 			"name": "築地",
 			"latitude": 35.668115,
 			"longitude": 139.772603,
@@ -3297,7 +6185,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 413,
+			"id": 774,
 			"name": "湯島",
 			"latitude": 35.708243,
 			"longitude": 139.769916,
@@ -3305,7 +6193,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 414,
+			"id": 775,
 			"name": "神田",
 			"latitude": 35.69169,
 			"longitude": 139.770883,
@@ -3313,7 +6201,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 415,
+			"id": 776,
 			"name": "都立大学",
 			"latitude": 35.61784,
 			"longitude": 139.6764,
@@ -3321,7 +6209,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 416,
+			"id": 777,
 			"name": "品川",
 			"latitude": 35.63015,
 			"longitude": 139.7404,
@@ -3329,7 +6217,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 417,
+			"id": 778,
 			"name": "都庁前",
 			"latitude": 35.6905756760696,
 			"longitude": 139.69266111846,
@@ -3337,7 +6225,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 418,
+			"id": 779,
 			"name": "菊川",
 			"latitude": 35.688379,
 			"longitude": 139.806016,
@@ -3345,7 +6233,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 419,
+			"id": 780,
 			"name": "京橋",
 			"latitude": 35.67685,
 			"longitude": 139.7701,
@@ -3353,7 +6241,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 420,
+			"id": 781,
 			"name": "小伝馬町",
 			"latitude": 35.690737,
 			"longitude": 139.778433,
@@ -3361,7 +6249,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 421,
+			"id": 782,
 			"name": "水天宮前",
 			"latitude": 35.682061,
 			"longitude": 139.786035,
@@ -3369,7 +6257,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 422,
+			"id": 783,
 			"name": "高輪ゲートウェイ",
 			"latitude": 35.6355,
 			"longitude": 139.7407,
@@ -3377,7 +6265,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 423,
+			"id": 784,
 			"name": "人形町",
 			"latitude": 35.686307,
 			"longitude": 139.782285,
@@ -3385,7 +6273,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 424,
+			"id": 785,
 			"name": "水道橋",
 			"latitude": 35.70203,
 			"longitude": 139.753653,
@@ -3393,7 +6281,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 425,
+			"id": 786,
 			"name": "東日本橋",
 			"latitude": 35.692126,
 			"longitude": 139.784821,
@@ -3401,7 +6289,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 426,
+			"id": 787,
 			"name": "五反田",
 			"latitude": 35.62645,
 			"longitude": 139.7234,
@@ -3409,7 +6297,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 427,
+			"id": 788,
 			"name": "新御徒町",
 			"latitude": 35.707055,
 			"longitude": 139.78194,
@@ -3417,7 +6305,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 428,
+			"id": 789,
 			"name": "上野",
 			"latitude": 35.713768,
 			"longitude": 139.777254,
@@ -3425,7 +6313,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 429,
+			"id": 790,
 			"name": "浅草橋",
 			"latitude": 35.697452386729,
 			"longitude": 139.786369695793,
@@ -3433,7 +6321,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 430,
+			"id": 791,
 			"name": "北参道",
 			"latitude": 35.678156,
 			"longitude": 139.705678,
@@ -3441,7 +6329,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 431,
+			"id": 792,
 			"name": "銀座一丁目",
 			"latitude": 35.67435,
 			"longitude": 139.767045,
@@ -3449,7 +6337,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 432,
+			"id": 793,
 			"name": "新富町",
 			"latitude": 35.670462,
 			"longitude": 139.773711,
@@ -3457,7 +6345,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 433,
+			"id": 794,
 			"name": "神楽坂",
 			"latitude": 35.703904,
 			"longitude": 139.734238,
@@ -3465,7 +6353,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 434,
+			"id": 795,
 			"name": "泉岳寺",
 			"latitude": 35.638692,
 			"longitude": 139.74002,
@@ -3473,7 +6361,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 435,
+			"id": 796,
 			"name": "池尻大橋",
 			"latitude": 35.650603,
 			"longitude": 139.684319,
@@ -3481,7 +6369,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 436,
+			"id": 797,
 			"name": "田町",
 			"latitude": 35.64574,
 			"longitude": 139.7476,
@@ -3489,7 +6377,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 437,
+			"id": 798,
 			"name": "三田",
 			"latitude": 35.64818,
 			"longitude": 139.748775,
@@ -3497,7 +6385,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 438,
+			"id": 799,
 			"name": "秋葉原",
 			"latitude": 35.698683,
 			"longitude": 139.774219,
@@ -3505,7 +6393,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 439,
+			"id": 800,
 			"name": "築地市場",
 			"latitude": 35.664895,
 			"longitude": 139.766915,
@@ -3513,7 +6401,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 440,
+			"id": 801,
 			"name": "末広町",
 			"latitude": 35.702972,
 			"longitude": 139.771713,
@@ -3521,7 +6409,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 441,
+			"id": 802,
 			"name": "目黒",
 			"latitude": 35.633998,
 			"longitude": 139.715828,
@@ -3529,7 +6417,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 442,
+			"id": 803,
 			"name": "牛込神楽坂",
 			"latitude": 35.700851,
 			"longitude": 139.735802,
@@ -3537,7 +6425,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 443,
+			"id": 804,
 			"name": "九段下",
 			"latitude": 35.69543188,
 			"longitude": 139.7511257,
@@ -3545,7 +6433,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 444,
+			"id": 805,
 			"name": "東銀座",
 			"latitude": 35.669464,
 			"longitude": 139.767253,
@@ -3553,7 +6441,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 445,
+			"id": 806,
 			"name": "駒場東大前",
 			"latitude": 35.658655,
 			"longitude": 139.684483,
@@ -3561,7 +6449,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 446,
+			"id": 807,
 			"name": "銀座",
 			"latitude": 35.671989,
 			"longitude": 139.763965,
@@ -3569,7 +6457,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 447,
+			"id": 808,
 			"name": "御徒町",
 			"latitude": 35.70796,
 			"longitude": 139.7734,
@@ -3577,7 +6465,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 448,
+			"id": 809,
 			"name": "新宿",
 			"latitude": 35.6884464421313,
 			"longitude": 139.698601593263,
@@ -3585,7 +6473,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 449,
+			"id": 810,
 			"name": "新宿御苑前",
 			"latitude": 35.688588,
 			"longitude": 139.71069,
@@ -3593,7 +6481,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 450,
+			"id": 811,
 			"name": "新宿三丁目",
 			"latitude": 35.690616,
 			"longitude": 139.706271,
@@ -3601,7 +6489,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 451,
+			"id": 812,
 			"name": "内幸町",
 			"latitude": 35.66975,
 			"longitude": 139.75561,
@@ -3609,7 +6497,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 452,
+			"id": 813,
 			"name": "飯田橋",
 			"latitude": 35.702065,
 			"longitude": 139.745015,
@@ -3617,7 +6505,7 @@
 			"color": "#f0e68c"
 		},
 		{
-			"id": 453,
+			"id": 814,
 			"name": "虎ノ門",
 			"latitude": 35.670236,
 			"longitude": 139.749832,
@@ -3625,7 +6513,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 454,
+			"id": 815,
 			"name": "四谷三丁目",
 			"latitude": 35.687958,
 			"longitude": 139.720103,
@@ -3633,7 +6521,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 455,
+			"id": 816,
 			"name": "西新宿",
 			"latitude": 35.694298,
 			"longitude": 139.692778,
@@ -3641,7 +6529,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 456,
+			"id": 817,
 			"name": "仲御徒町",
 			"latitude": 35.706555,
 			"longitude": 139.776202,
@@ -3649,7 +6537,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 457,
+			"id": 818,
 			"name": "四ツ谷",
 			"latitude": 35.68601,
 			"longitude": 139.7307,
@@ -3657,7 +6545,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 458,
+			"id": 819,
 			"name": "上野御徒町",
 			"latitude": 35.7079636219993,
 			"longitude": 139.77336630458,
@@ -3665,7 +6553,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 459,
+			"id": 820,
 			"name": "代官山",
 			"latitude": 35.6481,
 			"longitude": 139.7032,
@@ -3673,7 +6561,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 460,
+			"id": 821,
 			"name": "代々木",
 			"latitude": 35.6830438382709,
 			"longitude": 139.70207164355,
@@ -3681,7 +6569,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 461,
+			"id": 822,
 			"name": "南新宿",
 			"latitude": 35.683469,
 			"longitude": 139.698517,
@@ -3689,7 +6577,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 462,
+			"id": 823,
 			"name": "恵比寿",
 			"latitude": 35.64669,
 			"longitude": 139.710106,
@@ -3697,7 +6585,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 463,
+			"id": 824,
 			"name": "新御茶ノ水",
 			"latitude": 35.698072,
 			"longitude": 139.766014,
@@ -3705,7 +6593,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 464,
+			"id": 825,
 			"name": "神保町",
 			"latitude": 35.69591611,
 			"longitude": 139.7574395,
@@ -3713,7 +6601,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 465,
+			"id": 826,
 			"name": "馬喰横山",
 			"latitude": 35.6919602404342,
 			"longitude": 139.782943215686,
@@ -3721,7 +6609,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 466,
+			"id": 827,
 			"name": "浜町",
 			"latitude": 35.6884108373731,
 			"longitude": 139.787933654151,
@@ -3729,7 +6617,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 467,
+			"id": 828,
 			"name": "曙橋",
 			"latitude": 35.6923758,
 			"longitude": 139.7226303,
@@ -3737,7 +6625,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 468,
+			"id": 829,
 			"name": "新橋",
 			"latitude": 35.665498,
 			"longitude": 139.75964,
@@ -3745,7 +6633,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 469,
+			"id": 830,
 			"name": "原宿",
 			"latitude": 35.67017,
 			"longitude": 139.7027,
@@ -3753,7 +6641,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 470,
+			"id": 831,
 			"name": "御成門",
 			"latitude": 35.6604750470776,
 			"longitude": 139.751202268526,
@@ -3761,7 +6649,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 471,
+			"id": 832,
 			"name": "広尾",
 			"latitude": 35.652279,
 			"longitude": 139.722227,
@@ -3769,7 +6657,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 472,
+			"id": 833,
 			"name": "汐留",
 			"latitude": 35.6628872948688,
 			"longitude": 139.760140478611,
@@ -3777,7 +6665,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 473,
+			"id": 834,
 			"name": "芝公園",
 			"latitude": 35.654071,
 			"longitude": 139.749838,
@@ -3785,7 +6673,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 474,
+			"id": 835,
 			"name": "渋谷",
 			"latitude": 35.6586161,
 			"longitude": 139.6993714,
@@ -3793,7 +6681,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 475,
+			"id": 836,
 			"name": "赤羽橋",
 			"latitude": 35.655007,
 			"longitude": 139.743642,
@@ -3801,7 +6689,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 476,
+			"id": 837,
 			"name": "白金高輪",
 			"latitude": 35.642903,
 			"longitude": 139.734104,
@@ -3809,7 +6697,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 477,
+			"id": 838,
 			"name": "表参道",
 			"latitude": 35.665247,
 			"longitude": 139.712314,
@@ -3817,7 +6705,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 478,
+			"id": 839,
 			"name": "高輪台",
 			"latitude": 35.631679,
 			"longitude": 139.730305,
@@ -3825,7 +6713,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 479,
+			"id": 840,
 			"name": "神泉",
 			"latitude": 35.657241,
 			"longitude": 139.693641,
@@ -3833,7 +6721,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 480,
+			"id": 841,
 			"name": "大門",
 			"latitude": 35.6568905486127,
 			"longitude": 139.754699408076,
@@ -3841,7 +6729,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 481,
+			"id": 842,
 			"name": "浜松町",
 			"latitude": 35.65565,
 			"longitude": 139.7567,
@@ -3849,7 +6737,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 482,
+			"id": 843,
 			"name": "岩本町",
 			"latitude": 35.6955703928471,
 			"longitude": 139.775131931528,
@@ -3857,7 +6745,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 483,
+			"id": 844,
 			"name": "竹橋",
 			"latitude": 35.690662,
 			"longitude": 139.756817,
@@ -3865,7 +6753,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 484,
+			"id": 845,
 			"name": "白金台",
 			"latitude": 35.637917,
 			"longitude": 139.726133,
@@ -3873,7 +6761,7 @@
 			"color": "#bdb76b"
 		},
 		{
-			"id": 485,
+			"id": 846,
 			"name": "東京",
 			"latitude": 35.681382,
 			"longitude": 139.766084,
@@ -3881,7 +6769,7 @@
 			"color": "#ffff00"
 		},
 		{
-			"id": 486,
+			"id": 847,
 			"name": "半蔵門",
 			"latitude": 35.685703,
 			"longitude": 139.741644,
@@ -3889,7 +6777,7 @@
 			"color": "#ffff00"
 		},
 		{
-			"id": 487,
+			"id": 848,
 			"name": "麹町",
 			"latitude": 35.684006,
 			"longitude": 139.737613,
@@ -3897,7 +6785,7 @@
 			"color": "#ffff00"
 		},
 		{
-			"id": 488,
+			"id": 849,
 			"name": "信濃町",
 			"latitude": 35.68009,
 			"longitude": 139.7202,
@@ -3905,7 +6793,7 @@
 			"color": "#ffff00"
 		},
 		{
-			"id": 489,
+			"id": 850,
 			"name": "乃木坂",
 			"latitude": 35.666572,
 			"longitude": 139.726215,
@@ -3913,7 +6801,7 @@
 			"color": "#ffff00"
 		},
 		{
-			"id": 490,
+			"id": 851,
 			"name": "麻布十番",
 			"latitude": 35.6563901467552,
 			"longitude": 139.73650493659,
@@ -3921,7 +6809,7 @@
 			"color": "#ffff00"
 		},
 		{
-			"id": 491,
+			"id": 852,
 			"name": "淡路町",
 			"latitude": 35.6951394459061,
 			"longitude": 139.766835335176,
@@ -3929,7 +6817,7 @@
 			"color": "#ffff00"
 		},
 		{
-			"id": 492,
+			"id": 853,
 			"name": "明治神宮前",
 			"latitude": 35.669071,
 			"longitude": 139.703995,
@@ -3937,7 +6825,7 @@
 			"color": "#ffff00"
 		},
 		{
-			"id": 493,
+			"id": 854,
 			"name": "神谷町",
 			"latitude": 35.662978,
 			"longitude": 139.745069,
@@ -3945,7 +6833,7 @@
 			"color": "#ffff00"
 		},
 		{
-			"id": 494,
+			"id": 855,
 			"name": "六本木",
 			"latitude": 35.6639901963109,
 			"longitude": 139.731414795387,
@@ -3953,7 +6841,7 @@
 			"color": "#ffff00"
 		},
 		{
-			"id": 495,
+			"id": 856,
 			"name": "西武新宿",
 			"latitude": 35.696254,
 			"longitude": 139.7,
@@ -3961,7 +6849,7 @@
 			"color": "#ffff00"
 		},
 		{
-			"id": 496,
+			"id": 857,
 			"name": "千駄ケ谷",
 			"latitude": 35.68123,
 			"longitude": 139.7116,
@@ -3969,7 +6857,7 @@
 			"color": "#ffff00"
 		},
 		{
-			"id": 497,
+			"id": 858,
 			"name": "大手町",
 			"latitude": 35.684801,
 			"longitude": 139.766086,
@@ -3977,7 +6865,7 @@
 			"color": "#ffff00"
 		},
 		{
-			"id": 498,
+			"id": 859,
 			"name": "永田町",
 			"latitude": 35.678757,
 			"longitude": 139.740258,
@@ -3985,7 +6873,7 @@
 			"color": "#ffff00"
 		},
 		{
-			"id": 499,
+			"id": 860,
 			"name": "国立競技場",
 			"latitude": 35.6801622315799,
 			"longitude": 139.713748970534,
@@ -3993,7 +6881,7 @@
 			"color": "#ffff00"
 		},
 		{
-			"id": 500,
+			"id": 861,
 			"name": "青山一丁目",
 			"latitude": 35.67276462,
 			"longitude": 139.7239043,
@@ -4001,7 +6889,7 @@
 			"color": "#ffff00"
 		},
 		{
-			"id": 501,
+			"id": 862,
 			"name": "虎ノ門ヒルズ",
 			"latitude": 35.667444,
 			"longitude": 139.747778,
@@ -4009,7 +6897,7 @@
 			"color": "#ff8c00"
 		},
 		{
-			"id": 502,
+			"id": 863,
 			"name": "赤坂見附",
 			"latitude": 35.677021,
 			"longitude": 139.737047,
@@ -4017,7 +6905,7 @@
 			"color": "#ff8c00"
 		},
 		{
-			"id": 503,
+			"id": 864,
 			"name": "外苑前",
 			"latitude": 35.670527,
 			"longitude": 139.717857,
@@ -4025,7 +6913,7 @@
 			"color": "#ff8c00"
 		},
 		{
-			"id": 504,
+			"id": 865,
 			"name": "溜池山王",
 			"latitude": 35.673621,
 			"longitude": 139.741419,
@@ -4033,7 +6921,7 @@
 			"color": "#ff8c00"
 		},
 		{
-			"id": 505,
+			"id": 866,
 			"name": "六本木一丁目",
 			"latitude": 35.665595,
 			"longitude": 139.739,
@@ -4041,7 +6929,7 @@
 			"color": "#ff8c00"
 		},
 		{
-			"id": 506,
+			"id": 867,
 			"name": "赤坂",
 			"latitude": 35.672371,
 			"longitude": 139.736539,
@@ -4049,7 +6937,7 @@
 			"color": "#ff4500"
 		},
 		{
-			"id": 507,
+			"id": 868,
 			"name": "小川町",
 			"latitude": 35.6951394459061,
 			"longitude": 139.766835335176,
@@ -4057,7 +6945,7 @@
 			"color": "#ff4500"
 		},
 		{
-			"id": 508,
+			"id": 869,
 			"name": "国会議事堂前",
 			"latitude": 35.67393,
 			"longitude": 139.745219,
@@ -4065,7 +6953,7 @@
 			"color": "#ff4500"
 		},
 		{
-			"id": 509,
+			"id": 870,
 			"name": "市ヶ谷",
 			"latitude": 35.6912107320703,
 			"longitude": 139.73649022635,
