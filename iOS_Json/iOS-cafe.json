@@ -6,7 +6,7 @@
 			"latitude": 35.6207850319793,
 			"longitude": 139.569301432929,
 			"rent": 1,
-			"color": "#25b7c0"
+			"color": "#40e0d0"
 		},
 		{
 			"id": 2,
@@ -14,7 +14,7 @@
 			"latitude": 35.70482,
 			"longitude": 139.6359,
 			"rent": 2,
-			"color": "#25b7c0"
+			"color": "#40e0d0"
 		},
 		{
 			"id": 3,
@@ -22,7 +22,7 @@
 			"latitude": 35.65079,
 			"longitude": 139.446933,
 			"rent": 3,
-			"color": "#25b7c0"
+			"color": "#40e0d0"
 		},
 		{
 			"id": 4,
@@ -30,7 +30,7 @@
 			"latitude": 35.6674481,
 			"longitude": 139.6318829,
 			"rent": 4,
-			"color": "#25b7c0"
+			"color": "#40e0d0"
 		},
 		{
 			"id": 5,
@@ -38,7 +38,7 @@
 			"latitude": 35.6560169,
 			"longitude": 139.6536376,
 			"rent": 5,
-			"color": "#25b7c0"
+			"color": "#40e0d0"
 		},
 		{
 			"id": 6,
@@ -46,7 +46,7 @@
 			"latitude": 35.70463,
 			"longitude": 139.62,
 			"rent": 6,
-			"color": "#25b7c0"
+			"color": "#40e0d0"
 		},
 		{
 			"id": 7,
@@ -54,7 +54,7 @@
 			"latitude": 35.6688276,
 			"longitude": 139.6233971,
 			"rent": 7,
-			"color": "#25b7c0"
+			"color": "#40e0d0"
 		},
 		{
 			"id": 8,
@@ -62,7 +62,7 @@
 			"latitude": 35.70539,
 			"longitude": 139.6499,
 			"rent": 8,
-			"color": "#25b7c0"
+			"color": "#40e0d0"
 		},
 		{
 			"id": 9,
@@ -70,7 +70,7 @@
 			"latitude": 35.6537321924523,
 			"longitude": 139.647326107369,
 			"rent": 9,
-			"color": "#25b7c0"
+			"color": "#40e0d0"
 		},
 		{
 			"id": 10,
@@ -78,7 +78,7 @@
 			"latitude": 35.6615464979642,
 			"longitude": 139.666900156298,
 			"rent": 10,
-			"color": "#25b7c0"
+			"color": "#40e0d0"
 		},
 		{
 			"id": 11,
