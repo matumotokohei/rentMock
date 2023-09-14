@@ -5,710 +5,781 @@
 			"name": "阿佐ケ谷",
 			"latitude": 35.70482,
 			"longitude": 139.6359,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 2,
 			"name": "綾瀬",
 			"latitude": 35.762214,
 			"longitude": 139.824914,
-			"hanamasa": 0,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 3,
 			"name": "王子",
 			"latitude": 35.752474,
 			"longitude": 139.738139,
-			"hanamasa": 0,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 4,
 			"name": "荻窪",
 			"latitude": 35.70463,
 			"longitude": 139.62,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 5,
 			"name": "下高井戸",
 			"latitude": 35.6661402,
 			"longitude": 139.6414073,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 6,
 			"name": "花小金井",
 			"latitude": 35.726129,
 			"longitude": 139.513228,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 7,
 			"name": "吉祥寺",
 			"latitude": 35.702112100252,
 			"longitude": 139.580452570226,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 8,
 			"name": "銀座",
 			"latitude": 35.671989,
 			"longitude": 139.763965,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 9,
 			"name": "駒沢大学",
 			"latitude": 35.633471,
 			"longitude": 139.661702,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 10,
 			"name": "経堂",
 			"latitude": 35.651316,
 			"longitude": 139.636437,
-			"hanamasa": 0,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 11,
 			"name": "広尾",
 			"latitude": 35.652279,
 			"longitude": 139.722227,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 12,
 			"name": "国立",
 			"latitude": 35.699,
 			"longitude": 139.4464,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 13,
 			"name": "笹塚",
 			"latitude": 35.673654,
 			"longitude": 139.667136,
-			"hanamasa": 0,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 14,
 			"name": "三ノ輪",
 			"latitude": 35.729528,
 			"longitude": 139.79133,
-			"hanamasa": 0,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 15,
 			"name": "三鷹",
 			"latitude": 35.70271,
 			"longitude": 139.5608,
-			"hanamasa": 0,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 16,
 			"name": "市ヶ谷",
 			"latitude": 35.6912107320703,
 			"longitude": 139.73649022635,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 17,
 			"name": "秋葉原",
 			"latitude": 35.698683,
 			"longitude": 139.774219,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 18,
 			"name": "住吉",
 			"latitude": 35.689071,
 			"longitude": 139.815651,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 19,
 			"name": "小岩",
 			"latitude": 35.73296,
 			"longitude": 139.8817,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 20,
 			"name": "小平",
 			"latitude": 35.737024,
 			"longitude": 139.488294,
-			"hanamasa": 0,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 21,
 			"name": "上井草",
 			"latitude": 35.72512,
 			"longitude": 139.603568,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 22,
 			"name": "上石神井",
 			"latitude": 35.726245,
 			"longitude": 139.59208,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 23,
 			"name": "上野広小路",
 			"latitude": 35.70766,
 			"longitude": 139.772977,
-			"hanamasa": 0,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 24,
 			"name": "新大久保",
 			"latitude": 35.70131,
 			"longitude": 139.7,
-			"hanamasa": 0,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 25,
 			"name": "神田",
 			"latitude": 35.69169,
 			"longitude": 139.770883,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 26,
 			"name": "西荻窪",
 			"latitude": 35.70384,
 			"longitude": 139.5994,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 27,
 			"name": "西八王子",
 			"latitude": 35.65678,
 			"longitude": 139.3125,
-			"hanamasa": 0,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 28,
 			"name": "赤羽",
 			"latitude": 35.778051,
 			"longitude": 139.720856,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 29,
 			"name": "赤坂",
 			"latitude": 35.672371,
 			"longitude": 139.736539,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 30,
 			"name": "仙川",
 			"latitude": 35.662307,
 			"longitude": 139.584897,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 31,
 			"name": "浅草橋",
 			"latitude": 35.697452386729,
 			"longitude": 139.786369695793,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 32,
 			"name": "大久保",
 			"latitude": 35.70072,
 			"longitude": 139.6974,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 33,
 			"name": "大宮",
 			"latitude": 35.906295,
 			"longitude": 139.623999,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 34,
 			"name": "大森",
 			"latitude": 35.588442,
 			"longitude": 139.727929,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 35,
 			"name": "中野",
 			"latitude": 35.706032,
 			"longitude": 139.665652,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 36,
 			"name": "町田",
 			"latitude": 35.541975372676,
 			"longitude": 139.445421095006,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 37,
 			"name": "調布",
 			"latitude": 35.651788,
 			"longitude": 139.5447823,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 38,
 			"name": "田端",
 			"latitude": 35.73806,
 			"longitude": 139.7609,
-			"hanamasa": 0,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 39,
 			"name": "田町",
 			"latitude": 35.64574,
 			"longitude": 139.7476,
-			"hanamasa": 0,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 40,
 			"name": "田無",
 			"latitude": 35.727366,
 			"longitude": 139.539253,
-			"hanamasa": 0,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 41,
 			"name": "東新宿",
 			"latitude": 35.69792,
 			"longitude": 139.707549,
-			"hanamasa": 0,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 42,
 			"name": "東池袋",
 			"latitude": 35.725362,
 			"longitude": 139.720435,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 43,
 			"name": "東中野",
 			"latitude": 35.7061216972349,
 			"longitude": 139.68379064463,
-			"hanamasa": 0,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 44,
 			"name": "東陽町",
 			"latitude": 35.669629,
 			"longitude": 139.817596,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 45,
 			"name": "湯島",
 			"latitude": 35.708243,
 			"longitude": 139.769916,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 46,
 			"name": "南阿佐ケ谷",
 			"latitude": 35.699624,
 			"longitude": 139.63576,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 47,
 			"name": "日本橋",
 			"latitude": 35.682413,
 			"longitude": 139.773919,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 48,
 			"name": "富士見ヶ丘",
 			"latitude": 35.6847865,
 			"longitude": 139.6072018,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 49,
 			"name": "武蔵境",
 			"latitude": 35.70216,
 			"longitude": 139.5447,
-			"hanamasa": 0,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 50,
 			"name": "武蔵小杉",
 			"latitude": 35.57657,
 			"longitude": 139.6594,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 51,
 			"name": "武蔵中原",
 			"latitude": 35.5806616208895,
 			"longitude": 139.642101069912,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 52,
 			"name": "方南町",
 			"latitude": 35.683496,
 			"longitude": 139.656498,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 53,
 			"name": "豊田",
 			"latitude": 35.6595,
 			"longitude": 139.3815,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 54,
 			"name": "北綾瀬",
 			"latitude": 35.7770135,
 			"longitude": 139.8321012,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 55,
 			"name": "要町",
 			"latitude": 35.73323,
 			"longitude": 139.698715,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 0,
-			"nil": 1
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "無し",
+			"number": 1,
+			"color": "#6495ed"
 		},
 		{
 			"id": 56,
 			"name": "蒲田",
 			"latitude": 35.562479,
 			"longitude": 139.716051,
-			"hanamasa": 1,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 2
+			"hanamasa": "あり",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 2,
+			"color": "#66cdaa"
 		},
 		{
 			"id": 57,
 			"name": "亀戸",
 			"latitude": 35.69759,
 			"longitude": 139.8261,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 2
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 2,
+			"color": "#66cdaa"
 		},
 		{
 			"id": 58,
 			"name": "錦糸町",
 			"latitude": 35.696437,
 			"longitude": 139.813949,
-			"hanamasa": 1,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 2
+			"hanamasa": "あり",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 2,
+			"color": "#66cdaa"
 		},
 		{
 			"id": 59,
 			"name": "高円寺",
 			"latitude": 35.70539,
 			"longitude": 139.6499,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 1,
-			"nil": 2
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "あり",
+			"number": 2,
+			"color": "#66cdaa"
 		},
 		{
 			"id": 60,
 			"name": "国分寺",
 			"latitude": 35.70026,
 			"longitude": 139.4803,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 1,
-			"nil": 2
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "あり",
+			"number": 2,
+			"color": "#66cdaa"
 		},
 		{
 			"id": 61,
 			"name": "三軒茶屋",
 			"latitude": 35.643515,
 			"longitude": 139.671162,
-			"hanamasa": 1,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 2
+			"hanamasa": "あり",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 2,
+			"color": "#66cdaa"
 		},
 		{
 			"id": 62,
 			"name": "新小岩",
 			"latitude": 35.71679,
 			"longitude": 139.8583,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 1,
-			"nil": 2
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "あり",
+			"number": 2,
+			"color": "#66cdaa"
 		},
 		{
 			"id": 63,
 			"name": "川口",
 			"latitude": 35.801922,
 			"longitude": 139.717583,
-			"hanamasa": 1,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 2
+			"hanamasa": "あり",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 2,
+			"color": "#66cdaa"
 		},
 		{
 			"id": 64,
 			"name": "浅草",
 			"latitude": 35.712074,
 			"longitude": 139.79843,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 1,
-			"nil": 2
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "あり",
+			"number": 2,
+			"color": "#66cdaa"
 		},
 		{
 			"id": 65,
 			"name": "巣鴨",
 			"latitude": 35.733492,
 			"longitude": 139.739345,
-			"hanamasa": 1,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 2
+			"hanamasa": "あり",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 2,
+			"color": "#66cdaa"
 		},
 		{
 			"id": 66,
 			"name": "大井町",
 			"latitude": 35.606249,
 			"longitude": 139.734855,
-			"hanamasa": 1,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 2
+			"hanamasa": "あり",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 2,
+			"color": "#66cdaa"
 		},
 		{
 			"id": 67,
 			"name": "池袋",
 			"latitude": 35.72893,
 			"longitude": 139.7104,
-			"hanamasa": 1,
-			"seiyu": 1,
-			"gyoumu": 0,
-			"nil": 2
+			"hanamasa": "あり",
+			"seiyu": "あり",
+			"gyoumu": "無し",
+			"number": 2,
+			"color": "#66cdaa"
 		},
 		{
 			"id": 68,
 			"name": "八王子",
 			"latitude": 35.65564,
 			"longitude": 139.339,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 2
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 2,
+			"color": "#66cdaa"
 		},
 		{
 			"id": 69,
 			"name": "立川",
 			"latitude": 35.6979,
 			"longitude": 139.414,
-			"hanamasa": 1,
-			"seiyu": 0,
-			"gyoumu": 1,
-			"nil": 2
+			"hanamasa": "あり",
+			"seiyu": "無し",
+			"gyoumu": "あり",
+			"number": 2,
+			"color": "#66cdaa"
 		},
 		{
 			"id": 70,
 			"name": "練馬",
 			"latitude": 35.73782,
 			"longitude": 139.653566,
-			"hanamasa": 0,
-			"seiyu": 1,
-			"gyoumu": 1,
-			"nil": 2
+			"hanamasa": "無し",
+			"seiyu": "あり",
+			"gyoumu": "あり",
+			"number": 2,
+			"color": "#66cdaa"
 		},
 		{
 			"id": 71,
 			"name": "葛西",
 			"latitude": 35.663523,
 			"longitude": 139.872694,
-			"hanamasa": 1,
-			"seiyu": 1,
-			"gyoumu": 1,
-			"nil": 3
+			"hanamasa": "あり",
+			"seiyu": "あり",
+			"gyoumu": "あり",
+			"number": 3,
+			"color": "#ff4500"
 		}
 	]
 }
