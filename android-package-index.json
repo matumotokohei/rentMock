@@ -1,0 +1,2138 @@
+﻿[
+	{
+		"no": 244,
+		"pacage": "javax.xml",
+		"explanation": "XML操作に使用",
+		"type": "XML",
+		"URL": "https://developer.android.com/reference/javax/xml/package-summary",
+		"icon": "https://img.freepik.com/premium-vector/modern-flat-design-of-xml-file-icon-for-web-simple-style_599062-556.jpg?w=2000"
+	},
+	{
+		"no": 245,
+		"pacage": "javax.xml.datatype",
+		"explanation": "XMLデータ型操作に使用",
+		"type": "XML",
+		"URL": "https://developer.android.com/reference/javax/xml/datatype/package-summary",
+		"icon": "https://img.freepik.com/premium-vector/modern-flat-design-of-xml-file-icon-for-web-simple-style_599062-556.jpg?w=2000"
+	},
+	{
+		"no": 246,
+		"pacage": "javax.xml.namespace",
+		"explanation": "XML名前空間操作に使用",
+		"type": "XML",
+		"URL": "https://developer.android.com/reference/javax/xml/namespace/package-summary",
+		"icon": "https://img.freepik.com/premium-vector/modern-flat-design-of-xml-file-icon-for-web-simple-style_599062-556.jpg?w=2000"
+	},
+	{
+		"no": 247,
+		"pacage": "javax.xml.parsers",
+		"explanation": "XMLパーサー操作に使用",
+		"type": "XML",
+		"URL": "https://developer.android.com/reference/javax/xml/parsers/package-summary",
+		"icon": "https://img.freepik.com/premium-vector/modern-flat-design-of-xml-file-icon-for-web-simple-style_599062-556.jpg?w=2000"
+	},
+	{
+		"no": 248,
+		"pacage": "javax.xml.transform",
+		"explanation": "XML変換操作に使用",
+		"type": "XML",
+		"URL": "https://developer.android.com/reference/javax/xml/transform/package-summary",
+		"icon": "https://img.freepik.com/premium-vector/modern-flat-design-of-xml-file-icon-for-web-simple-style_599062-556.jpg?w=2000"
+	},
+	{
+		"no": 249,
+		"pacage": "javax.xml.transform.dom",
+		"explanation": "DOM (Document Object Model) 操作に使用",
+		"type": "XML",
+		"URL": "https://developer.android.com/reference/javax/xml/transform/dom/package-summary",
+		"icon": "https://img.freepik.com/premium-vector/modern-flat-design-of-xml-file-icon-for-web-simple-style_599062-556.jpg?w=2000"
+	},
+	{
+		"no": 250,
+		"pacage": "javax.xml.transform.sax",
+		"explanation": "SAX (Simple API for XML) 操作に使用",
+		"type": "XML",
+		"URL": "https://developer.android.com/reference/javax/xml/transform/sax/package-summary",
+		"icon": "https://img.freepik.com/premium-vector/modern-flat-design-of-xml-file-icon-for-web-simple-style_599062-556.jpg?w=2000"
+	},
+	{
+		"no": 251,
+		"pacage": "javax.xml.transform.stream",
+		"explanation": "XMLストリーム変換に使用",
+		"type": "XML",
+		"URL": "https://developer.android.com/reference/javax/xml/transform/stream/package-summary",
+		"icon": "https://img.freepik.com/premium-vector/modern-flat-design-of-xml-file-icon-for-web-simple-style_599062-556.jpg?w=2000"
+	},
+	{
+		"no": 252,
+		"pacage": "javax.xml.validation",
+		"explanation": "XMLバリデーションに使用",
+		"type": "XML",
+		"URL": "https://developer.android.com/reference/javax/xml/validation/package-summary",
+		"icon": "https://img.freepik.com/premium-vector/modern-flat-design-of-xml-file-icon-for-web-simple-style_599062-556.jpg?w=2000"
+	},
+	{
+		"no": 253,
+		"pacage": "javax.xml.xpath",
+		"explanation": "XMLパス操作に使用",
+		"type": "XML",
+		"URL": "https://developer.android.com/reference/javax/xml/xpath/package-summary",
+		"icon": "https://img.freepik.com/premium-vector/modern-flat-design-of-xml-file-icon-for-web-simple-style_599062-556.jpg?w=2000"
+	},
+	{
+		"no": 261,
+		"pacage": "org.w3c.dom",
+		"explanation": "Document Object Model (DOM) 操作に使用",
+		"type": "XML",
+		"URL": "https://developer.android.com/reference/org/w3c/dom/package-summary",
+		"icon": "https://img.freepik.com/premium-vector/modern-flat-design-of-xml-file-icon-for-web-simple-style_599062-556.jpg?w=2000"
+	},
+	{
+		"no": 262,
+		"pacage": "org.w3c.dom.ls",
+		"explanation": "DOM Level 3 Load and Save 操作に使用",
+		"type": "XML",
+		"URL": "https://developer.android.com/reference/org/w3c/dom/ls/package-summary",
+		"icon": "https://img.freepik.com/premium-vector/modern-flat-design-of-xml-file-icon-for-web-simple-style_599062-556.jpg?w=2000"
+	},
+	{
+		"no": 263,
+		"pacage": "org.xml.sax",
+		"explanation": "SAX (Simple API for XML) 操作に使用",
+		"type": "XML",
+		"URL": "https://developer.android.com/reference/org/xml/sax/package-summary",
+		"icon": "https://img.freepik.com/premium-vector/modern-flat-design-of-xml-file-icon-for-web-simple-style_599062-556.jpg?w=2000"
+	},
+	{
+		"no": 264,
+		"pacage": "org.xml.sax.ext",
+		"explanation": "SAX拡張操作に使用",
+		"type": "XML",
+		"URL": "https://developer.android.com/reference/org/xml/sax/ext/package-summary",
+		"icon": "https://img.freepik.com/premium-vector/modern-flat-design-of-xml-file-icon-for-web-simple-style_599062-556.jpg?w=2000"
+	},
+	{
+		"no": 265,
+		"pacage": "org.xml.sax.helpers",
+		"explanation": "SAXヘルパー操作に使用",
+		"type": "XML",
+		"URL": "https://developer.android.com/reference/org/xml/sax/helpers/package-summary",
+		"icon": "https://img.freepik.com/premium-vector/modern-flat-design-of-xml-file-icon-for-web-simple-style_599062-556.jpg?w=2000"
+	},
+	{
+		"no": 266,
+		"pacage": "org.xmlpull.v1",
+		"explanation": "XMLプルパーサー操作に使用",
+		"type": "XML",
+		"URL": "https://developer.android.com/reference/org/xmlpull/v1/package-summary",
+		"icon": "https://img.freepik.com/premium-vector/modern-flat-design-of-xml-file-icon-for-web-simple-style_599062-556.jpg?w=2000"
+	},
+	{
+		"no": 267,
+		"pacage": "org.xmlpull.v1.sax2",
+		"explanation": "XMLプルパーサーSAX2拡張操作に使用",
+		"type": "XML",
+		"URL": "https://developer.android.com/reference/org/xmlpull/v1/sax2/package-summary",
+		"icon": "https://img.freepik.com/premium-vector/modern-flat-design-of-xml-file-icon-for-web-simple-style_599062-556.jpg?w=2000"
+	},
+	{
+		"no": 120,
+		"pacage": "android.sax",
+		"explanation": "SAX (Simple API for XML) 解析に使用",
+		"type": "XML 処理",
+		"URL": "https://developer.android.com/reference/android/sax/package-summary",
+		"icon": "https://img.freepik.com/premium-vector/modern-flat-design-of-xml-file-icon-for-web-simple-style_599062-556.jpg?w=2000"
+	},
+	{
+		"no": 2,
+		"pacage": "android.accessibilityservice",
+		"explanation": "アクセシビリティ サービスに使用",
+		"type": "アクセシビリティ",
+		"URL": "https://developer.android.com/reference/android/accessibilityservice/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 184,
+		"pacage": "dalvik.annotation",
+		"explanation": "アノテーションの操作に使用",
+		"type": "アノテーション",
+		"URL": "https://developer.android.com/reference/dalvik/annotation/package-summary",
+		"icon": "https://static-00.iconduck.com/assets.00/annotation-icon-2048x2048-a0b8u2f3.png"
+	},
+	{
+		"no": 185,
+		"pacage": "dalvik.annotation.optimization",
+		"explanation": "アノテーション最適化に使用",
+		"type": "アノテーション",
+		"URL": "https://developer.android.com/reference/dalvik/annotation/optimization/package-summary",
+		"icon": "https://static-00.iconduck.com/assets.00/annotation-icon-2048x2048-a0b8u2f3.png"
+	},
+	{
+		"no": 192,
+		"pacage": "java.lang.annotation",
+		"explanation": "アノテーション操作に使用",
+		"type": "アノテーション",
+		"URL": "https://developer.android.com/reference/java/lang/annotation/package-summary",
+		"icon": "https://static-00.iconduck.com/assets.00/annotation-icon-2048x2048-a0b8u2f3.png"
+	},
+	{
+		"no": 230,
+		"pacage": "javax.annotation.processing",
+		"explanation": "アノテーション処理に使用",
+		"type": "アノテーション",
+		"URL": "https://developer.android.com/reference/javax/annotation/processing/package-summary",
+		"icon": "https://static-00.iconduck.com/assets.00/annotation-icon-2048x2048-a0b8u2f3.png"
+	},
+	{
+		"no": 15,
+		"pacage": "android.app",
+		"explanation": "Android アプリケーションの基本機能に使用",
+		"type": "アプリケーション",
+		"URL": "https://developer.android.com/reference/android/app/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 38,
+		"pacage": "android.content.pm",
+		"explanation": "アプリケーションパッケージ管理に使用",
+		"type": "アプリケーション管理",
+		"URL": "https://developer.android.com/reference/android/content/pm/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 183,
+		"pacage": "android.window",
+		"explanation": "ウィンドウ操作に使用",
+		"type": "ウィンドウ",
+		"URL": "https://developer.android.com/reference/android/window/package-summary",
+		"icon": "https://www.google.com/search?sca_esv=566856875&rlz=1C1TKQJ_jaJP1002JP1002&sxsrf=AM9HkKm773MID5vLWgDNEAhAYt-Enzfkkw:1695196723734&q=android.window&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiLlqv027iBAxVfsVYBHa54AGoQ0pQJegQIChAB&biw=739&bih=913&dpr=1#imgrc=jkPBiUzKxRPHEM"
+	},
+	{
+		"no": 180,
+		"pacage": "android.webkit",
+		"explanation": "WebViewとWebコンテンツの操作に使用",
+		"type": "ウェブコンテンツ",
+		"URL": "https://developer.android.com/reference/android/webkit/package-summary",
+		"icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/2048px-Google_Chrome_icon_%28February_2022%29.svg.png"
+	},
+	{
+		"no": 77,
+		"pacage": "android.media.audiofx",
+		"explanation": "オーディオエフェクトの操作に使用",
+		"type": "オーディオ",
+		"URL": "https://developer.android.com/reference/android/media/audiofx/package-summary",
+		"icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Speaker_Icon.svg/1200px-Speaker_Icon.svg.png"
+	},
+	{
+		"no": 109,
+		"pacage": "android.os",
+		"explanation": "Android オペレーティングシステムに使用",
+		"type": "オペレーティングシステム",
+		"URL": "https://developer.android.com/reference/android/os/package-summary",
+		"icon": "https://static-00.iconduck.com/assets.00/android-os-icon-454x512-2fnh6dm3.png"
+	},
+	{
+		"no": 110,
+		"pacage": "android.os.ext",
+		"explanation": "Android オペレーティングシステム拡張に使用",
+		"type": "オペレーティングシステム",
+		"URL": "https://developer.android.com/reference/android/os/ext/package-summary",
+		"icon": "https://static-00.iconduck.com/assets.00/android-os-icon-454x512-2fnh6dm3.png"
+	},
+	{
+		"no": 1,
+		"pacage": "android",
+		"explanation": "アンドロイドプラットフォーム全般に使用",
+		"type": "カーネル・プラットフォーム",
+		"URL": "https://developer.android.com/reference/android/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 56,
+		"pacage": "android.hardware.camera2",
+		"explanation": "カメラ制御に使用",
+		"type": "カメラ",
+		"URL": "https://developer.android.com/reference/android/hardware/camera2/package-summary",
+		"icon": "https://thumb.ac-illust.com/9a/9a94769f142941c9a5a305d8bdf2bc0b_t.jpeg"
+	},
+	{
+		"no": 57,
+		"pacage": "android.hardware.camera2.params",
+		"explanation": "カメラパラメータ操作に使用",
+		"type": "カメラ",
+		"URL": "https://developer.android.com/reference/android/hardware/camera2/params/package-summary",
+		"icon": "https://thumb.ac-illust.com/9a/9a94769f142941c9a5a305d8bdf2bc0b_t.jpeg"
+	},
+	{
+		"no": 13,
+		"pacage": "android.animation",
+		"explanation": "アニメーションに使用",
+		"type": "グラフィックス",
+		"URL": "https://developer.android.com/reference/android/animation/package-summary",
+		"icon": "https://cdn1.iconfinder.com/data/icons/seo-9/500/SEO3-49-512.png"
+	},
+	{
+		"no": 29,
+		"pacage": "android.app.slice",
+		"explanation": "スライス (Slice) 機能に使用",
+		"type": "グラフィックス",
+		"URL": "https://developer.android.com/reference/android/app/slice/package-summary",
+		"icon": "https://cdn1.iconfinder.com/data/icons/seo-9/500/SEO3-49-512.png"
+	},
+	{
+		"no": 48,
+		"pacage": "android.graphics",
+		"explanation": "グラフィックス操作に使用",
+		"type": "グラフィックス",
+		"URL": "https://developer.android.com/reference/android/graphics/package-summary",
+		"icon": "https://cdn1.iconfinder.com/data/icons/seo-9/500/SEO3-49-512.png"
+	},
+	{
+		"no": 49,
+		"pacage": "android.graphics.drawable",
+		"explanation": "Drawable オブジェクトの操作に使用",
+		"type": "グラフィックス",
+		"URL": "https://developer.android.com/reference/android/graphics/drawable/package-summary",
+		"icon": "https://cdn1.iconfinder.com/data/icons/seo-9/500/SEO3-49-512.png"
+	},
+	{
+		"no": 50,
+		"pacage": "android.graphics.drawable.shapes",
+		"explanation": "図形描画に使用",
+		"type": "グラフィックス",
+		"URL": "https://developer.android.com/reference/android/graphics/drawable/shapes/package-summary",
+		"icon": "https://cdn1.iconfinder.com/data/icons/seo-9/500/SEO3-49-512.png"
+	},
+	{
+		"no": 51,
+		"pacage": "android.graphics.fonts",
+		"explanation": "フォント操作に使用",
+		"type": "グラフィックス",
+		"URL": "https://developer.android.com/reference/android/graphics/fonts/package-summary",
+		"icon": "https://cdn1.iconfinder.com/data/icons/seo-9/500/SEO3-49-512.png"
+	},
+	{
+		"no": 52,
+		"pacage": "android.graphics.pdf",
+		"explanation": "PDF ファイルの生成と操作に使用",
+		"type": "グラフィックス",
+		"URL": "https://developer.android.com/reference/android/graphics/pdf/package-summary",
+		"icon": "https://cdn1.iconfinder.com/data/icons/seo-9/500/SEO3-49-512.png"
+	},
+	{
+		"no": 53,
+		"pacage": "android.graphics.text",
+		"explanation": "テキスト描画に使用",
+		"type": "グラフィックス",
+		"URL": "https://developer.android.com/reference/android/graphics/text/package-summary",
+		"icon": "https://cdn1.iconfinder.com/data/icons/seo-9/500/SEO3-49-512.png"
+	},
+	{
+		"no": 108,
+		"pacage": "android.opengl",
+		"explanation": "OpenGL グラフィックス操作に使用",
+		"type": "グラフィックス",
+		"URL": "https://developer.android.com/reference/android/opengl/package-summary",
+		"icon": "https://cdn1.iconfinder.com/data/icons/seo-9/500/SEO3-49-512.png"
+	},
+	{
+		"no": 119,
+		"pacage": "android.renderscript",
+		"explanation": "RenderScript コンピューティングに使用",
+		"type": "グラフィックス",
+		"URL": "https://developer.android.com/reference/android/renderscript/package-summary",
+		"icon": "https://cdn1.iconfinder.com/data/icons/seo-9/500/SEO3-49-512.png"
+	},
+	{
+		"no": 166,
+		"pacage": "android.transition",
+		"explanation": "アニメーションおよびトランジションに使用",
+		"type": "グラフィックス",
+		"URL": "https://developer.android.com/reference/android/transition/package-summary",
+		"icon": "https://cdn1.iconfinder.com/data/icons/seo-9/500/SEO3-49-512.png"
+	},
+	{
+		"no": 171,
+		"pacage": "android.view.animation",
+		"explanation": "アニメーション操作に使用",
+		"type": "グラフィックス",
+		"URL": "https://developer.android.com/reference/android/view/animation/package-summary",
+		"icon": "https://cdn1.iconfinder.com/data/icons/seo-9/500/SEO3-49-512.png"
+	},
+	{
+		"no": 188,
+		"pacage": "java.awt.font",
+		"explanation": "フォント操作に使用",
+		"type": "グラフィックス",
+		"URL": "https://developer.android.com/reference/java/awt/font/package-summary",
+		"icon": "https://cdn1.iconfinder.com/data/icons/seo-9/500/SEO3-49-512.png"
+	},
+	{
+		"no": 234,
+		"pacage": "javax.microedition.khronos.egl",
+		"explanation": "EGL (Embedded Graphics Library) に使用",
+		"type": "グラフィックス",
+		"URL": "https://developer.android.com/reference/javax/microedition/khronos/egl/package-summary",
+		"icon": "https://cdn1.iconfinder.com/data/icons/seo-9/500/SEO3-49-512.png"
+	},
+	{
+		"no": 235,
+		"pacage": "javax.microedition.khronos.opengles",
+		"explanation": "OpenGL ES (Embedded Systems) に使用",
+		"type": "グラフィックス",
+		"URL": "https://developer.android.com/reference/javax/microedition/khronos/opengles/package-summary",
+		"icon": "https://cdn1.iconfinder.com/data/icons/seo-9/500/SEO3-49-512.png"
+	},
+	{
+		"no": 125,
+		"pacage": "android.service.assist.classification",
+		"explanation": "アシスト分類サービスに使用",
+		"type": "サービス",
+		"URL": "https://developer.android.com/reference/android/service/assist/classification/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5062/5062832.png"
+	},
+	{
+		"no": 126,
+		"pacage": "android.service.autofill",
+		"explanation": "自動入力サービスに使用",
+		"type": "サービス",
+		"URL": "https://developer.android.com/reference/android/service/autofill/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5062/5062832.png"
+	},
+	{
+		"no": 127,
+		"pacage": "android.service.carrier",
+		"explanation": "キャリアサービスに使用",
+		"type": "サービス",
+		"URL": "https://developer.android.com/reference/android/service/carrier/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5062/5062832.png"
+	},
+	{
+		"no": 128,
+		"pacage": "android.service.chooser",
+		"explanation": "アプリ選択サービスに使用",
+		"type": "サービス",
+		"URL": "https://developer.android.com/reference/android/service/chooser/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5062/5062832.png"
+	},
+	{
+		"no": 129,
+		"pacage": "android.service.controls",
+		"explanation": "コントロールサービスに使用",
+		"type": "サービス",
+		"URL": "https://developer.android.com/reference/android/service/controls/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5062/5062832.png"
+	},
+	{
+		"no": 130,
+		"pacage": "android.service.controls.actions",
+		"explanation": "コントロールアクションに使用",
+		"type": "サービス",
+		"URL": "https://developer.android.com/reference/android/service/controls/actions/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5062/5062832.png"
+	},
+	{
+		"no": 131,
+		"pacage": "android.service.controls.templates",
+		"explanation": "コントロールテンプレートの操作に使用",
+		"type": "サービス",
+		"URL": "https://developer.android.com/reference/android/service/controls/templates/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5062/5062832.png"
+	},
+	{
+		"no": 132,
+		"pacage": "android.service.credentials",
+		"explanation": "認証情報の管理に使用",
+		"type": "サービス",
+		"URL": "https://developer.android.com/reference/android/service/credentials/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5062/5062832.png"
+	},
+	{
+		"no": 133,
+		"pacage": "android.service.dreams",
+		"explanation": "スクリーンセーバー (Dreams) の操作に使用",
+		"type": "サービス",
+		"URL": "https://developer.android.com/reference/android/service/dreams/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5062/5062832.png"
+	},
+	{
+		"no": 134,
+		"pacage": "android.service.media",
+		"explanation": "メディアサービスの操作に使用",
+		"type": "サービス",
+		"URL": "https://developer.android.com/reference/android/service/media/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5062/5062832.png"
+	},
+	{
+		"no": 135,
+		"pacage": "android.service.notification",
+		"explanation": "通知サービスの操作に使用",
+		"type": "サービス",
+		"URL": "https://developer.android.com/reference/android/service/notification/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5062/5062832.png"
+	},
+	{
+		"no": 136,
+		"pacage": "android.service.quickaccesswallet",
+		"explanation": "クイックアクセスウォレットの操作に使用",
+		"type": "サービス",
+		"URL": "https://developer.android.com/reference/android/service/quickaccesswallet/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5062/5062832.png"
+	},
+	{
+		"no": 137,
+		"pacage": "android.service.quicksettings",
+		"explanation": "クイック設定の操作に使用",
+		"type": "サービス",
+		"URL": "https://developer.android.com/reference/android/service/quicksettings/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5062/5062832.png"
+	},
+	{
+		"no": 138,
+		"pacage": "android.service.restrictions",
+		"explanation": "制限プロファイルの操作に使用",
+		"type": "サービス",
+		"URL": "https://developer.android.com/reference/android/service/restrictions/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5062/5062832.png"
+	},
+	{
+		"no": 139,
+		"pacage": "android.service.textservice",
+		"explanation": "テキストサービスの操作に使用",
+		"type": "サービス",
+		"URL": "https://developer.android.com/reference/android/service/textservice/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5062/5062832.png"
+	},
+	{
+		"no": 140,
+		"pacage": "android.service.voice",
+		"explanation": "音声サービスの操作に使用",
+		"type": "サービス",
+		"URL": "https://developer.android.com/reference/android/service/voice/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5062/5062832.png"
+	},
+	{
+		"no": 141,
+		"pacage": "android.service.vr",
+		"explanation": "バーチャルリアリティ (VR) サービスの操作に使用",
+		"type": "サービス",
+		"URL": "https://developer.android.com/reference/android/service/vr/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5062/5062832.png"
+	},
+	{
+		"no": 142,
+		"pacage": "android.service.wallpaper",
+		"explanation": "壁紙サービスの操作に使用",
+		"type": "サービス",
+		"URL": "https://developer.android.com/reference/android/service/wallpaper/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5062/5062832.png"
+	},
+	{
+		"no": 145,
+		"pacage": "android.system",
+		"explanation": "システム操作に使用",
+		"type": "システム",
+		"URL": "https://developer.android.com/reference/android/system/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 187,
+		"pacage": "dalvik.system",
+		"explanation": "システム操作に使用",
+		"type": "システム",
+		"URL": "https://developer.android.com/reference/dalvik/system/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 37,
+		"pacage": "android.content.om",
+		"explanation": "システムのオーバーレイと操作に使用",
+		"type": "システムオーバーレイ",
+		"URL": "https://developer.android.com/reference/android/content/om/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 112,
+		"pacage": "android.os.storage",
+		"explanation": "ストレージ管理に使用",
+		"type": "ストレージ",
+		"URL": "https://developer.android.com/reference/android/os/storage/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 16,
+		"pacage": "android.app.admin",
+		"explanation": "Android デバイス管理者機能に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/android/app/admin/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 26,
+		"pacage": "android.app.role",
+		"explanation": "アプリのロールと権限に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/android/app/role/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 39,
+		"pacage": "android.content.pm.verify.domain",
+		"explanation": "ドメイン検証に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/android/content/pm/verify/domain/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 42,
+		"pacage": "android.credentials",
+		"explanation": "認証情報の管理に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/android/credentials/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 45,
+		"pacage": "android.devicelock",
+		"explanation": "デバイスロックの操作に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/android/devicelock/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 46,
+		"pacage": "android.drm",
+		"explanation": "デジタルライツマネジメント (DRM) に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/android/drm/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 55,
+		"pacage": "android.hardware.biometrics",
+		"explanation": "バイオメトリクス認証に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/android/hardware/biometrics/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 59,
+		"pacage": "android.hardware.fingerprint",
+		"explanation": "指紋認証に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/android/hardware/fingerprint/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 121,
+		"pacage": "android.se.omapi",
+		"explanation": "Secure Element Open Mobile API (OMAPI) に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/android/se/omapi/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 122,
+		"pacage": "android.security",
+		"explanation": "セキュリティ操作に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/android/security/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 123,
+		"pacage": "android.security.identity",
+		"explanation": "身元情報管理に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/android/security/identity/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 124,
+		"pacage": "android.security.keystore",
+		"explanation": "キーストア操作に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/android/security/keystore/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 207,
+		"pacage": "java.security",
+		"explanation": "セキュリティ操作に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/java/security/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 208,
+		"pacage": "java.security.acl",
+		"explanation": "アクセス制御リスト (ACL) 操作に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/java/security/acl/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 209,
+		"pacage": "java.security.cert",
+		"explanation": "証明書操作に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/java/security/cert/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 210,
+		"pacage": "java.security.interfaces",
+		"explanation": "セキュリティインタフェースに使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/java/security/interfaces/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 211,
+		"pacage": "java.security.spec",
+		"explanation": "セキュリティ仕様に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/java/security/spec/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 231,
+		"pacage": "javax.crypto",
+		"explanation": "暗号化および復号化操作に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/javax/crypto/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 232,
+		"pacage": "javax.crypto.interfaces",
+		"explanation": "暗号化インタフェースに使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/javax/crypto/interfaces/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 233,
+		"pacage": "javax.crypto.spec",
+		"explanation": "暗号化仕様に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/javax/crypto/spec/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 237,
+		"pacage": "javax.net.ssl",
+		"explanation": "SSL (Secure Sockets Layer) 操作に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/javax/net/ssl/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 238,
+		"pacage": "javax.security.auth",
+		"explanation": "認証操作に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/javax/security/auth/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 239,
+		"pacage": "javax.security.auth.callback",
+		"explanation": "認証コールバック操作に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/javax/security/auth/callback/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 240,
+		"pacage": "javax.security.auth.login",
+		"explanation": "認証ログイン操作に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/javax/security/auth/login/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 241,
+		"pacage": "javax.security.auth.x500",
+		"explanation": "X.500ディレクトリ操作に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/javax/security/auth/x500/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 242,
+		"pacage": "javax.security.cert",
+		"explanation": "証明書操作に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/javax/security/cert/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 258,
+		"pacage": "org.apache.http.conn.ssl",
+		"explanation": "SSL (Secure Sockets Layer) 接続操作に使用",
+		"type": "セキュリティ",
+		"URL": "https://developer.android.com/reference/org/apache/http/conn/ssl/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/010/056/214/original/security-icon-anti-virus-sign-design-free-png.png"
+	},
+	{
+		"no": 24,
+		"pacage": "android.app.job",
+		"explanation": "ジョブスケジューリングに使用",
+		"type": "タスク管理",
+		"URL": "https://developer.android.com/reference/android/app/job/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 58,
+		"pacage": "android.hardware.display",
+		"explanation": "ディスプレイ操作に使用",
+		"type": "ディスプレイ",
+		"URL": "https://developer.android.com/reference/android/hardware/display/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 22,
+		"pacage": "android.app.backup",
+		"explanation": "バックアップとリストアに使用",
+		"type": "データバックアップ",
+		"URL": "https://developer.android.com/reference/android/app/backup/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 17,
+		"pacage": "android.app.appsearch",
+		"explanation": "AppSearch データベースに使用",
+		"type": "データベース",
+		"URL": "https://developer.android.com/reference/android/app/appsearch/package-summary",
+		"icon": "https://everydayicons.jp/wp/wp-content/themes/everydayicons/icons/png/ei-database.png"
+	},
+	{
+		"no": 18,
+		"pacage": "android.app.appsearch.exceptions",
+		"explanation": "AppSearch 関連の例外処理に使用",
+		"type": "データベース",
+		"URL": "https://developer.android.com/reference/android/app/appsearch/exceptions/package-summary",
+		"icon": "https://everydayicons.jp/wp/wp-content/themes/everydayicons/icons/png/ei-database.png"
+	},
+	{
+		"no": 19,
+		"pacage": "android.app.appsearch.observer",
+		"explanation": "AppSearch データベースの監視に使用",
+		"type": "データベース",
+		"URL": "https://developer.android.com/reference/android/app/appsearch/observer/package-summary",
+		"icon": "https://everydayicons.jp/wp/wp-content/themes/everydayicons/icons/png/ei-database.png"
+	},
+	{
+		"no": 20,
+		"pacage": "android.app.appsearch.util",
+		"explanation": "AppSearch データベースのユーティリティに使用",
+		"type": "データベース",
+		"URL": "https://developer.android.com/reference/android/app/appsearch/util/package-summary",
+		"icon": "https://everydayicons.jp/wp/wp-content/themes/everydayicons/icons/png/ei-database.png"
+	},
+	{
+		"no": 43,
+		"pacage": "android.database",
+		"explanation": "データベース操作に使用",
+		"type": "データベース",
+		"URL": "https://developer.android.com/reference/android/database/package-summary",
+		"icon": "https://everydayicons.jp/wp/wp-content/themes/everydayicons/icons/png/ei-database.png"
+	},
+	{
+		"no": 44,
+		"pacage": "android.database.sqlite",
+		"explanation": "SQLite データベース操作に使用",
+		"type": "データベース",
+		"URL": "https://developer.android.com/reference/android/database/sqlite/package-summary",
+		"icon": "https://everydayicons.jp/wp/wp-content/themes/everydayicons/icons/png/ei-database.png"
+	},
+	{
+		"no": 212,
+		"pacage": "java.sql",
+		"explanation": "SQLデータベース操作に使用",
+		"type": "データベース",
+		"URL": "https://developer.android.com/reference/java/sql/package-summary",
+		"icon": "https://everydayicons.jp/wp/wp-content/themes/everydayicons/icons/png/ei-database.png"
+	},
+	{
+		"no": 243,
+		"pacage": "javax.sql",
+		"explanation": "SQLデータベース操作に使用",
+		"type": "データベース",
+		"URL": "https://developer.android.com/reference/javax/sql/package-summary",
+		"icon": "https://everydayicons.jp/wp/wp-content/themes/everydayicons/icons/png/ei-database.png"
+	},
+	{
+		"no": 23,
+		"pacage": "android.app.blob",
+		"explanation": "データのブロブ (BLOB) に使用",
+		"type": "データ処理",
+		"URL": "https://developer.android.com/reference/android/app/blob/package-summary",
+		"icon": "https://everydayicons.jp/wp/wp-content/themes/everydayicons/icons/png/ei-database.png"
+	},
+	{
+		"no": 260,
+		"pacage": "org.json",
+		"explanation": "JSON操作に使用",
+		"type": "データ処理",
+		"URL": "https://developer.android.com/reference/org/json/package-summary",
+		"icon": "https://everydayicons.jp/wp/wp-content/themes/everydayicons/icons/png/ei-database.png"
+	},
+	{
+		"no": 36,
+		"pacage": "android.content",
+		"explanation": "コンテンツプロバイダーの操作に使用",
+		"type": "データ操作",
+		"URL": "https://developer.android.com/reference/android/content/package-summary",
+		"icon": "https://everydayicons.jp/wp/wp-content/themes/everydayicons/icons/png/ei-database.png"
+	},
+	{
+		"no": 118,
+		"pacage": "android.provider",
+		"explanation": "データプロバイダーの操作に使用",
+		"type": "データ操作",
+		"URL": "https://developer.android.com/reference/android/provider/package-summary",
+		"icon": "https://everydayicons.jp/wp/wp-content/themes/everydayicons/icons/png/ei-database.png"
+	},
+	{
+		"no": 161,
+		"pacage": "android.text",
+		"explanation": "テキスト操作に使用",
+		"type": "テキスト",
+		"URL": "https://developer.android.com/reference/android/text/package-summary",
+		"icon": "https://kotonohaworks.com/free-icons/wp-content/uploads/kkrn_icon_text_6.png"
+	},
+	{
+		"no": 162,
+		"pacage": "android.text.format",
+		"explanation": "テキストフォーマットに使用",
+		"type": "テキスト",
+		"URL": "https://developer.android.com/reference/android/text/format/package-summary",
+		"icon": "https://kotonohaworks.com/free-icons/wp-content/uploads/kkrn_icon_text_6.png"
+	},
+	{
+		"no": 163,
+		"pacage": "android.text.method",
+		"explanation": "テキスト入力メソッドに使用",
+		"type": "テキスト",
+		"URL": "https://developer.android.com/reference/android/text/method/package-summary",
+		"icon": "https://kotonohaworks.com/free-icons/wp-content/uploads/kkrn_icon_text_6.png"
+	},
+	{
+		"no": 164,
+		"pacage": "android.text.style",
+		"explanation": "テキストスタイル設定に使用",
+		"type": "テキスト",
+		"URL": "https://developer.android.com/reference/android/text/style/package-summary",
+		"icon": "https://kotonohaworks.com/free-icons/wp-content/uploads/kkrn_icon_text_6.png"
+	},
+	{
+		"no": 165,
+		"pacage": "android.text.util",
+		"explanation": "テキストユーティリティに使用",
+		"type": "テキスト",
+		"URL": "https://developer.android.com/reference/android/text/util/package-summary",
+		"icon": "https://kotonohaworks.com/free-icons/wp-content/uploads/kkrn_icon_text_6.png"
+	},
+	{
+		"no": 213,
+		"pacage": "java.text",
+		"explanation": "テキスト操作に使用",
+		"type": "テキスト",
+		"URL": "https://developer.android.com/reference/java/text/package-summary",
+		"icon": "https://kotonohaworks.com/free-icons/wp-content/uploads/kkrn_icon_text_6.png"
+	},
+	{
+		"no": 157,
+		"pacage": "android.test",
+		"explanation": "テストフレームワークに使用",
+		"type": "テスト",
+		"URL": "https://developer.android.com/reference/android/test/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/2916/2916315.png"
+	},
+	{
+		"no": 158,
+		"pacage": "android.test.mock",
+		"explanation": "テストモックオブジェクトに使用",
+		"type": "テスト",
+		"URL": "https://developer.android.com/reference/android/test/mock/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/2916/2916315.png"
+	},
+	{
+		"no": 159,
+		"pacage": "android.test.suitebuilder",
+		"explanation": "テストスイートの構築に使用",
+		"type": "テスト",
+		"URL": "https://developer.android.com/reference/android/test/suitebuilder/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/2916/2916315.png"
+	},
+	{
+		"no": 160,
+		"pacage": "android.test.suitebuilder.annotation",
+		"explanation": "テストアノテーションに使用",
+		"type": "テスト",
+		"URL": "https://developer.android.com/reference/android/test/suitebuilder/annotation/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/2916/2916315.png"
+	},
+	{
+		"no": 254,
+		"pacage": "junit.framework",
+		"explanation": "ユニットテストフレームワークに使用",
+		"type": "テスト",
+		"URL": "https://developer.android.com/reference/junit/framework/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/2916/2916315.png"
+	},
+	{
+		"no": 255,
+		"pacage": "junit.runner",
+		"explanation": "ユニットテストランナーに使用",
+		"type": "テスト",
+		"URL": "https://developer.android.com/reference/junit/runner/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/2916/2916315.png"
+	},
+	{
+		"no": 34,
+		"pacage": "android.companion",
+		"explanation": "コンパニオンデバイスの連携に使用",
+		"type": "デバイス連携",
+		"URL": "https://developer.android.com/reference/android/companion/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 35,
+		"pacage": "android.companion.virtual",
+		"explanation": "仮想コンパニオンデバイスの連携に使用",
+		"type": "デバイス連携",
+		"URL": "https://developer.android.com/reference/android/companion/virtual/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 199,
+		"pacage": "java.nio",
+		"explanation": "ニューオータム制御に使用",
+		"type": "New I/O",
+		"URL": "https://developer.android.com/reference/java/nio/package-summary",
+		"icon": "https://thumbs.dreamstime.com/b/input-process-output-26790097.jpg"
+	},
+	{
+		"no": 200,
+		"pacage": "java.nio.channels",
+		"explanation": "チャネル操作に使用",
+		"type": "New I/O",
+		"URL": "https://developer.android.com/reference/java/nio/channels/package-summary",
+		"icon": "https://thumbs.dreamstime.com/b/input-process-output-26790097.jpg"
+	},
+	{
+		"no": 201,
+		"pacage": "java.nio.channels.spi",
+		"explanation": "チャネルサービスプロバイダに使用",
+		"type": "New I/O",
+		"URL": "https://developer.android.com/reference/java/nio/channels/spi/package-summary",
+		"icon": "https://thumbs.dreamstime.com/b/input-process-output-26790097.jpg"
+	},
+	{
+		"no": 202,
+		"pacage": "java.nio.charset",
+		"explanation": "文字エンコーディングおよびデコーディングに使用",
+		"type": "New I/O",
+		"URL": "https://developer.android.com/reference/java/nio/charset/package-summary",
+		"icon": "https://thumbs.dreamstime.com/b/input-process-output-26790097.jpg"
+	},
+	{
+		"no": 203,
+		"pacage": "java.nio.charset.spi",
+		"explanation": "文字エンコーディングサービスプロバイダに使用",
+		"type": "New I/O",
+		"URL": "https://developer.android.com/reference/java/nio/charset/spi/package-summary",
+		"icon": "https://thumbs.dreamstime.com/b/input-process-output-26790097.jpg"
+	},
+	{
+		"no": 204,
+		"pacage": "java.nio.file",
+		"explanation": "ファイル操作に使用",
+		"type": "New I/O",
+		"URL": "https://developer.android.com/reference/java/nio/file/package-summary",
+		"icon": "https://thumbs.dreamstime.com/b/input-process-output-26790097.jpg"
+	},
+	{
+		"no": 205,
+		"pacage": "java.nio.file.attribute",
+		"explanation": "ファイル属性操作に使用",
+		"type": "New I/O",
+		"URL": "https://developer.android.com/reference/java/nio/file/attribute/package-summary",
+		"icon": "https://thumbs.dreamstime.com/b/input-process-output-26790097.jpg"
+	},
+	{
+		"no": 206,
+		"pacage": "java.nio.file.spi",
+		"explanation": "ファイルサービスプロバイダに使用",
+		"type": "New I/O",
+		"URL": "https://developer.android.com/reference/java/nio/file/spi/package-summary",
+		"icon": "https://thumbs.dreamstime.com/b/input-process-output-26790097.jpg"
+	},
+	{
+		"no": 198,
+		"pacage": "java.net",
+		"explanation": "ネットワーク操作に使用",
+		"type": "ネットワーク",
+		"URL": "https://developer.android.com/reference/java/net/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 236,
+		"pacage": "javax.net",
+		"explanation": "ネットワーク操作に使用",
+		"type": "ネットワーク",
+		"URL": "https://developer.android.com/reference/javax/net/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 256,
+		"pacage": "org.apache.http.conn",
+		"explanation": "HTTP接続操作に使用",
+		"type": "ネットワーク",
+		"URL": "https://developer.android.com/reference/org/apache/http/conn/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 257,
+		"pacage": "org.apache.http.conn.scheme",
+		"explanation": "HTTP接続スキーム操作に使用",
+		"type": "ネットワーク",
+		"URL": "https://developer.android.com/reference/org/apache/http/conn/scheme/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 259,
+		"pacage": "org.apache.http.params",
+		"explanation": "HTTPパラメータ操作に使用",
+		"type": "ネットワーク",
+		"URL": "https://developer.android.com/reference/org/apache/http/params/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 88,
+		"pacage": "android.net.eap",
+		"explanation": "Extensible Authentication Protocol (EAP) に使用",
+		"type": "ネットワークセキュリティ",
+		"URL": "https://developer.android.com/reference/android/net/eap/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 90,
+		"pacage": "android.net.ipsec.ike",
+		"explanation": "IPsec (Internet Protocol Security) の操作に使用",
+		"type": "ネットワークセキュリティ",
+		"URL": "https://developer.android.com/reference/android/net/ipsec/ike/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 91,
+		"pacage": "android.net.ipsec.ike.exceptions",
+		"explanation": "IPsec の例外処理に使用",
+		"type": "ネットワークセキュリティ",
+		"URL": "https://developer.android.com/reference/android/net/ipsec/ike/exceptions/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 95,
+		"pacage": "android.net.ssl",
+		"explanation": "SSL/TLS 通信に使用",
+		"type": "ネットワークセキュリティ",
+		"URL": "https://developer.android.com/reference/android/net/ssl/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 32,
+		"pacage": "android.bluetooth",
+		"explanation": "Bluetooth 通信に使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/bluetooth/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 33,
+		"pacage": "android.bluetooth.le",
+		"explanation": "Bluetooth Low Energy 通信に使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/bluetooth/le/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 87,
+		"pacage": "android.net",
+		"explanation": "ネットワーク操作に使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/net/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 89,
+		"pacage": "android.net.http",
+		"explanation": "HTTP 通信に使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/net/http/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 92,
+		"pacage": "android.net.nsd",
+		"explanation": "ネットワークサービスの発見に使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/net/nsd/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 93,
+		"pacage": "android.net.rtp",
+		"explanation": "リアルタイム通信プロトコル (RTP) に使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/net/rtp/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 94,
+		"pacage": "android.net.sip",
+		"explanation": "セッション開始プロトコル (SIP) に使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/net/sip/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 96,
+		"pacage": "android.net.vcn",
+		"explanation": "ネットワーク仮想化コンポーネント (VCN) に使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/net/vcn/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 97,
+		"pacage": "android.net.wifi",
+		"explanation": "Wi-Fi ネットワーク操作に使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/net/wifi/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 98,
+		"pacage": "android.net.wifi.aware",
+		"explanation": "Wi-Fi Aware 通信に使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/net/wifi/aware/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 99,
+		"pacage": "android.net.wifi.hotspot2",
+		"explanation": "Wi-Fi ホットスポット 2.0 操作に使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/net/wifi/hotspot2/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 100,
+		"pacage": "android.net.wifi.hotspot2.omadm",
+		"explanation": "Wi-Fi ホットスポット 2.0 の OMADM 操作に使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/net/wifi/hotspot2/omadm/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 101,
+		"pacage": "android.net.wifi.hotspot2.pps",
+		"explanation": "Wi-Fi ホットスポット 2.0 の PPS 操作に使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/net/wifi/hotspot2/pps/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 102,
+		"pacage": "android.net.wifi.p2p",
+		"explanation": "Wi-Fi Direct ピアツーピア通信に使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/net/wifi/p2p/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 103,
+		"pacage": "android.net.wifi.p2p.nsd",
+		"explanation": "Wi-Fi Direct ピアツーピアサービス発見に使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/net/wifi/p2p/nsd/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 104,
+		"pacage": "android.net.wifi.rtt",
+		"explanation": "Wi-Fi ラウンドトリップタイム (RTT) 操作に使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/net/wifi/rtt/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 105,
+		"pacage": "android.nfc",
+		"explanation": "近距離通信 (NFC) 操作に使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/nfc/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 106,
+		"pacage": "android.nfc.cardemulation",
+		"explanation": "NFC カードエミュレーションに使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/nfc/cardemulation/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 107,
+		"pacage": "android.nfc.tech",
+		"explanation": "NFC テクノロジーの操作に使用",
+		"type": "ネットワーク通信",
+		"URL": "https://developer.android.com/reference/android/nfc/tech/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/4152/4152018.png"
+	},
+	{
+		"no": 54,
+		"pacage": "android.hardware",
+		"explanation": "ハードウェアリソースに使用",
+		"type": "ハードウェア",
+		"URL": "https://developer.android.com/reference/android/hardware/package-summary",
+		"icon": "https://previews.123rf.com/images/yupiramos/yupiramos1802/yupiramos180218553/95714075-%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E5%9B%9E%E8%B7%AF%E3%83%8F%E3%82%A4%E3%83%86%E3%82%AF%E9%9B%BB%E6%B0%97%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E9%9D%92%E3%81%A8%E7%81%B0%E8%89%B2.jpg"
+	},
+	{
+		"no": 61,
+		"pacage": "android.hardware.lights",
+		"explanation": "ライト (照明) 制御に使用",
+		"type": "ハードウェア",
+		"URL": "https://developer.android.com/reference/android/hardware/lights/package-summary",
+		"icon": "https://previews.123rf.com/images/yupiramos/yupiramos1802/yupiramos180218553/95714075-%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E5%9B%9E%E8%B7%AF%E3%83%8F%E3%82%A4%E3%83%86%E3%82%AF%E9%9B%BB%E6%B0%97%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E9%9D%92%E3%81%A8%E7%81%B0%E8%89%B2.jpg"
+	},
+	{
+		"no": 62,
+		"pacage": "android.hardware.usb",
+		"explanation": "USB デバイス制御に使用",
+		"type": "ハードウェア",
+		"URL": "https://developer.android.com/reference/android/hardware/usb/package-summary",
+		"icon": "https://previews.123rf.com/images/yupiramos/yupiramos1802/yupiramos180218553/95714075-%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E5%9B%9E%E8%B7%AF%E3%83%8F%E3%82%A4%E3%83%86%E3%82%AF%E9%9B%BB%E6%B0%97%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E9%9D%92%E3%81%A8%E7%81%B0%E8%89%B2.jpg"
+	},
+	{
+		"no": 186,
+		"pacage": "dalvik.bytecode",
+		"explanation": "バイトコード操作に使用",
+		"type": "バイトコード",
+		"URL": "https://developer.android.com/reference/dalvik/bytecode/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 14,
+		"pacage": "android.annotation",
+		"explanation": "アノテーション (注釈) の管理に使用",
+		"type": "プログラミング",
+		"URL": "https://developer.android.com/reference/android/annotation/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 113,
+		"pacage": "android.os.strictmode",
+		"explanation": "厳格なモード設定に使用",
+		"type": "javaのサポート",
+		"URL": "https://developer.android.com/reference/android/os/strictmode/package-summary",
+		"icon": "https://ytoba-tech.net/wp-content/uploads/2021/12/Java-Icon.png"
+	},
+	{
+		"no": 189,
+		"pacage": "java.beans",
+		"explanation": "JavaBeans操作に使用",
+		"type": "javaのサポート",
+		"URL": "https://developer.android.com/reference/java/beans/package-summary",
+		"icon": "https://ytoba-tech.net/wp-content/uploads/2021/12/Java-Icon.png"
+	},
+	{
+		"no": 191,
+		"pacage": "java.lang",
+		"explanation": "基本的な言語操作に使用",
+		"type": "javaのサポート",
+		"URL": "https://developer.android.com/reference/java/lang/package-summary",
+		"icon": "https://ytoba-tech.net/wp-content/uploads/2021/12/Java-Icon.png"
+	},
+	{
+		"no": 193,
+		"pacage": "java.lang.invoke",
+		"explanation": "動的メソッド操作に使用",
+		"type": "javaのサポート",
+		"URL": "https://developer.android.com/reference/java/lang/invoke/package-summary",
+		"icon": "https://ytoba-tech.net/wp-content/uploads/2021/12/Java-Icon.png"
+	},
+	{
+		"no": 194,
+		"pacage": "java.lang.ref",
+		"explanation": "参照操作に使用",
+		"type": "javaのサポート",
+		"URL": "https://developer.android.com/reference/java/lang/ref/package-summary",
+		"icon": "https://ytoba-tech.net/wp-content/uploads/2021/12/Java-Icon.png"
+	},
+	{
+		"no": 195,
+		"pacage": "java.lang.reflect",
+		"explanation": "リフレクション操作に使用",
+		"type": "javaのサポート",
+		"URL": "https://developer.android.com/reference/java/lang/reflect/package-summary",
+		"icon": "https://ytoba-tech.net/wp-content/uploads/2021/12/Java-Icon.png"
+	},
+	{
+		"no": 196,
+		"pacage": "java.lang.runtime",
+		"explanation": "実行時情報取得に使用",
+		"type": "javaのサポート",
+		"URL": "https://developer.android.com/reference/java/lang/runtime/package-summary",
+		"icon": "https://ytoba-tech.net/wp-content/uploads/2021/12/Java-Icon.png"
+	},
+	{
+		"no": 111,
+		"pacage": "android.os.health",
+		"explanation": "ヘルス情報の管理に使用",
+		"type": "ヘルス情報",
+		"URL": "https://developer.android.com/reference/android/os/health/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 76,
+		"pacage": "android.media",
+		"explanation": "メディア操作に使用",
+		"type": "メディア",
+		"URL": "https://developer.android.com/reference/android/media/package-summary",
+		"icon": "https://cdn5.vectorstock.com/i/1000x1000/66/49/camera-video-studio-media-icon-black-vector-23946649.jpg"
+	},
+	{
+		"no": 78,
+		"pacage": "android.media.browse",
+		"explanation": "メディアブラウジングに使用",
+		"type": "メディア",
+		"URL": "https://developer.android.com/reference/android/media/browse/package-summary",
+		"icon": "https://cdn5.vectorstock.com/i/1000x1000/66/49/camera-video-studio-media-icon-black-vector-23946649.jpg"
+	},
+	{
+		"no": 79,
+		"pacage": "android.media.effect",
+		"explanation": "メディアエフェクトの操作に使用",
+		"type": "メディア",
+		"URL": "https://developer.android.com/reference/android/media/effect/package-summary",
+		"icon": "https://cdn5.vectorstock.com/i/1000x1000/66/49/camera-video-studio-media-icon-black-vector-23946649.jpg"
+	},
+	{
+		"no": 80,
+		"pacage": "android.media.metrics",
+		"explanation": "メディアメトリクスの収集に使用",
+		"type": "メディア",
+		"URL": "https://developer.android.com/reference/android/media/metrics/package-summary",
+		"icon": "https://cdn5.vectorstock.com/i/1000x1000/66/49/camera-video-studio-media-icon-black-vector-23946649.jpg"
+	},
+	{
+		"no": 81,
+		"pacage": "android.media.midi",
+		"explanation": "MIDI メディア操作に使用",
+		"type": "メディア",
+		"URL": "https://developer.android.com/reference/android/media/midi/package-summary",
+		"icon": "https://cdn5.vectorstock.com/i/1000x1000/66/49/camera-video-studio-media-icon-black-vector-23946649.jpg"
+	},
+	{
+		"no": 82,
+		"pacage": "android.media.projection",
+		"explanation": "画面キャプチャと録画に使用",
+		"type": "メディア",
+		"URL": "https://developer.android.com/reference/android/media/projection/package-summary",
+		"icon": "https://cdn5.vectorstock.com/i/1000x1000/66/49/camera-video-studio-media-icon-black-vector-23946649.jpg"
+	},
+	{
+		"no": 83,
+		"pacage": "android.media.session",
+		"explanation": "メディアセッションの管理に使用",
+		"type": "メディア",
+		"URL": "https://developer.android.com/reference/android/media/session/package-summary",
+		"icon": "https://cdn5.vectorstock.com/i/1000x1000/66/49/camera-video-studio-media-icon-black-vector-23946649.jpg"
+	},
+	{
+		"no": 84,
+		"pacage": "android.media.tv",
+		"explanation": "テレビ関連のメディア操作に使用",
+		"type": "メディア",
+		"URL": "https://developer.android.com/reference/android/media/tv/package-summary",
+		"icon": "https://cdn5.vectorstock.com/i/1000x1000/66/49/camera-video-studio-media-icon-black-vector-23946649.jpg"
+	},
+	{
+		"no": 85,
+		"pacage": "android.media.tv.interactive",
+		"explanation": "インタラクティブなテレビ操作に使用",
+		"type": "メディア",
+		"URL": "https://developer.android.com/reference/android/media/tv/interactive/package-summary",
+		"icon": "https://cdn5.vectorstock.com/i/1000x1000/66/49/camera-video-studio-media-icon-black-vector-23946649.jpg"
+	},
+	{
+		"no": 86,
+		"pacage": "android.mtp",
+		"explanation": "メディア転送プロトコル (MTP) に使用",
+		"type": "メディア",
+		"URL": "https://developer.android.com/reference/android/mtp/package-summary",
+		"icon": "https://cdn5.vectorstock.com/i/1000x1000/66/49/camera-video-studio-media-icon-black-vector-23946649.jpg"
+	},
+	{
+		"no": 3,
+		"pacage": "android.accounts",
+		"explanation": "アカウント管理に使用",
+		"type": "ユーザーアカウント",
+		"URL": "https://developer.android.com/reference/android/accounts/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/021/079/672/original/user-account-icon-for-your-design-only-free-png.png"
+	},
+	{
+		"no": 25,
+		"pacage": "android.app.people",
+		"explanation": "連絡先のデータに使用",
+		"type": "ユーザーアカウント",
+		"URL": "https://developer.android.com/reference/android/app/people/package-summary",
+		"icon": "https://static.vecteezy.com/system/resources/previews/021/079/672/original/user-account-icon-for-your-design-only-free-png.png"
+	},
+	{
+		"no": 21,
+		"pacage": "android.app.assist",
+		"explanation": "アシスト機能に使用",
+		"type": "ユーザーアシスト",
+		"URL": "https://developer.android.com/reference/android/app/assist/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 30,
+		"pacage": "android.app.usage",
+		"explanation": "アプリの使用状況の追跡に使用",
+		"type": "ユーザーアシスト",
+		"URL": "https://developer.android.com/reference/android/app/usage/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 31,
+		"pacage": "android.appwidget",
+		"explanation": "ウィジェットを作成・管理するために使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/appwidget/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 47,
+		"pacage": "android.gesture",
+		"explanation": "ジェスチャーの検出に使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/gesture/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 60,
+		"pacage": "android.hardware.input",
+		"explanation": "ユーザー入力デバイス制御に使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/hardware/input/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 72,
+		"pacage": "android.inputmethodservice",
+		"explanation": "入力法サービスのカスタマイズに使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/inputmethodservice/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 114,
+		"pacage": "android.preference",
+		"explanation": "プリファレンス設定に使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/preference/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 143,
+		"pacage": "android.speech",
+		"explanation": "音声認識に使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/speech/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 144,
+		"pacage": "android.speech.tts",
+		"explanation": "テキスト読み上げ (TTS) サービスに使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/speech/tts/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 169,
+		"pacage": "android.view",
+		"explanation": "ビューおよびUI操作に使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/view/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 170,
+		"pacage": "android.view.accessibility",
+		"explanation": "アクセシビリティに使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/view/accessibility/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 172,
+		"pacage": "android.view.autofill",
+		"explanation": "自動入力操作に使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/view/autofill/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 173,
+		"pacage": "android.view.contentcapture",
+		"explanation": "コンテンツキャプチャに使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/view/contentcapture/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 174,
+		"pacage": "android.view.displayhash",
+		"explanation": "ディスプレイハッシュ操作に使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/view/displayhash/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 175,
+		"pacage": "android.view.inputmethod",
+		"explanation": "入力法操作に使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/view/inputmethod/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 176,
+		"pacage": "android.view.inspector",
+		"explanation": "ビューのデバッグと検査に使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/view/inspector/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 177,
+		"pacage": "android.view.textclassifier",
+		"explanation": "テキスト分類に使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/view/textclassifier/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 178,
+		"pacage": "android.view.textservice",
+		"explanation": "テキストサービスに使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/view/textservice/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 179,
+		"pacage": "android.view.translation",
+		"explanation": "翻訳操作に使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/view/translation/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 181,
+		"pacage": "android.widget",
+		"explanation": "UIウィジェットの操作に使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/widget/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 182,
+		"pacage": "android.widget.inline",
+		"explanation": "インラインUIウィジェットの操作に使用",
+		"type": "ユーザーインターフェース",
+		"URL": "https://developer.android.com/reference/android/widget/inline/package-summary",
+		"icon": "https://cdn3.iconfinder.com/data/icons/communication-224/100/icons-05-512.png"
+	},
+	{
+		"no": 167,
+		"pacage": "android.util",
+		"explanation": "ユーティリティクラスに使用",
+		"type": "ユーティリティ",
+		"URL": "https://developer.android.com/reference/android/util/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5966/5966874.png"
+	},
+	{
+		"no": 168,
+		"pacage": "android.util.proto",
+		"explanation": "プロトコルバッファに使用",
+		"type": "ユーティリティ",
+		"URL": "https://developer.android.com/reference/android/util/proto/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5966/5966874.png"
+	},
+	{
+		"no": 219,
+		"pacage": "java.util",
+		"explanation": "ユーティリティクラスに使用",
+		"type": "ユーティリティ",
+		"URL": "https://developer.android.com/reference/java/util/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5966/5966874.png"
+	},
+	{
+		"no": 220,
+		"pacage": "java.util.concurrent",
+		"explanation": "並行処理操作に使用",
+		"type": "ユーティリティ",
+		"URL": "https://developer.android.com/reference/java/util/concurrent/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5966/5966874.png"
+	},
+	{
+		"no": 221,
+		"pacage": "java.util.concurrent.atomic",
+		"explanation": "原子操作に使用",
+		"type": "ユーティリティ",
+		"URL": "https://developer.android.com/reference/java/util/concurrent/atomic/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5966/5966874.png"
+	},
+	{
+		"no": 222,
+		"pacage": "java.util.concurrent.locks",
+		"explanation": "ロック操作に使用",
+		"type": "ユーティリティ",
+		"URL": "https://developer.android.com/reference/java/util/concurrent/locks/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5966/5966874.png"
+	},
+	{
+		"no": 223,
+		"pacage": "java.util.function",
+		"explanation": "関数型プログラミングに使用",
+		"type": "ユーティリティ",
+		"URL": "https://developer.android.com/reference/java/util/function/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5966/5966874.png"
+	},
+	{
+		"no": 224,
+		"pacage": "java.util.jar",
+		"explanation": "JARファイル操作に使用",
+		"type": "ユーティリティ",
+		"URL": "https://developer.android.com/reference/java/util/jar/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5966/5966874.png"
+	},
+	{
+		"no": 225,
+		"pacage": "java.util.logging",
+		"explanation": "ログ操作に使用",
+		"type": "ユーティリティ",
+		"URL": "https://developer.android.com/reference/java/util/logging/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5966/5966874.png"
+	},
+	{
+		"no": 226,
+		"pacage": "java.util.prefs",
+		"explanation": "ユーザー設定操作に使用",
+		"type": "ユーティリティ",
+		"URL": "https://developer.android.com/reference/java/util/prefs/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5966/5966874.png"
+	},
+	{
+		"no": 227,
+		"pacage": "java.util.regex",
+		"explanation": "正規表現操作に使用",
+		"type": "ユーティリティ",
+		"URL": "https://developer.android.com/reference/java/util/regex/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5966/5966874.png"
+	},
+	{
+		"no": 228,
+		"pacage": "java.util.stream",
+		"explanation": "ストリーム処理に使用",
+		"type": "ユーティリティ",
+		"URL": "https://developer.android.com/reference/java/util/stream/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5966/5966874.png"
+	},
+	{
+		"no": 229,
+		"pacage": "java.util.zip",
+		"explanation": "圧縮および解凍操作に使用",
+		"type": "ユーティリティ",
+		"URL": "https://developer.android.com/reference/java/util/zip/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/5966/5966874.png"
+	},
+	{
+		"no": 67,
+		"pacage": "android.icu.lang",
+		"explanation": "ICU ライブラリの言語操作に使用",
+		"type": "ライブラリ",
+		"URL": "https://developer.android.com/reference/android/icu/lang/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 68,
+		"pacage": "android.icu.math",
+		"explanation": "ICU ライブラリの数学操作に使用",
+		"type": "ライブラリ",
+		"URL": "https://developer.android.com/reference/android/icu/math/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 69,
+		"pacage": "android.icu.number",
+		"explanation": "ICU ライブラリの数値操作に使用",
+		"type": "ライブラリ",
+		"URL": "https://developer.android.com/reference/android/icu/number/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 70,
+		"pacage": "android.icu.text",
+		"explanation": "ICU ライブラリのテキスト操作に使用",
+		"type": "ライブラリ",
+		"URL": "https://developer.android.com/reference/android/icu/text/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 71,
+		"pacage": "android.icu.util",
+		"explanation": "ICU ライブラリのユーティリティに使用",
+		"type": "ライブラリ",
+		"URL": "https://developer.android.com/reference/android/icu/util/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 40,
+		"pacage": "android.content.res",
+		"explanation": "リソース管理に使用",
+		"type": "リソース管理",
+		"URL": "https://developer.android.com/reference/android/content/res/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 41,
+		"pacage": "android.content.res.loader",
+		"explanation": "リソースのローディングに使用",
+		"type": "リソース管理",
+		"URL": "https://developer.android.com/reference/android/content/res/loader/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 73,
+		"pacage": "android.location",
+		"explanation": "位置情報サービスに使用",
+		"type": "ロケーション",
+		"URL": "https://developer.android.com/reference/android/location/package-summary",
+		"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy5DgVYP3dnjf7kV4WEGk15dgNDHzeNCkdIQ&usqp=CAU"
+	},
+	{
+		"no": 74,
+		"pacage": "android.location.altitude",
+		"explanation": "高度情報の取得に使用",
+		"type": "ロケーション",
+		"URL": "https://developer.android.com/reference/android/location/altitude/package-summary",
+		"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy5DgVYP3dnjf7kV4WEGk15dgNDHzeNCkdIQ&usqp=CAU"
+	},
+	{
+		"no": 75,
+		"pacage": "android.location.provider",
+		"explanation": "位置情報プロバイダーの操作に使用",
+		"type": "ロケーション",
+		"URL": "https://developer.android.com/reference/android/location/provider/package-summary",
+		"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy5DgVYP3dnjf7kV4WEGk15dgNDHzeNCkdIQ&usqp=CAU"
+	},
+	{
+		"no": 115,
+		"pacage": "android.print",
+		"explanation": "印刷操作に使用",
+		"type": "印刷",
+		"URL": "https://developer.android.com/reference/android/print/package-summary",
+		"icon": "https://e1.pngegg.com/pngimages/37/811/png-clipart-macos-app-icons-printer.png"
+	},
+	{
+		"no": 116,
+		"pacage": "android.print.pdf",
+		"explanation": "PDF 印刷に使用",
+		"type": "印刷",
+		"URL": "https://developer.android.com/reference/android/print/pdf/package-summary",
+		"icon": "https://e1.pngegg.com/pngimages/37/811/png-clipart-macos-app-icons-printer.png"
+	},
+	{
+		"no": 117,
+		"pacage": "android.printservice",
+		"explanation": "印刷サービスに使用",
+		"type": "印刷",
+		"URL": "https://developer.android.com/reference/android/printservice/package-summary",
+		"icon": "https://e1.pngegg.com/pngimages/37/811/png-clipart-macos-app-icons-printer.png"
+	},
+	{
+		"no": 27,
+		"pacage": "android.app.sdksandbox",
+		"explanation": "SDK サンドボックスに使用",
+		"type": "開発支援",
+		"URL": "https://developer.android.com/reference/android/app/sdksandbox/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 28,
+		"pacage": "android.app.sdksandbox.sdkprovider",
+		"explanation": "SDK プロバイダーに使用",
+		"type": "開発支援",
+		"URL": "https://developer.android.com/reference/android/app/sdksandbox/sdkprovider/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 63,
+		"pacage": "android.health.connect",
+		"explanation": "健康情報の接続と操作に使用",
+		"type": "健康情報",
+		"URL": "https://developer.android.com/reference/android/health/connect/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/2382/2382443.png"
+	},
+	{
+		"no": 64,
+		"pacage": "android.health.connect.changelog",
+		"explanation": "健康情報変更ログの管理に使用",
+		"type": "健康情報",
+		"URL": "https://developer.android.com/reference/android/health/connect/changelog/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/2382/2382443.png"
+	},
+	{
+		"no": 65,
+		"pacage": "android.health.connect.datatypes",
+		"explanation": "健康情報データ型の管理に使用",
+		"type": "健康情報",
+		"URL": "https://developer.android.com/reference/android/health/connect/datatypes/package-summary",
+		"icon": "https://cdn-icons-png.flaticon.com/512/2382/2382443.png"
+	},
+	{
+		"no": 66,
+		"pacage": "android.health.connect.datatypes.units",
+		"explanation": "健康情報データ型の単位管理に使用",
+		"type": "健康情報",
+		"URL": "https://developer.android.com/reference/android/health/connect/datatypes/units/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 4,
+		"pacage": "android.adservices",
+		"explanation": "広告関連機能に使用",
+		"type": "広告",
+		"URL": "https://developer.android.com/reference/android/adservices/package-summary",
+		"icon": "https://media.istockphoto.com/id/1185351342/ja/%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E5%BA%83%E5%91%8A.jpg?s=1024x1024&w=is&k=20&c=YHvbfXFlTmNNkqSau6Jepgpyy9QVmr7Q49pfFa2xGzQ="
+	},
+	{
+		"no": 5,
+		"pacage": "android.adservices.adid",
+		"explanation": "広告 ID (Ad ID) の管理に使用",
+		"type": "広告",
+		"URL": "https://developer.android.com/reference/android/adservices/adid/package-summary",
+		"icon": "https://media.istockphoto.com/id/1185351342/ja/%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E5%BA%83%E5%91%8A.jpg?s=1024x1024&w=is&k=20&c=YHvbfXFlTmNNkqSau6Jepgpyy9QVmr7Q49pfFa2xGzQ="
+	},
+	{
+		"no": 6,
+		"pacage": "android.adservices.adselection",
+		"explanation": "広告選択に使用",
+		"type": "広告",
+		"URL": "https://developer.android.com/reference/android/adservices/adselection/package-summary",
+		"icon": "https://media.istockphoto.com/id/1185351342/ja/%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E5%BA%83%E5%91%8A.jpg?s=1024x1024&w=is&k=20&c=YHvbfXFlTmNNkqSau6Jepgpyy9QVmr7Q49pfFa2xGzQ="
+	},
+	{
+		"no": 7,
+		"pacage": "android.adservices.appsetid",
+		"explanation": "広告セットID (Ad Set ID) の管理に使用",
+		"type": "広告",
+		"URL": "https://developer.android.com/reference/android/adservices/appsetid/package-summary",
+		"icon": "https://media.istockphoto.com/id/1185351342/ja/%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E5%BA%83%E5%91%8A.jpg?s=1024x1024&w=is&k=20&c=YHvbfXFlTmNNkqSau6Jepgpyy9QVmr7Q49pfFa2xGzQ="
+	},
+	{
+		"no": 8,
+		"pacage": "android.adservices.common",
+		"explanation": "広告関連の共通機能に使用",
+		"type": "広告",
+		"URL": "https://developer.android.com/reference/android/adservices/common/package-summary",
+		"icon": "https://media.istockphoto.com/id/1185351342/ja/%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E5%BA%83%E5%91%8A.jpg?s=1024x1024&w=is&k=20&c=YHvbfXFlTmNNkqSau6Jepgpyy9QVmr7Q49pfFa2xGzQ="
+	},
+	{
+		"no": 9,
+		"pacage": "android.adservices.customaudience",
+		"explanation": "カスタムオーディエンスの管理に使用",
+		"type": "広告",
+		"URL": "https://developer.android.com/reference/android/adservices/customaudience/package-summary",
+		"icon": "https://media.istockphoto.com/id/1185351342/ja/%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E5%BA%83%E5%91%8A.jpg?s=1024x1024&w=is&k=20&c=YHvbfXFlTmNNkqSau6Jepgpyy9QVmr7Q49pfFa2xGzQ="
+	},
+	{
+		"no": 10,
+		"pacage": "android.adservices.exceptions",
+		"explanation": "広告関連の例外処理に使用",
+		"type": "広告",
+		"URL": "https://developer.android.com/reference/android/adservices/exceptions/package-summary",
+		"icon": "https://media.istockphoto.com/id/1185351342/ja/%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E5%BA%83%E5%91%8A.jpg?s=1024x1024&w=is&k=20&c=YHvbfXFlTmNNkqSau6Jepgpyy9QVmr7Q49pfFa2xGzQ="
+	},
+	{
+		"no": 11,
+		"pacage": "android.adservices.measurement",
+		"explanation": "広告の測定とデータ分析に使用",
+		"type": "広告",
+		"URL": "https://developer.android.com/reference/android/adservices/measurement/package-summary",
+		"icon": "https://media.istockphoto.com/id/1185351342/ja/%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E5%BA%83%E5%91%8A.jpg?s=1024x1024&w=is&k=20&c=YHvbfXFlTmNNkqSau6Jepgpyy9QVmr7Q49pfFa2xGzQ="
+	},
+	{
+		"no": 12,
+		"pacage": "android.adservices.topics",
+		"explanation": "広告関連トピックとカテゴリの管理に使用",
+		"type": "広告",
+		"URL": "https://developer.android.com/reference/android/adservices/topics/package-summary",
+		"icon": "https://media.istockphoto.com/id/1185351342/ja/%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC/%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E5%BA%83%E5%91%8A.jpg?s=1024x1024&w=is&k=20&c=YHvbfXFlTmNNkqSau6Jepgpyy9QVmr7Q49pfFa2xGzQ="
+	},
+	{
+		"no": 197,
+		"pacage": "java.math",
+		"explanation": "数学操作に使用",
+		"type": "数学",
+		"URL": "https://developer.android.com/reference/java/math/package-summary",
+		"icon": ""
+	},
+	{
+		"no": 146,
+		"pacage": "android.telecom",
+		"explanation": "電話通信操作に使用",
+		"type": "通信",
+		"URL": "https://developer.android.com/reference/android/telecom/package-summary",
+		"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4VnamKEbZM0VaHa9joXrkRCyg7QQHSmWZQ&usqp=CAU"
+	},
+	{
+		"no": 147,
+		"pacage": "android.telephony",
+		"explanation": "電話通信操作に使用",
+		"type": "通信",
+		"URL": "https://developer.android.com/reference/android/telephony/package-summary",
+		"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4VnamKEbZM0VaHa9joXrkRCyg7QQHSmWZQ&usqp=CAU"
+	},
+	{
+		"no": 148,
+		"pacage": "android.telephony.cdma",
+		"explanation": "CDMA 電話通信操作に使用",
+		"type": "通信",
+		"URL": "https://developer.android.com/reference/android/telephony/cdma/package-summary",
+		"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4VnamKEbZM0VaHa9joXrkRCyg7QQHSmWZQ&usqp=CAU"
+	},
+	{
+		"no": 149,
+		"pacage": "android.telephony.data",
+		"explanation": "データ通信操作に使用",
+		"type": "通信",
+		"URL": "https://developer.android.com/reference/android/telephony/data/package-summary",
+		"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4VnamKEbZM0VaHa9joXrkRCyg7QQHSmWZQ&usqp=CAU"
+	},
+	{
+		"no": 150,
+		"pacage": "android.telephony.emergency",
+		"explanation": "緊急通報関連操作に使用",
+		"type": "通信",
+		"URL": "https://developer.android.com/reference/android/telephony/emergency/package-summary",
+		"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4VnamKEbZM0VaHa9joXrkRCyg7QQHSmWZQ&usqp=CAU"
+	},
+	{
+		"no": 151,
+		"pacage": "android.telephony.euicc",
+		"explanation": "eSIM 操作に使用",
+		"type": "通信",
+		"URL": "https://developer.android.com/reference/android/telephony/euicc/package-summary",
+		"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4VnamKEbZM0VaHa9joXrkRCyg7QQHSmWZQ&usqp=CAU"
+	},
+	{
+		"no": 152,
+		"pacage": "android.telephony.gsm",
+		"explanation": "GSM 電話通信操作に使用",
+		"type": "通信",
+		"URL": "https://developer.android.com/reference/android/telephony/gsm/package-summary",
+		"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4VnamKEbZM0VaHa9joXrkRCyg7QQHSmWZQ&usqp=CAU"
+	},
+	{
+		"no": 153,
+		"pacage": "android.telephony.ims",
+		"explanation": "IP マルチメディアサブシステム (IMS) 操作に使用",
+		"type": "通信",
+		"URL": "https://developer.android.com/reference/android/telephony/ims/package-summary",
+		"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4VnamKEbZM0VaHa9joXrkRCyg7QQHSmWZQ&usqp=CAU"
+	},
+	{
+		"no": 154,
+		"pacage": "android.telephony.ims.feature",
+		"explanation": "IMS 機能操作に使用",
+		"type": "通信",
+		"URL": "https://developer.android.com/reference/android/telephony/ims/feature/package-summary",
+		"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4VnamKEbZM0VaHa9joXrkRCyg7QQHSmWZQ&usqp=CAU"
+	},
+	{
+		"no": 155,
+		"pacage": "android.telephony.ims.stub",
+		"explanation": "IMS スタブ操作に使用",
+		"type": "通信",
+		"URL": "https://developer.android.com/reference/android/telephony/ims/stub/package-summary",
+		"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4VnamKEbZM0VaHa9joXrkRCyg7QQHSmWZQ&usqp=CAU"
+	},
+	{
+		"no": 156,
+		"pacage": "android.telephony.mbms",
+		"explanation": "マルチキャストビデオおよびデータ通信に使用",
+		"type": "通信",
+		"URL": "https://developer.android.com/reference/android/telephony/mbms/package-summary",
+		"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4VnamKEbZM0VaHa9joXrkRCyg7QQHSmWZQ&usqp=CAU"
+	},
+	{
+		"no": 214,
+		"pacage": "java.time",
+		"explanation": "日付および時間操作に使用",
+		"type": "日付と時間",
+		"URL": "https://developer.android.com/reference/java/time/package-summary",
+		"icon": "https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-clock-icon-png-image_4152707.jpg"
+	},
+	{
+		"no": 215,
+		"pacage": "java.time.chrono",
+		"explanation": "年代記の操作に使用",
+		"type": "日付と時間",
+		"URL": "https://developer.android.com/reference/java/time/chrono/package-summary",
+		"icon": "https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-clock-icon-png-image_4152707.jpg"
+	},
+	{
+		"no": 216,
+		"pacage": "java.time.format",
+		"explanation": "日付および時間のフォーマットに使用",
+		"type": "日付と時間",
+		"URL": "https://developer.android.com/reference/java/time/format/package-summary",
+		"icon": "https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-clock-icon-png-image_4152707.jpg"
+	},
+	{
+		"no": 217,
+		"pacage": "java.time.temporal",
+		"explanation": "日時オブジェクトの操作に使用",
+		"type": "日付と時間",
+		"URL": "https://developer.android.com/reference/java/time/temporal/package-summary",
+		"icon": "https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-clock-icon-png-image_4152707.jpg"
+	},
+	{
+		"no": 218,
+		"pacage": "java.time.zone",
+		"explanation": "タイムゾーン操作に使用",
+		"type": "日付と時間",
+		"URL": "https://developer.android.com/reference/java/time/zone/package-summary",
+		"icon": "https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-clock-icon-png-image_4152707.jpg"
+	},
+	{
+		"no": 190,
+		"pacage": "java.io",
+		"explanation": "入出力操作に使用",
+		"type": "I/O",
+		"URL": "https://developer.android.com/reference/java/io/package-summary",
+		"icon": "https://thumbs.dreamstime.com/b/input-process-output-26790097.jpg"
+	}
+]
