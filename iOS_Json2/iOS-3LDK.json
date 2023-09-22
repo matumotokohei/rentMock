@@ -1,0 +1,274 @@
+﻿{
+	"locations": [
+		{
+			"no": 1,
+			"country": "東京",
+			"line": "中央線",
+			"name": "高尾",
+			"latitude": 35.64223,
+			"longitude": 139.2818,
+			"rent": 8.2,
+			"color": "#32cd32"
+		},
+		{
+			"no": 2,
+			"country": "東京",
+			"line": "中央線",
+			"name": "八王子",
+			"latitude": 35.65564,
+			"longitude": 139.339,
+			"rent": 10,
+			"color": "#f0e68c"
+		},
+		{
+			"no": 3,
+			"country": "東京",
+			"line": "中央線",
+			"name": "西八王子",
+			"latitude": 35.65678,
+			"longitude": 139.3125,
+			"rent": 10.8,
+			"color": "#f0e68c"
+		},
+		{
+			"no": 4,
+			"country": "東京",
+			"line": "中央線",
+			"name": "日野",
+			"latitude": 35.67925,
+			"longitude": 139.394,
+			"rent": 12.2,
+			"color": "#ffff00"
+		},
+		{
+			"no": 5,
+			"country": "東京",
+			"line": "中央線",
+			"name": "立川",
+			"latitude": 35.6979,
+			"longitude": 139.414,
+			"rent": 14.5,
+			"color": "#ff4500"
+		},
+		{
+			"no": 6,
+			"country": "東京",
+			"line": "中央線",
+			"name": "豊田",
+			"latitude": 35.6595,
+			"longitude": 139.3815,
+			"rent": 14.65,
+			"color": "#ff4500"
+		},
+		{
+			"no": 7,
+			"country": "東京",
+			"line": "中央線",
+			"name": "国分寺",
+			"latitude": 35.70026,
+			"longitude": 139.4803,
+			"rent": 16.5,
+			"color": "#db7093"
+		},
+		{
+			"no": 8,
+			"country": "東京",
+			"line": "中央線",
+			"name": "武蔵小金井",
+			"latitude": 35.70135,
+			"longitude": 139.5065,
+			"rent": 17.5,
+			"color": "#c71585"
+		},
+		{
+			"no": 9,
+			"country": "東京",
+			"line": "中央線",
+			"name": "西国分寺",
+			"latitude": 35.69977,
+			"longitude": 139.4657,
+			"rent": 17.7,
+			"color": "#c71585"
+		},
+		{
+			"no": 10,
+			"country": "東京",
+			"line": "中央線",
+			"name": "東小金井",
+			"latitude": 35.70174,
+			"longitude": 139.5248,
+			"rent": 18,
+			"color": "#ff1493"
+		},
+		{
+			"no": 11,
+			"country": "東京",
+			"line": "中央線",
+			"name": "吉祥寺",
+			"latitude": 35.70211,
+			"longitude": 139.5805,
+			"rent": 18.7,
+			"color": "#ff1493"
+		},
+		{
+			"no": 12,
+			"country": "東京",
+			"line": "中央線",
+			"name": "三鷹",
+			"latitude": 35.70271,
+			"longitude": 139.5608,
+			"rent": 19,
+			"color": "#ff69b4"
+		},
+		{
+			"no": 13,
+			"country": "東京",
+			"line": "中央線",
+			"name": "武蔵境",
+			"latitude": 35.70216,
+			"longitude": 139.5447,
+			"rent": 19,
+			"color": "#ff69b4"
+		},
+		{
+			"no": 14,
+			"country": "東京",
+			"line": "中央線",
+			"name": "国立",
+			"latitude": 35.699,
+			"longitude": 139.4464,
+			"rent": 19.95,
+			"color": "#ffb6c1"
+		},
+		{
+			"no": 15,
+			"country": "東京",
+			"line": "中央線",
+			"name": "高円寺",
+			"latitude": 35.70539,
+			"longitude": 139.6499,
+			"rent": 21.2,
+			"color": "#e6e6fa"
+		},
+		{
+			"no": 16,
+			"country": "東京",
+			"line": "中央線",
+			"name": "中野",
+			"latitude": 35.70603,
+			"longitude": 139.6657,
+			"rent": 22.7,
+			"color": "#e6e6fa"
+		},
+		{
+			"no": 17,
+			"country": "東京",
+			"line": "中央線",
+			"name": "阿佐ケ谷",
+			"latitude": 35.70482,
+			"longitude": 139.6359,
+			"rent": 25,
+			"color": "#e6e6fa"
+		},
+		{
+			"no": 18,
+			"country": "東京",
+			"line": "中央線",
+			"name": "東中野",
+			"latitude": 35.70612,
+			"longitude": 139.6838,
+			"rent": 25.6,
+			"color": "#e6e6fa"
+		},
+		{
+			"no": 19,
+			"country": "東京",
+			"line": "中央線",
+			"name": "西荻窪",
+			"latitude": 35.70384,
+			"longitude": 139.5994,
+			"rent": 26,
+			"color": "#d8bfd8"
+		},
+		{
+			"no": 20,
+			"country": "東京",
+			"line": "中央線",
+			"name": "荻窪",
+			"latitude": 35.70463,
+			"longitude": 139.62,
+			"rent": 27,
+			"color": "#d8bfd8"
+		},
+		{
+			"no": 21,
+			"country": "東京",
+			"line": "中央線",
+			"name": "大久保",
+			"latitude": 35.70072,
+			"longitude": 139.6974,
+			"rent": 29.25,
+			"color": "#d8bfd8"
+		},
+		{
+			"no": 22,
+			"country": "東京",
+			"line": "中央線",
+			"name": "四ツ谷",
+			"latitude": 35.68601,
+			"longitude": 139.7307,
+			"rent": 30,
+			"color": "#d8bfd8"
+		},
+		{
+			"no": 23,
+			"country": "東京",
+			"line": "中央線",
+			"name": "新宿",
+			"latitude": 35.68845,
+			"longitude": 139.6986,
+			"rent": 30.75,
+			"color": "#d8bfd8"
+		},
+		{
+			"no": 24,
+			"country": "東京",
+			"line": "中央線",
+			"name": "市ケ谷",
+			"latitude": 35.69121,
+			"longitude": 139.7365,
+			"rent": 39,
+			"color": "#d8bfd8"
+		},
+		{
+			"no": 25,
+			"country": "東京",
+			"line": "中央線",
+			"name": "飯田橋",
+			"latitude": 35.70207,
+			"longitude": 139.745,
+			"rent": 42,
+			"color": "#d8bfd8"
+		},
+		{
+			"no": 26,
+			"country": "東京",
+			"line": "中央線",
+			"name": "代々木",
+			"latitude": 35.68304,
+			"longitude": 139.7021,
+			"rent": 42.35,
+			"color": "#d8bfd8"
+		},
+		{
+			"no": 27,
+			"country": "東京",
+			"line": "中央線",
+			"name": "千駄ケ谷",
+			"latitude": 35.68123,
+			"longitude": 139.7116,
+			"rent": 95,
+			"color": "#d8bfd8"
+		}
+	]
+}
