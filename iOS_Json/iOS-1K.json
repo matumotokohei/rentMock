@@ -11,6 +11,16 @@
 			"color": "#0000ff"
 		},
 		{
+			"id": 1,
+			"country": "朝鮮民主主義人民共和国",
+			"line": "アジア",
+			"name": "Pyongyang",
+			"latitude": 39.0392,
+			"longitude": 125.7625,
+			"rent": 11.108248,
+			"color": "#0000ff"
+		},
+		{
 			"id": 2,
 			"country": "ブルンジ",
 			"line": "アフリカ",
