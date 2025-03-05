@@ -49,6 +49,31 @@
 			"color70mOld": "#00bfff",
 			"color70mNew": "#40e0d0",
 			"colorHouse": "#1e90ff"
+		},
+		{
+			"id": 3,
+			"country": "日本",
+			"prefectures": "神奈川",
+			"line": "小田急線",
+			"name": "東海大学前",
+			"latitude": 35.373151,
+			"longitude": 139.271236,
+			"rent1K": 4.2,
+			"color1K": "#6495ed",
+			"rent1R": 3.57,
+			"rent1LDK": 6.3,
+			"rent2LDK": 8.82,
+			"rent3LDK": 12.6,
+			"rent70mOld": 3267.6,
+			"rent70mNew": 3780,
+			"rentHouse": 2520,
+			"color1R": "#0000ff",
+			"color1LDK": "#00bfff",
+			"color2LDK": "#32cd32",
+			"color3LDK": "#ffff00",
+			"color70mOld": "#40e0d0",
+			"color70mNew": "#32cd32",
+			"colorHouse": "#00bfff"
 		}
 	]
 }
